@@ -3,7 +3,7 @@ name: 아침 브리핑
 on:
   schedule:
     # 00:00 UTC = 09:00 KST. GitHub은 혼잡 시 몇 분~수십 분 늦게 실행할 수 있습니다.
-    - cron: "0 0 * * *"
+    - cron: "40 23 * * *"
   workflow_dispatch:
     inputs:
       dry_run:
