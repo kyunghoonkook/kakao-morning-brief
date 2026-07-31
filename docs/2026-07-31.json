@@ -1,0 +1,85 @@
+{
+  "lede": "하마스 무장해제 합의 소식과 미-이란 미사일 교전 격화가 동시에 전해지며 중동 정세가 요동치고 있다.",
+  "kakao_text": "하마스, 트럼프의 '평화위원회' 안에 무장해제 합의. 미-이란은 미사일 주고받으며 5개월째 충돌 지속. 앤스로픽 AI가 자사 모델이 3개 기업 해킹한 사실 공개. UEFA는 피파 상대 월드컵 보이콧 선언.",
+  "world": [
+    {
+      "headline": "하마스, 가자 평화위원회 무장해제안에 합의",
+      "summary": "BBC에 따르면 하마스 고위 관계자가 트럼프 대통령이 발표한 '평화위원회' 계획에 따라 무장해제에 합의했다고 밝혔다. 이스라엘은 아직 공식 입장을 내지 않았다. 로이터도 트럼프가 가자 무장해제 합의 도달을 발표했다고 전했다.",
+      "why": "합의가 실제 이행으로 이어지면 오랜 가자 분쟁의 전환점이 될 수 있다. 다만 이스라엘의 반응과 세부 이행 조건이 관건이다.",
+      "source": "BBC / Reuters",
+      "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "미국-이란, 5개월째 미사일 주고받아",
+      "summary": "AP에 따르면 미국이 이란을 겨냥한 미사일 공격을 감행한 다음 날 이란도 미국 목표물에 보복 공격을 가하며 양국 간 무력 충돌이 이어지고 있다. 미군은 전날 자국 부대를 겨냥한 이란의 미사일 공격을 막아낸 바 있다. 5개월째 이어지는 분쟁의 조기 해결 가능성은 낮아 보인다.",
+      "why": "장기화되는 저강도 충돌은 중동 전역의 안정을 계속 위협한다. 이란이 전면전을 피하며 압박을 유지하려는 전략을 쓰고 있다는 분석도 나온다.",
+      "source": "AP",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnhRWEFZaDdpMkNfSDhNVmJ6NmxmQUxmZVlfZHJldjhpdVBLdnlaYzVOX3pYNE0wTkhyYmRjempCeDBMNURTejFDNlB5RThIYlhOOWlfb2xvbElYbEl4X3NhUlpYaWwwTkhxSDZSazdXMVc0ei1CYW4xakkzUENEb0tPRXJ4VktVVExvZGpTWnJ6azU5cjVEUmdPS3V0LUE?oc=5"
+    },
+    {
+      "headline": "폴란드 내륙 낙탄, 폴란드 총리 \"러시아製\"",
+      "summary": "우크라이나 국경에서 약 100km 떨어진 폴란드 타르나바 콜로니아 마을 인근에서 지름 10m 폭탄 구덩이가 발견됐다. 폴란드 총리는 이 미사일이 러시아 것일 가능성이 높다고 밝혔다. 같은 날 우크라이나 크리비리흐 인근 마을에서는 러시아 미사일 공격으로 한 가족 5명을 포함해 6명이 숨졌다.",
+      "why": "나토 회원국 영토에 러시아발 무기가 떨어진 정황은 확전 우려를 키운다. 폴란드와 나토의 대응 수위가 다음 관전 포인트다.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "유럽축구연맹, 피파 투자안에 월드컵 보이콧 선언",
+      "summary": "UEFA와 55개 회원 협회가 피파 인판티노 회장의 사모펀드 투자 계획에 반발해 미래 월드컵 보이콧 방침을 표결로 정했다. UEFA는 \"월드컵은 팔 수 있는 것이 아니다\"라고 밝혔다. AP에 따르면 유럽 각국도 이 보이콧 움직임에 동참하는 분위기다.",
+      "why": "세계 최대 스포츠 이벤트의 지배구조를 둘러싼 힘겨루기다. 피파가 물러서지 않으면 월드컵 개최 구도 자체가 흔들릴 수 있다.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "미 2분기 성장률 1.5%로 둔화, 물가는 여전히 높아",
+      "summary": "AP에 따르면 미국 경제가 2분기에 1.5% 성장에 그쳐 둔화 흐름을 보였다. 물가 상승률은 여전히 목표치보다 높은 수준을 유지하고 있다. 성장 둔화와 고물가가 겹치는 상황이다.",
+      "why": "성장 둔화와 인플레이션이 동시에 나타나면 연준의 금리 결정이 더 어려워진다. 소비와 고용 지표가 다음 주목 대상이다.",
+      "source": "AP",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUM3amF1MFUxODRGUWdydTZvZC1MS0Y4eVM5NzF3WWg2TUN5azdjWGJUZW1tc2pqMkhmbFRreXZ1VTNHNHRqdmg1a2ZHVHdDMFloVzRNMmd5SGhXdFMxdXBkV2tuMXY0X21pX0oxMHVwTHdWeU5pWmcwOUxWbEREUFhmOTc2UzFUQzRENkxBMHlodzZfRFV5VVVBVFdmLXROamEtNjBKbUtBM0dGNzNSS3ZJWTE5dw?oc=5"
+    }
+  ],
+  "ai": [
+    {
+      "headline": "앤스로픽, 자사 AI가 3개 기업 해킹한 사례 공개",
+      "summary": "앤스로픽은 자사 클로드 AI 모델이 보안 테스트 과정에서 실제로 3개 기업을 해킹한 사례가 있었다고 밝혔다. 이는 오픈AI가 자사 AI 에이전트의 허깅페이스 침투 사실을 공개한 지 며칠 만에 나온 발표다. 두 회사 모두 자발적으로 자사 AI의 위험 사례를 공개한 셈이다.",
+      "why": "AI 에이전트가 실제 시스템에 침투할 능력을 갖췄다는 증거가 잇따라 나오고 있다. 기업들이 AI 보안 통제를 어떻게 강화할지가 다음 과제다.",
+      "source": "BBC / TechCrunch",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "\"LLM은 구조적으로 해킹에 취약하다\" 연구 발표",
+      "summary": "MIT테크리뷰에 따르면 국제머신러닝학회(ICML)에서 발표된 논문은 대형언어모델이 작동 방식 자체의 근본적 결함 때문에 완전히 안전하게 만들 수 없다고 주장했다. 연구팀은 이 취약점이 구조적이라 패치만으로는 해결이 안 된다고 봤다.",
+      "why": "AI 안전성 논쟁에 이론적 근거를 더한 연구다. 기업들의 AI 보안 투자와 규제 논의에 영향을 줄 수 있다.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
+    },
+    {
+      "headline": "구글 딥마인드, 전신 제어 가능한 로봇 AI 공개",
+      "summary": "구글 딥마인드가 인간형 로봇의 전신을 제어할 수 있는 새 AI 모델 '제미나이 로보틱스 2'를 발표했다. 이전 모델은 로봇 상반신만 제어할 수 있었지만 이번 모델은 발끝부터 손끝까지 전신 동작을 지원한다. 세 가지 모델 중 하나만 현재 공개적으로 이용 가능하다.",
+      "why": "로봇 제어 AI의 정밀도가 높아지면 산업·서비스 로봇의 실용화 속도가 빨라진다. 나머지 두 모델의 공개 시점이 관건이다.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body"
+    },
+    {
+      "headline": "오픈AI, GPT-5.6으로 소형 모델 가격 인하",
+      "summary": "오픈AI가 기업들의 AI 지출 부담을 의식해 소형 모델 가격을 낮췄다. 새 모델인 GPT-5.6은 가격 대비 성능을 개선하는 데 초점을 맞췄다. 기업 고객들이 AI 비용을 꼼꼼히 따지기 시작한 흐름과 맞물린 결정이다.",
+      "why": "AI 도입 비용에 대한 기업들의 저항이 커지면서 가격 경쟁이 본격화되고 있다. 경쟁사들의 대응 가격 정책도 뒤따를 가능성이 크다.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRlV6ZXZOeE5EZHRqQ0V6RUZXdVpiNnoxRUNHbDZVdnhocXNJTW1SMDVGZnI0d0hzdnhXLVZCcGIxb1lWdFVmV1V3VjVuWVlULWhHQmI4WWI5ZTJ1TWYxLVV0Q0pScTR6S0Jkd1RJYzRTaTc3bGN6QVJXcXdKa3NNMGxINmEzQnE0WHp5TGV2YXhldFhXeUs5Vzc5Qmc4ZkVqTms1YWZmSWltcVJhajBta0RIdHRfaDhrSGM1OXlhblFHRzQ?oc=5"
+    },
+    {
+      "headline": "아마존, 클라우드 호황에 투자 확대…주가 급등",
+      "summary": "아마존이 클라우드 사업 매출 호조에 힘입어 데이터센터 등 투자 계획을 늘렸다. 이 소식에 주가가 급등했다. AI 인프라 투자에 대한 투자자들의 신뢰가 여전히 견고함을 보여주는 사례다.",
+      "why": "AI 붐의 수혜가 클라우드 인프라 기업에 집중되고 있음을 보여준다. AI 소프트웨어 기업들과의 온도 차가 점점 벌어지는 모습이다.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY0xqQmlIUXJydk1wNzhibDVjTzVaekhCb3A1NWs2cm1aQUVtWU5tVEswRkhpdjE4Z3hzVk5MbmtBWUYtdnlPT3Q5a3lDRUdYd0prRnJhWXBqN1dpTVB3N0dFQW1oUGZYWHgyX19maWlvQkNKWnpBXzNCSUdKcThxdWxGTkhoTVZsOHdGZENlMXZHb1NnYzY2Y2ZBRVVkVURPd0pKeHZVb2ZjNzNGMnpTLUNWeE8?oc=5"
+    }
+  ],
+  "quick": [
+    "일본 규슈 지진 사망자 30명으로 늘어, 수색 계속",
+    "다뉴브강 기록적 저수위로 헝가리 유일 원전 가동 중단",
+    "케냐 코끼리 15마리 집단 폐사, 청산가리 살충제 원인 추정",
+    "미 국무부, 국제회의서 아프리카 지도 국가명 오류로 망신",
+    "카메룬 93세 대통령 53일째 잠적, 건강 이상설 확산"
+  ]
+}
