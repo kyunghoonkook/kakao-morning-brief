@@ -1,0 +1,85 @@
+{
+  "lede": "세우타 이주민 사망 72명 급증, 가자 공습 재개, 한국은 역대 최고기온 42.5도 경신",
+  "kakao_text": "스페인령 세우타 이주민 사망자 72명으로 늘고, 가자지구는 하마스 무장해제 합의에도 이스라엘 공습으로 13명 사망. 한국은 양산 42.5도로 역대 최고기온 경신, 실외활동 자제 경보 발령.",
+  "world": [
+    {
+      "headline": "세우타 이주민 유입 사망자 72명으로 급증",
+      "summary": "이번 주 5만명 넘는 모로코인이 스페인령 세우타로 진입했고, 이 과정에서 사망자가 72명으로 집계됐다. 이주민 대부분은 이미 세우타를 떠났고, 남은 지역은 후유증 수습에 나섰다. 소셜미디어가 대규모 이동 소식을 빠르게 퍼뜨리며 사태를 키웠다는 분석도 나온다.",
+      "why": "유럽 내 이주 정책을 둘러싼 정치적 갈등이 다시 표면화됐다. EU 차원의 대응책 마련 여부가 다음 관심사다.",
+      "source": "BBC World / Reuters / AP",
+      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "하마스 무장해제 합의에도 가자지구 공습 계속",
+      "summary": "이스라엘군이 가자시티, 칸유니스, 데이르알발라를 공습해 최소 13명이 숨졌다. 이스라엘 측은 군사 요원을 표적으로 삼았다고 밝혔다. 이는 하마스가 무장해제 합의에 동의한 직후 벌어진 일이다.",
+      "why": "휴전 협상이 진행되는 와중에도 폭력이 멈추지 않고 있다. 합의가 실제로 지켜질 수 있을지가 다음 관전 포인트다.",
+      "source": "BBC World / AP",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "트럼프, 이란과 합의 조건부로 공습 보류",
+      "summary": "트럼프 대통령은 이란 등 중동 국가들이 공격 중단을 요청했다며, 합의의 '윤곽'이 잡혔다고 주장했다. 그는 신속한 합의 체결을 조건으로 이란에 대한 공습을 취소한다고 밝혔다.",
+      "why": "중동 확전 우려가 잠시 누그러졌지만, 합의가 불발되면 언제든 상황이 되돌아갈 수 있다. 실제 이행 여부가 관건이다.",
+      "source": "BBC World / AP",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "한국, 양산 42.5도로 역대 최고기온 경신",
+      "summary": "기상청 집계 이래 가장 높은 기온이 기록됐다. 경남 양산은 일요일 오후 42.5도까지 치솟았고, 40도 이상 폭염이 닷새째 이어지고 있다. 당국은 냉방 없는 실내도 위험하다며 즉시 실외활동을 멈추라고 경고했다.",
+      "why": "기후변화로 인한 극한 폭염이 더 이상 예외적 현상이 아니게 됐다. 온열질환 대응 체계 정비가 시급한 과제로 떠올랐다.",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/03/south-korea-highest-temperature"
+    },
+    {
+      "headline": "파키스탄 눈사태로 실종 등반가 10명 전원 사망",
+      "summary": "세계 14좌를 7개월 만에 완등한 것으로 유명한 산악인 니르말 푸르자를 포함한 등반대가 눈사태에 휩쓸려 실종됐다. 이후 수색 작업 끝에 시신이 수습됐고, 실종자 10명 전원의 사망이 확인됐다.",
+      "why": "고산 등반의 위험성이 다시 조명받고 있다. 기후변화로 인한 눈사태 빈도 증가 우려도 함께 제기된다.",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQUliYnNTNW9Pdm9nd3MwRWpIYmxNX3JBTGg5VUpEQlpvWnRnWnRhSEQwcWhZMmRkU3A4TndHNC14b3lZbGhpeTR5cVEzTlpPeHR1TFo4RUNBaWVmTDJvTXNyVFdhN3RydkhFaFl3RFg3ZUJCNzMzeGExbmN1SnF2UTk2VzRjaWQteVlpZXNnNG1FamMxejRSWEpYci0wUnpubXVzNDE1TTVEMW1pcUpJTw?oc=5"
+    }
+  ],
+  "ai": [
+    {
+      "headline": "올트먼, AI 개발 속도 조절론 꺼내들다",
+      "summary": "샘 올트먼이 AI 산업 전반에 개발 속도를 늦추자는 취지의 발언을 내놓아 업계 논쟁을 촉발했다. 테크크런치 팟캐스트 Equity가 이 발언의 배경과 파장을 다뤘다.",
+      "why": "최전선 기업 수장의 속도조절 발언은 안전과 경쟁 사이의 오래된 논쟁을 다시 불붙인다. 규제 논의에도 영향을 줄 수 있다.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/"
+    },
+    {
+      "headline": "법원, xAI 소송 기각…'누드화 앱' 금지 유지",
+      "summary": "미네소타주가 이미지를 나체로 합성하는 '누드화' 앱을 금지하는 법을 제정하자 xAI가 소송을 제기했다. 법원은 이 소송을 기각해 금지법은 그대로 시행된다.",
+      "why": "생성형 AI 악용 규제가 주 단위 법정에서 인정받은 사례다. 다른 주의 유사 입법 움직임에 참고가 될 전망이다.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+    },
+    {
+      "headline": "유튜버 행크 그린 'AI 사용, 건강하지 않다' 고백",
+      "summary": "유명 유튜버 행크 그린이 자신이 LLM과 상호작용하며 얻는 도파민 수준이 자신과 세상에 좋지 않다고 인정하는 이례적인 자기고백을 내놓았다.",
+      "why": "대중적 인플루언서의 고백은 AI 과의존 문제에 대한 사회적 경각심을 높이는 계기가 된다.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+    },
+    {
+      "headline": "월가 뒤흔든 20대 'AI 천재'의 몰락, 3조달러 증발",
+      "summary": "보도에 따르면 월가에서 화제였던 20대 AI 관련 인물을 둘러싼 사건으로 시장에서 3조달러 규모의 대폭락이 벌어졌다. 사태의 내막이 뒤늦게 알려지고 있다.",
+      "why": "AI 기대감이 시장 밸류에이션에 얼마나 크게 반영돼 있는지 보여주는 사례다. 향후 AI 관련 주식의 변동성 우려가 커질 수 있다.",
+      "source": "AI타임스 (Google 뉴스)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BUnhxaDY5UTZIa1oyVDVvVmV6MjE0UmlZQTQ0akVvTjNub2VxbWtjNXZqQmd1Sk9sS2gxVW1yRHRNd3phVzh1V1o0c0VqakNjMDV2X01KZ2t6eGV1NXVtalNXQ2xCTHZNTUE?oc=5"
+    },
+    {
+      "headline": "예술가에 로열티 지급, AI 학습 반발 잠재울까",
+      "summary": "삽화가 등 예술가들은 생성형 AI가 자신들의 작품을 무단 학습한다며 오랫동안 문제를 제기해왔다. 이에 로열티 지급 방안이 대안으로 논의되고 있지만, 법적 다툼은 여전히 진행 중이다.",
+      "why": "창작자 보상 모델이 AI 데이터 학습의 새로운 표준이 될 수 있을지 시험대에 올랐다.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties"
+    }
+  ],
+  "quick": [
+    "아이다호 총격범, 자해로 사망…3명 사망·7명 부상 확인",
+    "파키스탄 경찰서 자살폭탄 테러, 최소 14명 사망",
+    "모스크바 식당서 폭탄테러, 3명 사망…여성 용의자 저지당해",
+    "나이지리아 마을 총격, 12명 사망·여성과 아이들 납치",
+    "그리스 소방헬기 충돌로 2명 사망, 산불 진화 중 발생"
+  ]
+}
