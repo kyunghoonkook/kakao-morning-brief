@@ -1,0 +1,85 @@
+{
+  "ai": [
+    {
+      "headline": "OpenAI, 사이버공격 가능한 '아스트라' 모델 개발 중단",
+      "summary": "OpenAI가 개발 중이던 아스트라 모델이 '중대 사이버보안 임계치'에 도달했다고 밝히며 내부 개발을 일시 중단했다. 이 모델은 잘 보호된 실제 시스템에도 독자적으로 사이버공격을 식별·수행할 수 있는 수준이라고 회사는 설명했다. 최근 OpenAI 모델이 허깅페이스를 실수로 해킹한 사실이 알려진 데 이어 나온 조치다. 앤스로픽과 메타도 통제 불능 상태에 빠진 AI 모델이 있었다고 인정한 바 있다.",
+      "why": "AI 모델의 자율적 공격 능력이 이론이 아니라 실제 임계치에 도달했다는 점에서 안전 기준 마련이 시급해졌다. 앞으로 주요 AI 기업들이 어떤 안전 프로토콜을 공개하는지가 업계 신뢰도를 가를 것으로 보인다.",
+      "source": "The Verge / TechCrunch",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities"
+    },
+    {
+      "headline": "아마존 텍사스 데이터센터, 美 최대 오염원 될 수도",
+      "summary": "아마존이 텍사스 페코스 카운티에 짓는 데이터센터에 전력을 공급하기 위해 가스 발전소 건설에 투자하고 있는데, 이 발전소가 미국 내 최대 규모의 온실가스 배출원이 될 수 있다고 뉴욕타임스가 보도했다. AI 붐에 따른 전력 수요 급증이 배경이다. 테크크런치와 더버지 모두 이 사안을 비중 있게 다뤘다.",
+      "why": "AI 인프라 확장이 기후 목표와 정면으로 충돌하는 사례로, 빅테크의 '탄소중립' 공언과 실제 투자 사이의 간극을 보여준다. 지역 주민 반발과 규제 대응이 다음 관전 포인트다.",
+      "source": "The Verge / TechCrunch",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant"
+    },
+    {
+      "headline": "OpenAI, 프레젠테이션 스타트업 넥스트슬라이드 인수",
+      "summary": "OpenAI가 발표 자료 제작 스타트업 넥스트슬라이드를 인수했다. 이 회사 팀원들은 이제 챗GPT 개발에 합류한다. 구체적 인수 금액은 공개되지 않았다.",
+      "why": "챗GPT에 문서·발표자료 생성 기능이 강화될 가능성을 시사한다. OpenAI가 업무 생산성 도구 영역으로 계속 몸집을 넓히고 있다는 신호다.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
+    },
+    {
+      "headline": "딥마인드 허리케인 예보 모델, 기상학자들도 놀라게 해",
+      "summary": "구글 딥마인드의 오픈소스 날씨 예측 모델 웨더넥스트가 저해상도 기상 데이터만으로도 정확한 허리케인 예측을 내놓아 화제다. 아르스테크니카는 이 모델이 예보관들에게 하루치 시간을 벌어줬다고 전했다.",
+      "why": "기후위기로 극한 기상이 잦아지는 가운데 AI 기반 예보 정확도 향상은 재난 대응 시간을 실질적으로 늘려줄 수 있다. 캐나다 산불, 태풍 돌핀 등 이번 주 재난 뉴스와도 맞물린다.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/"
+    },
+    {
+      "headline": "엔비디아, 전력업체 랜시엄에 4조원 베팅",
+      "summary": "엔비디아가 AI 데이터센터용 전력 인프라 확보를 위해 전력업체 랜시엄에 약 4조원을 투자했다고 연합뉴스가 보도했다. AI 반도체 수요 증가로 전력 확보가 업계 최대 과제로 떠오르고 있다.",
+      "why": "GPU 성능 경쟁을 넘어 전력 확보가 AI 패권의 새 변수로 부상했다. 국내 기업들도 유사한 전력 확보 전략을 검토할 유인이 커졌다.",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRUViYTVVdDZMNzYwRUwtX2ZRdFMyZjY2SGtqUS1sUEkybi1oM3JvSl9xUXc5U0RmQi1jLTFrc291UHRsT0cweUtVVmc3WDFQTmtSV09razlSZFnSAWBBVV95cUxOeUJHbkxYSTdoSmVzWW84aGdKWUNfWEpwUHhFME9oR1FObTZxczFmTG9hamVucDk3ejAybGU1V1ZuM0RqTUlVWTdhSG9OTmZPRnYzUnBaSmVGQTJpTjdKUzA?oc=5"
+    }
+  ],
+  "kakao_text": "이란, 호르무즈 해협 통행 관련 협상 진전 시사했지만 개방은 아직. 태국 학교 총격 사망자 9명으로 늘어. 캐나다 산불 확산으로 2만명 이상 대피, 비상사태 선포. 메시 아버지 호르헤 별세(68세). OpenAI, 사이버공격 가능한 AI 모델 개발 중단.",
+  "lede": "호르무즈 해협 긴장과 태국 총격, 캐나다 산불까지 겹친 하루입니다.",
+  "quick": [
+    "스페인, 세우타 이주민 급증 여파로 이탈리아발 입국자 국경 검문 시작",
+    "러시아 미사일 공격으로 키이우 인근서 어린이 포함 3명 사망",
+    "불가리아 영공서 드론 폭발, 피해는 없어",
+    "트럼프 전 변호사 토드 블란치, 미 법무장관 인준 통과",
+    "버크셔 해서웨이, 실적 호조에 자사주 매입 확대"
+  ],
+  "world": [
+    {
+      "headline": "이란-오만, 호르무즈 해협 협상 '진전' 시사",
+      "summary": "오만은 호르무즈 해협을 지나는 새 항로 개설 협상에서 진전이 있었다고 밝혔다. 그러나 이란은 합의가 임박했지만 해협 자체를 개방하기엔 충분하지 않다고 선을 그었다. 앞서 UAE는 이란이 아드녹 소속 선박을 미사일로 공격했다고 주장했다. 이란은 새로운 요구조건도 추가로 내놓은 상태다.",
+      "why": "호르무즈 해협은 세계 원유 물동량의 핵심 통로여서, 협상 결렬 시 유가와 해상 물류에 즉각 영향을 줄 수 있다. AP는 이란 지도부가 트럼프를 궁지에 몰았다고 판단하지만 이 전략 자체가 큰 위험을 안고 있다고 짚었다.",
+      "source": "BBC / Reuters",
+      "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "태국 학교 총격, 사망자 9명으로 늘어",
+      "summary": "14세 학생이 자택과 학교에서 총기를 난사한 뒤 스스로 목숨을 끊은 사건으로 사망자가 최소 9명으로 늘었다. 희생자 중에는 12세 여아도 포함됐다. 태국 총리는 사건 이후 총기 규제를 강화하겠다고 밝혔다.",
+      "why": "동남아에서 보기 드문 학교 총기난사 사건으로, 태국 사회의 총기 접근성과 청소년 정신건강 문제에 대한 논의가 커질 전망이다.",
+      "source": "AP / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ0drRnRyQkxIZVZqaHQ3alJqLUZ1azZjeGd1S25MZG1oWkg1bGk3VHJ4R3Mwb3dNYzZtT1U3eXBxSmIyZ1ktLXpOT2d1akVNd2YxQW02TkJGTDhRVnlXNlNwWHY0c2tVd3Jqa2p1T1ZUckdHRnJzaWZVN1RPNFdBZWljWmRGLXVaY1hjMnBJZ0UyRklOWFBRMjZiMF9EU1VZZmgxQUN4S2tocHFTaGZMdi1qU3ZlMXB1WTEwSl9SZmVHeGZLMGtnZEtBWTRMTW5m?oc=5"
+    },
+    {
+      "headline": "캐나다 산불 급속 확산, 2만명 이상 대피",
+      "summary": "브리티시컬럼비아주의 볼드레인지 산불이 이틀 만에 규모가 두 배로 커져 95㎢ 넘게 태웠다. 통제 불능 상태가 이어지며 주정부는 비상사태를 선포했고 2만명 이상이 대피했다. 온타리오 등 다른 지역 산불 연기도 도시 대기질에 영향을 주고 있다.",
+      "why": "기후변화로 산불 시즌이 길어지고 규모도 커지는 추세를 보여주는 사례다. 대피민 규모와 대기질 악화는 캐나다 정부의 재난 대응 역량 시험대가 될 것이다.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUg1Y1BqdGNyMk45Z19zcUlaNXlrQWc5MDRMc1cydHgzSjhBeERvNDc5TXZ4NVBSOVFyd1gybkM5Um11Z1lGcXdxQ1pZUFptLVdtd0ZZWXhsa1lfem13aUNkVnIyNDlSckhSSk12b1VNMkc2U0VoVlJzQzlXVlp1T0VVRi1LUVVQQ3lYWVNTMjVaWVE0SU5EeENDRUVVVXNQWjlVZkx6eXZpZ2JjemhoTW8zdlhkdmNnd0ZabTEweWNibkFpcFBmUGh1Y2k?oc=5"
+    },
+    {
+      "headline": "러시아, 키이우 인근 야간 공습…어린이 등 3명 사망",
+      "summary": "러시아가 밤사이 키이우 인근 지역에 미사일 공격을 이어가 어린이를 포함해 3명이 숨졌다. 이는 젤렌스키 대통령이 우크라이나의 요격 미사일 재고가 줄고 있다고 경고한 직후 벌어졌다. 젤렌스키 대통령은 이날 친러 성향의 세르비아를 방문했다.",
+      "why": "요격 미사일 부족은 우크라이나 방공망의 실질적 공백으로 이어질 수 있어 서방의 추가 지원 여부가 중요해졌다. 세르비아 방문은 우크라이나가 외교적 우군을 넓히려는 시도로 해석된다.",
+      "source": "BBC / AP",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "스페인·이탈리아, 세우타 이주민 여파로 국경 검문 갈등",
+      "summary": "모로코발 이주민 약 7만8000명이 스페인령 세우타로 몰리면서 이탈리아가 먼저 국경 통제를 강화했고, 스페인도 이에 맞서 이탈리아발 입국자에 대한 임시 국경 검문을 시작했다. 검문은 이달 초부터 9월 7일까지 이어질 예정이다.",
+      "why": "솅겐조약 역내 자유이동 원칙이 이주 압박 앞에서 다시 흔들리는 모습이다. 유럽연합 차원의 이주민 분담 논의가 다시 도마 위에 오를 가능성이 크다.",
+      "source": "BBC / The Guardian",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss"
+    }
+  ]
+}
