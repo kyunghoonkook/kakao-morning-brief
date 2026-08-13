@@ -79,6 +79,26 @@ def _pack(items, limit=45):
     return "\n".join(lines) if lines else "(없음)"
 
 
+def _validate_shape(data):
+    """world/ai가 진짜 '딕셔너리들의 리스트'인지 확인합니다.
+
+    모델이 tool_use 스키마를 어기고 문자열이나 잘못된 형태를 넣는 경우가
+    가끔 있는데, 이걸 그대로 넘기면 render.py에서
+    'str' object has no attribute 'get' 같은 크래시로 이어집니다.
+    여기서 미리 잡아서 재시도하도록 만듭니다.
+    """
+    problems = []
+    for key in ("world", "ai"):
+        value = data.get(key)
+        if not isinstance(value, list):
+            problems.append(f"{key}={type(value).__name__} (배열 아님)")
+            continue
+        bad = [type(x).__name__ for x in value if not isinstance(x, dict)]
+        if bad:
+            problems.append(f"{key} 안에 dict가 아닌 항목 {len(bad)}개 ({bad[:3]})")
+    return problems
+
+
 def summarize(bundle, date_label):
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 
@@ -118,12 +138,23 @@ def summarize(bundle, date_label):
             continue
 
         data = next((b.input for b in response.content if b.type == "tool_use"), None)
-        if data:
-            break
+        if not data:
+            last_error = f"도구 호출이 없었습니다. stop_reason={response.stop_reason}"
+            print(f"  재시도 ({attempt}회): {last_error}")
+            continue
 
-        last_error = f"도구 호출이 없었습니다. stop_reason={response.stop_reason}"
-        print(f"  재시도 ({attempt}회): {last_error}")
+        problems = _validate_shape(data)
+        if problems:
+            last_error = "world/ai 형태가 스키마를 벗어났습니다: " + "; ".join(problems)
+            print(f"  재시도 ({attempt}회): {last_error}")
+            data = None
+            continue
+
+        break
     else:
+        raise RuntimeError(f"브리핑 생성에 실패했습니다: {last_error}")
+
+    if data is None:
         raise RuntimeError(f"브리핑 생성에 실패했습니다: {last_error}")
 
     data.setdefault("quick", [])
