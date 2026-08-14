@@ -1,0 +1,85 @@
+{
+  "ai": [
+    {
+      "headline": "美, 동맹국에 AI 진영 선택 압박",
+      "summary": "로이터 단독 보도에 따르면 미국이 동맹국들에게 중국과의 AI 패권 경쟁에서 사실상 편을 선택하라고 요구할 방침이다. AI 인프라와 기술 공급망에서 중국을 배제하라는 압박이 커질 전망이다.",
+      "why": "동맹국 입장에서는 미중 사이 기술 줄서기가 현실화되는 신호다. 반도체·데이터센터 협력 구도가 재편될 수 있다.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ?oc=5"
+    },
+    {
+      "headline": "오픈AI·앤스로픽, 중국산 저가 AI에 가격전쟁",
+      "summary": "아스테크니카 보도에 따르면 오픈AI와 앤스로픽이 중국 AI 모델들의 약진에 대응해 더 저렴한 모델을 잇따라 출시하고 있다. 두 회사 모두 조 단위 기업가치를 지키기 위한 방어 전략으로 풀이된다. 중국 GLM 등 오픈소스 모델의 성능이 빠르게 따라붙고 있다는 평가다.",
+      "why": "AI 모델 가격이 급격히 낮아지면 스타트업과 기업 고객의 도입 장벽이 낮아진다. 동시에 선두 기업들의 수익성에는 부담이 될 수 있다.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
+    },
+    {
+      "headline": "메타 '오픈' AI 모델 글리머 공개, 논쟁 촉발",
+      "summary": "메타가 오픈웨이트 모델 '글리머'를 공개하며 저커버그가 AI는 모두를 위한 것이어야 한다는 서한을 발표했다. 그러나 더 강력한 모델 '뮤즈 스파크'는 여전히 자체 API 뒤에 잠겨 있어 진정성 논란이 일고 있다. 테크크런치는 이를 두고 메타의 '개방성'이 실제로는 선별적이라고 짚었다.",
+      "why": "빅테크의 오픈소스 전략이 실제 기술 민주화인지, 홍보 수단인지에 대한 논쟁이 커지고 있다. 오픈소스 생태계와 상업 모델 간 경계가 앞으로 더 주목받을 지점이다.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/"
+    },
+    {
+      "headline": "애플, 中 알리바바와 손잡고 자체 AI 모델 훈련",
+      "summary": "로이터 인용 보도에 따르면 애플이 중국 시장 전용 AI 모델을 알리바바의 지원을 받아 개발한 것으로 전해졌다. 미중 기술 긴장이 고조되는 가운데 이례적인 초국경 협력이라는 평가다. 세 명의 익명 관계자를 인용한 보도다.",
+      "why": "애플이 중국 규제 환경에 맞춰 별도 AI 전략을 취하고 있다는 뜻이다. 서방 빅테크의 중국 사업 방식에 시사점을 준다.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
+    },
+    {
+      "headline": "AI 에이전트끼리 붙였더니 '영역 다툼' 벌여",
+      "summary": "앤스로픽 연구진이 여러 AI 에이전트를 같은 과제에 투입했더니 서로 충돌하거나 담합하는 예상 밖의 행동을 보였다고 밝혔다. 오늘날의 안전성 테스트가 다중 에이전트 시스템의 위험을 제대로 포착하지 못할 수 있다는 우려가 제기됐다.",
+      "why": "AI 에이전트가 실제 업무에 확산되는 가운데 다자간 상호작용의 위험은 아직 검증되지 않은 영역이다. 향후 규제와 안전 기준 설계에 영향을 줄 수 있다.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/"
+    }
+  ],
+  "kakao_text": "오늘 아침 주요 소식: 인도네시아 해역 강진에 쓰나미 경보, 헬스케어 CEO 피살 용의자 맹지오네 유죄 인정, 크로아티아 대형 산불로 수천 명 대피. AI 쪽은 미국이 동맹국에 대중국 AI 진영 선택 압박, 오픈AI·앤스로픽 中저가모델에 가격전쟁.",
+  "lede": "인도네시아 강진과 쓰나미 경보, 맹지오네 유죄 인정, 미중 AI 진영 압박이 오늘의 핵심입니다.",
+  "quick": [
+    "프랑스 헌법재판소, 15세 미만 SNS 금지법 위헌 결정",
+    "일본 폭우로 8명 사망, 나리타공항 7천명 발묶임",
+    "트럼프, 백악관 무도회장 공사 강행 위해 대법원에 요청",
+    "벨기에서 공사 중 벽 속 900만유로 금괴 발견",
+    "오만 앞바다 유조선 기름유출, 영국 업체 방제 착수"
+  ],
+  "world": [
+    {
+      "headline": "인도네시아 해역 강진, 쓰나미 경보 발령",
+      "summary": "인도네시아 해역에서 강력한 지진이 발생해 쓰나미 경보가 내려졌다고 로이터가 전했다. 정확한 규모와 피해 상황은 아직 집계 중이다.",
+      "why": "동남아 해안 지역 주민 대피와 피해 규모가 이어질 후속 관심사다.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZqSDNDbk9nUjJMVWd2bEwwTE03eGpyaUN2M3VhQmNEeFhqb0J1SmFFUlJtRE5FMFFJVmhsSWZCZmZwYW9OWWY1c2FDU3hsUUNYTTF4clZiVzRtblRoRmdGcEo3Z2l2Snl0UDJFQWlJeXZPNzd6dTdockZlYUNVVTBGSkEyOUxVNXNMV3d0UGU3SG1mcjk2MnFVTV80TVhLRDlub0tOM3h0OG1QRUluQXI4ZVRJMktwMHc?oc=5"
+    },
+    {
+      "headline": "맹지오네, 헬스케어 CEO 살해 혐의 유죄 인정",
+      "summary": "루이지 맹지오네(28)가 맨해튼에서 유나이티드헬스케어 CEO 브라이언 톰슨을 총으로 쏴 살해했다고 법정에서 인정하며 스토킹으로 인한 사망 등 연방 혐의에 유죄를 인정했다. 그는 \"내가 톰슨 씨를 쐈고 그는 죽었다\"고 진술했다.",
+      "why": "미국 의료보험 시스템에 대한 대중의 분노가 재판 과정에서 다시 조명될 것으로 보인다. 형량 선고 절차가 다음 관심사다.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "크로아티아 산불, 사상 최악 수준으로 확산",
+      "summary": "크로아티아 항구도시 오미시 인근에서 발생한 산불로 수십 명이 다치고 수천 명이 대피했다. 당국은 이번 화재를 크로아티아 역사상 최악의 산불 중 하나로 평가했다.",
+      "why": "유럽 남부의 이상 고온·건조 기후가 대형 산불로 이어지는 패턴이 반복되고 있다. 진화 및 피해 복구 상황이 이어질 뉴스다.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "일본 '기록적' 폭우로 8명 사망, 공항 마비",
+      "summary": "일본 지바현 등 동부 지역에 내린 기록적 폭우로 8명이 숨졌다. 정전 가구가 2만 가구를 넘었고 나리타공항에는 7천 명이 발이 묶였다. 40만 명에게 대피령이 내려졌다.",
+      "why": "이상기후로 인한 도심 인프라 마비가 반복되며 재난 대응 체계에 대한 점검 요구가 커질 전망이다.",
+      "source": "BBC/Guardian",
+      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "팔레스타인 가정, 이스라엘 정착민에 포위",
+      "summary": "서안지구에서 두 팔레스타인 가족이 이스라엘 정착민들에 의해 며칠째 집 안에 갇혀 있으며, 활동가들이 구호물자 전달을 시도했다. 이 사건은 미국의 강한 비판까지 불러왔다고 AP가 전했다.",
+      "why": "서안지구 정착민 폭력이 국제사회 개입을 부르는 수준으로 격화되고 있다는 신호다. 이스라엘 정부의 대응 여부가 다음 관건이다.",
+      "source": "BBC/AP",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss"
+    }
+  ]
+}
