@@ -1,0 +1,85 @@
+{
+  "ai": [
+    {
+      "headline": "인도네시아 규모 7.7 지진, 47명 사망",
+      "summary": "인도네시아 동부 플로레스 지역에서 규모 7.7 지진이 발생해 최소 47명이 숨지고 수백 채 건물이 무너졌다. 진앙에 가장 가까운 나게코 지역은 산사태로 도로가 막혀 구조대 접근이 늦어지고 있다. 주민 수천 명이 쓰나미를 우려해 고지대로 대피했다. 북수마트라에서도 규모 6.4 지진이 추가로 발생했으나 쓰나미 위협은 없다고 발표됐다.",
+      "why": "인도네시아는 환태평양 지진대에 위치해 대형 지진이 반복되는 지역이다. 구조와 복구 상황, 추가 여진 여부가 향후 며칠간 핵심 변수다.",
+      "source": "BBC World / AP",
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "하와이 34년 만에 태풍 직격 위기",
+      "summary": "허리케인으로 발달한 열대폭풍 랄라가 하와이 빅아일랜드에 접근하고 있다. 최악의 경우 63cm에 달하는 폭우가 예상돼 34년 만에 처음으로 직접 타격을 받을 가능성이 제기된다. 카테고리 1등급 강도로 강풍과 폭우 피해가 우려된다.",
+      "why": "하와이는 허리케인 직격 사례가 드물어 대비 인프라가 취약할 수 있다. 정전, 산사태, 홍수 등 2차 피해 여부를 지켜봐야 한다.",
+      "source": "BBC World / AP",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "레바논 남부 이스라엘 공습, 11명 사망",
+      "summary": "이스라엘군이 레바논 남부를 공습해 최소 11명이 사망했다. 이스라엘은 헤즈볼라의 이전 공격에 대응해 '테러 기반시설'을 타격했다고 밝혔다. 레바논 당국이 사망자 수를 확인했다.",
+      "why": "이스라엘-헤즈볼라 간 긴장이 다시 고조되는 신호로, 전면적 확전으로 이어질지가 관건이다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "짐바브웨 보트 참사 사망자 68명으로",
+      "summary": "짐바브웨 카리바 호수에서 발생한 페리 전복 사고의 사망자가 68명으로 늘었다. 추가로 22구의 시신이 수습됐으며 이 중 18명은 어린이였다. 조사 결과 강풍 속에 과적 상태로 운항하다 전복된 것으로 추정된다.",
+      "why": "아프리카 내륙 수상 교통의 안전 규제 부실 문제가 다시 부각될 전망이다.",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident"
+    },
+    {
+      "headline": "모로코, 세우타 월경 시도자 100여명 체포",
+      "summary": "모로코 경찰이 스페인령 세우타로 진입하려던 111명을 체포했다. 소셜미디어에서 대규모 월경 시도를 촉구하는 게시물이 확산되면서 양측 국경 경비가 강화된 상태였다. 2주 전에는 7만2000명 이상이 세우타로 몰려든 바 있다.",
+      "why": "유럽 이민 압박이 계속 이어지고 있으며, 모로코-스페인 국경 관리가 다시 시험대에 올랐다.",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta"
+    }
+  ],
+  "kakao_text": "인도네시아 규모 7.7 지진으로 47명 사망, 하와이는 34년 만의 허리케인 직격 우려. 레바논 이스라엘 공습 11명 사망, 짐바브웨 보트 참사 68명으로. AI 쪽은 그록 아동 성착취물 논란과 앤스로픽 워터마크 공개가 화제.",
+  "lede": "인도네시아 대지진과 하와이 허리케인 위협 속, AI 안전 논란도 커지는 하루.",
+  "world": [
+    {
+      "headline": "인도네시아 규모 7.7 지진, 47명 사망",
+      "summary": "인도네시아 동부 플로레스 지역에서 규모 7.7 지진이 발생해 최소 47명이 숨지고 수백 채 건물이 무너졌다. 진앙에 가장 가까운 나게코 지역은 산사태로 도로가 막혀 구조대 접근이 늦어지고 있다. 주민 수천 명이 쓰나미를 우려해 고지대로 대피했다. 북수마트라에서도 규모 6.4 지진이 추가로 발생했으나 쓰나미 위협은 없다고 발표됐다.",
+      "why": "인도네시아는 환태평양 지진대에 위치해 대형 지진이 반복되는 지역이다. 구조와 복구 상황, 추가 여진 여부가 향후 며칠간 핵심 변수다.",
+      "source": "BBC World / AP",
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "하와이 34년 만에 태풍 직격 위기",
+      "summary": "허리케인으로 발달한 열대폭풍 랄라가 하와이 빅아일랜드에 접근하고 있다. 최악의 경우 63cm에 달하는 폭우가 예상돼 34년 만에 처음으로 직접 타격을 받을 가능성이 제기된다. 카테고리 1등급 강도로 강풍과 폭우 피해가 우려된다.",
+      "why": "하와이는 허리케인 직격 사례가 드물어 대비 인프라가 취약할 수 있다. 정전, 산사태, 홍수 등 2차 피해 여부를 지켜봐야 한다.",
+      "source": "BBC World / AP",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "레바논 남부 이스라엘 공습, 11명 사망",
+      "summary": "이스라엘군이 레바논 남부를 공습해 최소 11명이 사망했다. 이스라엘은 헤즈볼라의 이전 공격에 대응해 '테러 기반시설'을 타격했다고 밝혔다. 레바논 당국이 사망자 수를 확인했다.",
+      "why": "이스라엘-헤즈볼라 간 긴장이 다시 고조되는 신호로, 전면적 확전으로 이어질지가 관건이다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "짐바브웨 보트 참사 사망자 68명으로",
+      "summary": "짐바브웨 카리바 호수에서 발생한 페리 전복 사고의 사망자가 68명으로 늘었다. 추가로 22구의 시신이 수습됐으며 이 중 18명은 어린이였다. 조사 결과 강풍 속에 과적 상태로 운항하다 전복된 것으로 추정된다.",
+      "why": "아프리카 내륙 수상 교통의 안전 규제 부실 문제가 다시 부각될 전망이다.",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident"
+    },
+    {
+      "headline": "모로코, 세우타 월경 시도자 100여명 체포",
+      "summary": "모로코 경찰이 스페인령 세우타로 진입하려던 111명을 체포했다. 소셜미디어에서 대규모 월경 시도를 촉구하는 게시물이 확산되면서 양측 국경 경비가 강화된 상태였다. 2주 전에는 7만2000명 이상이 세우타로 몰려든 바 있다.",
+      "why": "유럽 이민 압박이 계속 이어지고 있으며, 모로코-스페인 국경 관리가 다시 시험대에 올랐다.",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta"
+    }
+  ],
+  "quick": [
+    "벨기에 국립공원서 최악의 산불, EU가 진화 항공기 지원",
+    "콜롬비아 지진 실종자 수색 계속, 희망 옅어져",
+    "리히텐슈타인, 여성 왕위 계승 허용하도록 규정 변경",
+    "버지니아주립대 총격으로 5명 부상, 용의자 도주 중",
+    "호주 뉴사우스웨일스주, 본다이비치 테러 이후 총기 매입 프로그램 시행"
+  ]
+}
