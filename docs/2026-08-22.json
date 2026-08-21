@@ -1,0 +1,85 @@
+{
+  "ai": [
+    {
+      "headline": "러 드론, 우크라 쇼핑몰 '더블탭' 공격…15명 사망",
+      "summary": "러시아군이 우크라이나 중부 도시 쇼핑센터를 드론으로 공격했다. 첫 타격 후 구조대가 도착하자 다시 공격하는 '더블탭' 방식이 사용됐다. 최소 15명이 숨지고 어린이 23명을 포함해 130여명이 다쳤다. 지역 책임자가 이를 확인했다.",
+      "why": "민간 시설을 겨냥한 이중 타격은 구조 활동 자체를 막으려는 의도로 해석돼 국제사회의 추가 규탄이 예상된다. 종전 협상 분위기와 별개로 전선 밖 민간 피해가 계속 커지고 있다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "이스라엘, 서안 정착촌 재건…국제사회 반발",
+      "summary": "이스라엘이 폐쇄됐던 서안지구 정착촌에 '개척자 가족' 30가구를 재입주시켰다. 이는 이스라엘 정부가 이끄는 민족주의 흐름 속에서 이뤄졌다. 인근 팔레스타인 주민들은 급격한 변화에 불안해하고 있다. 국제사회의 항의가 커지는 가운데 강행됐다.",
+      "why": "서안 정착촌 확대는 향후 팔레스타인 국가 수립 가능성을 더 좁히는 조치로, 중동 정세 긴장을 다시 끌어올릴 수 있다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "英·加·호주, 가자 구호요원 사망 수사 거부에 \"수치스럽다\"",
+      "summary": "이스라엘군이 2024년 4월 월드센트럴키친(WCK) 구호차량 공습으로 구호요원 7명이 숨진 사건에 대해 형사수사를 하지 않기로 했다. 이에 영국·호주·캐나다가 공동성명을 내고 이 결정을 \"수치스럽다\"고 비판했다. 해당 공습은 가자지구 인도적 지원 활동에 대한 국제적 우려를 키운 대표 사건이다.",
+      "why": "동맹국들의 공개 비판은 이스라엘에 대한 서방의 지지가 흔들리고 있음을 보여주는 신호다. 가자 전쟁의 인도적 책임 문제가 외교 갈등으로 번지고 있다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "홍콩 톈안먼 활동가들, 국가보안법 위반 유죄",
+      "summary": "톈안먼 사건 추모 집회를 조직해온 홍콩 활동가 리척얀, 초항퉁 등이 '선동적 국가전복' 혐의로 유죄 판결을 받았다. 중국이 도입한 국가보안법에 따른 재판이었다. 영국 외무부는 이 판결을 비판했다.",
+      "why": "2020년 국가보안법 시행 이후 홍콩의 시민사회 공간이 계속 축소되고 있음을 보여주는 사례다. 서방과 중국 간 외교 마찰 요인이 될 수 있다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "스웨덴 학교 흉기 난동, 1명 사망",
+      "summary": "스웨덴의 한 학교에서 칼을 이용한 공격이 발생해 1명이 숨지고 3명이 다쳤다. 18세 남성 용의자가 경찰 총격으로 제압돼 체포됐다. 정확한 동기는 아직 조사 중이다.",
+      "why": "학교 내 폭력 사건은 유럽 각국의 학교 안전 대책 논의를 다시 촉발할 가능성이 크다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "kakao_text": "🌅 아침 브리핑: 러 드론이 우크라 쇼핑몰을 '더블탭' 공격해 15명 사망, 이스라엘 서안 정착촌 재건에 국제 반발 확산. AI 업계는 앤스로픽 클로드 검열 논란과 엔비디아의 AI 에이전트 연구 결과가 화제.",
+  "lede": "러시아의 우크라 쇼핑몰 이중 공습과 이스라엘 서안 정착촌 재건이 국제사회 긴장을 다시 끌어올렸습니다.",
+  "quick": [
+    "트럼프, 백악관 볼룸 공사 대법원서 계속 진행 허가받아",
+    "틱톡, 아동 개인정보 침해로 미국과 4억달러 합의",
+    "알렉스 존스, 샌디훅 명예훼손 배상액 항소심서 감액",
+    "튀르키예, 가자 플로티야 사건으로 네타냐후 인터폴 수배 추진",
+    "페루서 규모 6.7 지진, 건물 파손·정전 발생"
+  ],
+  "world": [
+    {
+      "headline": "러 드론, 우크라 쇼핑몰 '더블탭' 공격…15명 사망",
+      "summary": "러시아군이 우크라이나 중부 도시의 쇼핑센터를 드론으로 공격했다. 첫 타격 후 구조대가 도착하자 다시 공격하는 '더블탭' 방식이 쓰였다. 최소 15명이 숨지고 어린이 23명을 포함해 130여명이 다쳤다고 지역 책임자가 밝혔다.",
+      "why": "민간 시설과 구조 인력을 겨냥한 반복 공격은 국제법 위반 논란을 키우고, 서방의 대러 제재·지원 논의에 영향을 줄 수 있다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "이스라엘, 서안 정착촌 재건…국제사회 반발",
+      "summary": "이스라엘이 폐쇄됐던 서안지구 정착촌에 '개척자 가족' 30가구를 재입주시켰다. 정부가 주도하는 민족주의 흐름 속에서 이뤄진 조치다. 인근 팔레스타인 주민들은 불안해하고 있으며, 국제사회의 항의가 커지는 가운데 강행됐다.",
+      "why": "정착촌 확대는 팔레스타인 국가 수립 논의를 더 어렵게 만들어 중동 평화 프로세스 전망을 어둡게 한다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "英·加·호주 \"가자 구호요원 사망 수사 거부는 수치\"",
+      "summary": "이스라엘군은 2024년 4월 월드센트럴키친 구호차량 공습으로 구호요원 7명이 숨진 사건에 대해 형사수사를 하지 않기로 했다. 이에 영국·호주·캐나다가 공동성명을 통해 이 결정을 강하게 비판했다.",
+      "why": "동맹국들의 공개 비판은 이스라엘에 대한 서방 지지 기반이 흔들리고 있음을 보여주는 신호다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "홍콩 톈안먼 활동가들, 국가보안법 유죄 판결",
+      "summary": "톈안먼 추모 집회를 조직해온 홍콩 활동가 리척얀, 초항퉁 등이 '선동적 국가전복' 혐의로 유죄를 받았다. 중국이 도입한 국가보안법에 따른 재판이었다. 영국 외무부는 이를 비판했다.",
+      "why": "2020년 국가보안법 시행 이후 홍콩 시민사회 공간이 계속 축소되고 있음을 보여준다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "트럼프, 이란에 '경제적 D-데이' 경고",
+      "summary": "트럼프 대통령이 이란에 대해 강도 높은 경제 제재, 이른바 '경제적 D-데이'를 예고했다. 그러나 이란은 이미 수십 년간 제재에 익숙해져 있어 위협 효과가 제한적일 수 있다는 분석이 나온다. 이란 측은 미국의 위협을 일축했다.",
+      "why": "미-이란 갈등이 다시 고조되면 중동 유가와 안보 정세 전반에 파장을 줄 수 있다.",
+      "source": "AP (via Google)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDJaQjg5RDQ1MWozcDVVamNqS1ZEeDd1X3J1YzZ5YzNyWUgxa29fYVotWDN1SHN3Y3ZqVm44YlVtOVR6SzNXam5zVzNqM1hwUG8tbjRVQU5iVmpzSVd1UnJZMGVLcWE3a0h1OGFNM1k5MWg2WFZYRGhDLUNtZmg0T3F4V3dLN2JfdFZoSTBSVlRScy1tT2l0WE9KSlJ4TXZBNGtqSQ?oc=5"
+    }
+  ]
+}
