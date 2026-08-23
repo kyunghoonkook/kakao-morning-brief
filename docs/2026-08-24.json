@@ -1,0 +1,85 @@
+{
+  "ai": [
+    {
+      "headline": "정체불명 '스텔스 모델' 옥스 알파, 정체 논란",
+      "summary": "출처를 알 수 없는 AI 모델 '옥스 알파(Ox Alpha)'가 온라인 커뮤니티에서 화제를 모으며 누가 만들었는지를 둘러싼 추측이 이어지고 있다. 성능이 뛰어나다는 반응이 나오면서 빅테크 신모델 사전 테스트 아니냐는 관측도 나온다. 아직 공식 확인은 없다.",
+      "why": "대형 AI 랩들이 정식 발표 전 익명으로 모델을 테스트하는 관행이 늘고 있다. 정체가 밝혀지면 다음 모델 경쟁 구도를 가늠하는 단서가 될 수 있다.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/"
+    },
+    {
+      "headline": "허깅페이스, 18조원 매각 추진설",
+      "summary": "AI 오픈소스 플랫폼 허깅페이스가 약 18조원 규모의 매각을 추진 중이라는 보도가 나왔다. 이 플랫폼은 과거 GPT 관련 해킹 피해를 입은 바 있다. 오픈소스 AI 생태계의 핵심 인프라로 꼽혀온 만큼 인수 주체에 관심이 쏠린다.",
+      "why": "허깅페이스는 전 세계 오픈소스 AI 모델·데이터셋 유통의 중심지다. 매각이 성사되면 오픈소스 AI 생태계의 주도권이 바뀔 수 있다.",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiWXE1dloyQ1N2dGF6U1FqRVVPdEdYMldaNk4wMXFuaUg2QTRYUUp0S1ZiZEJnMVJsRUMyV256bUZzek5YNmJsNXpJUDlQVE1TWjhBUWpKdk1JZ0XSAWBBVV95cUxNc3JOUHEyd3Z5cmRFNnRTS1VDSUpEN1VvTnVYUVQwb2kzbXJKSDYtUW1ZZTdYSUJ0aXdoUmJSYXZrWUNManpWSWY5c3FPM1dibDNBOGRjWnRUcUpuS3lQLWg?oc=5"
+    },
+    {
+      "headline": "앤트로픽, IPO 위험요인에 '데이터센터 반발' 명시 검토",
+      "summary": "앤트로픽이 기업공개(IPO) 투자설명서 위험요인 항목에 AI·데이터센터 확장에 대한 사회적 반발을 명시할 것으로 보인다는 보도가 나왔다. AI 인프라 확대에 따른 지역사회 반발이 투자 리스크로 공식 인정되는 모양새다. 구체적 IPO 시점은 아직 확인되지 않았다.",
+      "why": "AI 기업이 데이터센터발 지역 반발을 상장 서류에 리스크로 적시하는 것은 이례적이다. 전력·용수 문제로 인한 갈등이 투자 시장에서도 본격 변수로 떠올랐음을 보여준다.",
+      "source": "연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yQ1NuZ1lqM3BNek96ZUczNHBCd0VjLXc5N3Y3Umd3bjY3bGxQUHZOUHVZTGQtUWVGdUQ5WVhPU0ZzRVZ3Wk5WSi1pcHVKVFRfLXVhc05MNG9hOVdWWFNCSW5uQ25ETkE4cHE3Z2FXV04?oc=5"
+    },
+    {
+      "headline": "오픈AI, 캘리포니아 AI 규제 강화 도리어 요구",
+      "summary": "그동안 주(州) 단위 AI 규제에 반대해온 오픈AI가 캘리포니아주의 AI 규제를 오히려 강화해달라고 요구하고 나섰다. 연방 차원의 통일된 규제가 없는 상황에서 주별 규제가 난립하는 것을 막기 위한 전략으로 풀이된다. 구체적 요구 내용은 추가로 확인이 필요하다.",
+      "why": "빅테크가 규제 반대에서 특정 규제 지지로 태세를 바꾸는 것은 업계 판도에 영향을 준다. 캘리포니아 규제가 사실상 전국 표준이 될 가능성이 있다.",
+      "source": "YTN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObW5iYVg3OUtTQUNfNGpTenJNd1pYek9Ibk9NdFlCY0N4TnI2M1A5T2w3aFdkVzRRYjE0Q3J2TE1vSTVRSzAyUl9HQThCczJqZDZwUFJKMWlPc09TM0FxWWF6TG1VbkdQVW1QVU1oS0xBTlpGVXlJRzhzUGJXQkZaNmIzaw?oc=5"
+    },
+    {
+      "headline": "'AI가 불붙인' 핵융합 투자 열풍, 한국도 첫발",
+      "summary": "AI 데이터센터의 폭증하는 전력 수요가 핵융합 발전 투자 붐을 촉발하고 있다는 보도다. '없는 전기까지 사들인다'는 표현이 나올 정도로 전력 확보 경쟁이 치열하다. 한국도 관련 투자에 첫발을 뗀 것으로 전해졌다.",
+      "why": "AI 산업 확장의 최대 병목이 컴퓨팅이 아니라 전력이라는 점을 보여준다. 에너지 확보 경쟁이 각국 AI 경쟁력의 새 변수로 떠오르고 있다.",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa1VtVXVncDdHLUVmVEd6cmZrNGxLRGl1SlIwZ05jeklwbDFPcDlrOFhUeENYelMtUUR6bzNwRzZhMzN5TUViUzByTnRnc29aZEltTnNibmx1T29JM0VjR3hjNmFLZ2cyX1EyWXozZFF6aDJyZlNkTThKclI4cVVnT2o5TQ?oc=5"
+    }
+  ],
+  "lede": "우크라이나 전쟁 부패 논란과 미-캐나다 무역전쟁이 격화되는 가운데, 기니 쓰레기 산사태로 30명이 숨졌습니다.",
+  "kakao_text": "기니 쓰레기 매립지 산사태로 30명 사망. 미-캐나다 무역협상 결렬 후 트럼프 \"캐나다는 미국 주(州)의 혜택 원해\" 발언에 관세전쟁 격화. 우크라이나선 전 장관이 젤렌스키 부패 의혹 제기, 러시아는 30만명 추가 징집 추진 중.",
+  "world": [
+    {
+      "headline": "기니 수도 쓰레기 산사태로 30명 사망",
+      "summary": "기니 수도 코나크리의 대형 쓰레기 매립지에서 밤새 내린 폭우로 산사태가 발생해 인근 천막과 판잣집들이 매몰됐다. 정부는 30명이 숨졌다고 밝혔다. 이 매립지는 불과 일주일 전 정부가 폐쇄 및 이전 계획을 발표했던 곳이다.",
+      "why": "빈곤층 밀집 지역의 재해 취약성을 다시 드러낸 사고다. 정부의 뒤늦은 대응이 도마에 오를 전망이다.",
+      "source": "BBC/Guardian",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "미-캐나다 무역협상 결렬, 관세전쟁 본격화",
+      "summary": "미국과 캐나다의 무역협상이 결렬되면서 트럼프 대통령은 캐나다가 미국의 '주(州)가 되는 혜택'을 원한다고 주장했다. 캐나다 카니 총리는 '공격당했다'며 마지못해 보복관세를 발표했다. 하키스틱부터 설압자까지 다양한 품목에 관세가 부과됐다.",
+      "why": "협상 무용론이 확산되며 다른 나라들도 미국과의 협상 방식을 재고할 수 있다는 분석이 나온다. 북미 경제 관계의 균열이 커지고 있다.",
+      "source": "BBC/Guardian",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "우크라이나 전 장관, 젤렌스키 부패 의혹 겨냥",
+      "summary": "해임된 페도로프 전 장관이 BBC와의 인터뷰에서 젤렌스키 대통령이 정부 부패에 대해 무엇을 알고 있었는지 질문받아야 한다고 밝혔다. 그는 전시 선거 실시도 요구했다. 반면 젤렌스키는 전시 선거가 우크라이나를 '파괴'할 것이라고 반박했다.",
+      "why": "전쟁 중 지도부 내분이 표면화되는 조짐이다. 서방의 지속 지원 여부에도 영향을 줄 수 있는 사안이다.",
+      "source": "BBC/Reuters",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "젤렌스키 \"푸틴, 30만명 추가 징집 추진\"",
+      "summary": "젤렌스키 대통령은 푸틴 러시아 대통령이 30만명 규모의 신규 병력 징집을 원한다고 밝혔다. 러시아가 장기전에 대비해 병력 확충에 나서고 있다는 관측이 나온다. 우크라이나는 노르웨이로부터 2027년 90억 달러 이상의 지원도 약속받았다.",
+      "why": "대규모 징집은 러시아가 전쟁을 단기에 끝낼 의도가 없음을 시사한다. 서방의 추가 지원 규모와 속도가 전황의 변수가 될 전망이다.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3pBalhkVDdUUXRxcVhPUWZjN1pRczkxM2g1ZngybEJNblJiMUllNXFRRzVhR1IzdTFXNEJ3RGtRb2pQYV9ocm1tWFhYS0E4YnZwMHVzeTl3Q3k1Y21uRmI5Z2NtZDBTN2ZHa3hJQXk1M2IzNmlSSk9vQ3J6TkRMSl84eDVNTVF3cThacVltODdEdHE5WVcwZmRLV1RzRUZyUVpZUnE4b3BmYTdpMTBPeUVkbVlBdXdGTjB1eWpxQ3lEUQ?oc=5"
+    },
+    {
+      "headline": "튀니지 앞바다서 이주민 보트 침몰, 11명 사망",
+      "summary": "튀니지 인근 해역에서 이주민을 태운 보트가 침몰해 11구의 시신이 수습됐다. 지중해를 통한 유럽행 이주 시도가 계속되는 가운데 발생한 사고다. 정확한 탑승 인원과 생존자 규모는 아직 확인되지 않았다.",
+      "why": "지중해 이주 경로의 위험성이 다시 확인됐다. 유럽의 이주민 정책 논쟁에도 영향을 줄 수 있다.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHd3a3l0Q0tteVVERzJqSjNEajFFQkFKenYwWklNRlJER2ZJcVkwQWR4Nmw5cTM0UEM1WDJkSmV3S2pOZlZCcVRJN09tVF9LWWVpSmh5ZlhNTm1ZRHdHYURUS3ltRE4wQkY5OElmbFlndU5ua19RUERxT3hCVDlvSjE3OHF6ZnB1SW9nX1F5aTFsNlVFenZ1T1RFTkdNNmgtVTJQTTlBaTU3QjhqZGpBbEJrX1pLZw?oc=5"
+    }
+  ],
+  "quick": [
+    "프랑스, 폭염 이후 익사 사고 급증…6월 19일 이후 301명 사망",
+    "태국 남부서 조직적 방화 수십건 발생, 배후 불명",
+    "노르웨이 국왕 병세 악화로 입원 중",
+    "케젤차, 하프마라톤 세계기록 경신(56분51초)",
+    "미국 인디애나주 게리시, 12일째 정전으로 주민 불만 고조"
+  ]
+}
