@@ -1,0 +1,85 @@
+{
+  "ai": [
+    {
+      "headline": "美, 앤트로픽 '블랙리스트' 지정은 위법 판결",
+      "summary": "연방판사가 트럼프 행정부의 국방부가 앤트로픽을 '공급망 위험 기업'으로 지정한 것이 위헌·위법이라고 판결했다. 앤트로픽은 자율살상무기와 대규모 감시 지원을 거부했다는 이유로 블랙리스트에 올랐던 것으로 알려졌다. 두 번째 소송은 워싱턴에서 계속 진행 중이다.",
+      "why": "AI 기업과 정부 간 갈등이 법정 공방으로 이어지는 사례로, 향후 AI 안전 정책을 둘러싼 정부-업계 힘겨루기의 방향을 가늠할 수 있다. 유사한 규제 시도가 다른 AI 기업에도 적용될지 주목된다.",
+      "source": "The Verge / Ars Technica",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling"
+    },
+    {
+      "headline": "오픈소스 AI 스타트업, 실리콘밸리 인수 1순위로 급부상",
+      "summary": "모델을 무료로 공개하는 오픈웨이트 AI 기업들에 막대한 자금이 몰리며 인수 표적이 되고 있다. 중국 Z.ai의 GLM-5.3이 오픈웨이트로 공개돼 화제가 됐고, 메타도 80억 파라미터의 소형 모델 '에보하네스-RL'로 클로드 오퍼스 4.5급 성능을 냈다고 발표했다.",
+      "why": "폐쇄형 대형 모델 중심이던 AI 경쟁 구도가 오픈웨이트 모델의 성능 향상으로 재편될 가능성이 있다. 빅테크들이 기술 확보를 위해 인수합병에 나서면 시장 판도가 빠르게 바뀔 수 있다.",
+      "source": "TechCrunch / Hacker News",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/"
+    },
+    {
+      "headline": "AI 붐 이면의 부채, 램다 1조원 추가 대출",
+      "summary": "AI 클라우드 기업 램다(Lambda)가 엔비디아 칩을 구매해 마이크로소프트에 임대하기 위해 10억 달러 규모의 사모 부채를 조달했다. AI 인프라 확장을 위한 대규모 차입이 잇따르고 있다.",
+      "why": "AI 인프라 투자가 부채에 크게 의존하고 있다는 신호로, 거품 논란이 커질 경우 금융 리스크로 번질 수 있다. AI 붐의 지속가능성을 가늠하는 지표가 되고 있다.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
+    },
+    {
+      "headline": "앤트로픽 연구자, '자기개선 AI' 가능성 시연",
+      "summary": "앤트로픽 연구자가 10가지 오정렬 행동 벤치마크에서 AI 시스템이 전반적 성능 저하 없이 모든 항목에서 스스로 개선하는 모습을 보여줬다. 자동화된 시스템이 인간 개입 없이 특정 결함을 교정한 사례로 소개됐다.",
+      "why": "AI가 스스로를 개선하는 능력은 AI 안전 논의의 핵심 쟁점 중 하나다. 통제 가능성과 예측가능성에 대한 새로운 질문을 던진다.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
+    },
+    {
+      "headline": "美, 中 AI 기업의 '원격 연산 우회' 차단 추진",
+      "summary": "트럼프 행정부가 중국 AI 기업들이 태국·싱가포르 등 제3국을 거쳐 첨단 연산 자원에 접근하는 것을 막는 방안을 추진하고 있다고 보도됐다. 중국 반도체 기업 CXMT는 '중국 군사기업' 지정에 반발해 미 국방부를 상대로 소송을 제기했다.",
+      "why": "미중 AI·반도체 패권 경쟁이 우회 경로 차단이라는 새로운 국면으로 확산되고 있다. 동남아 국가들이 미중 갈등의 새로운 전선이 될 수 있다.",
+      "source": "지디넷코리아 / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4ODJJNzUxYlVWMndySjhxenFxUUFtbDVvLXhfZ0wxbDBRY0x1UW9kcmRqc3Q2dDRGb0c0S3MtTnJJSS1aMzFGN0Jsa1A1YzAza1QwSnF3?oc=5"
+    }
+  ],
+  "kakao_text": "[아침브리핑] 네팔·티베트 국경 홍수 실종 2478명으로 급증. 트럼프, 베네수엘라 석유 매장량 650억 배럴 '지배권' 확보 발표. 노르웨이 하랄드 국왕 별세, 호콘 8세 즉위. AI-앤트로픽 '블랙리스트' 위법 판결.",
+  "lede": "네팔·티베트 홍수 참사가 커지는 가운데, 트럼프는 베네수엘라 석유 지배권 확보를 선언했다.",
+  "world": [
+    {
+      "headline": "네팔·티베트 홍수 실종 2478명으로 급증",
+      "summary": "네팔과 중국 티베트 접경 지역에서 발생한 홍수로 실종자가 2478명으로 늘었다. 적십자는 9만3000명 이상이 심각한 어려움을 겪고 있다고 밝혔으며 사망자는 600명에 육박한다. 위성사진 분석 결과 빙하와 암반이 붕괴하며 새로운 호수가 형성됐고, 이것이 추가 홍수 위험을 키우고 있다. 중국 측은 관련 영상과 피해 상황을 거의 공개하지 않고 있다.",
+      "why": "기후변화로 인한 히말라야 빙하 붕괴가 실제 대형 재난으로 이어진 사례다. 중국의 정보 통제는 국제사회의 재난 대응 협력에 걸림돌이 될 수 있다.",
+      "source": "BBC / AP / The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates"
+    },
+    {
+      "headline": "트럼프, 베네수엘라 석유 650억 배럴 지배권 발표",
+      "summary": "트럼프 대통령이 베네수엘라 임시 대통령 델시 로드리게스와 새로운 석유 협정을 맺고 미국이 650억 배럴 매장량의 '과반' 지배권을 갖게 됐다고 밝혔다. 셰브론은 베네수엘라 내 석유 프로젝트를 이전·확장하는 계약을 마무리할 예정이다. 베네수엘라 야권은 이를 '약탈적'이고 '위헌적'이라 비판하고 나섰다.",
+      "why": "미국이 중남미 에너지 자원에 대한 통제력을 급격히 확대하는 신호로, 지역 내 반발과 외교적 파장이 예상된다. 협정의 구체적 조건은 아직 불투명해 향후 세부 내용이 관건이다.",
+      "source": "BBC / Reuters / The Guardian",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "노르웨이 하랄드 국왕 별세, 호콘 8세 즉위",
+      "summary": "노르웨이 하랄드 5세 국왕이 89세로 별세하고 아들 호콘이 호콘 8세로 왕위를 계승했다. 오슬로 왕궁 앞에 시민과 정치인들이 모여 애도했으며, 오슬로 시장은 예정된 자신의 결혼식을 취소했다. 새 국왕은 '노르웨이를 위한 모든 것'이라는 왕가의 가훈을 이어받았다.",
+      "why": "북유럽 왕정의 세대교체는 상징적 사건을 넘어 왕실에 대한 국민 지지와 국가 정체성 논의로 이어질 수 있다.",
+      "source": "BBC / AP",
+      "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "밀로 야노풀로스, ICE에 구금",
+      "summary": "트럼프와 ICE를 지지해온 영국 국적 우파 논객 밀로 야노풀로스가 미국 이민세관집행국(ICE)에 구금됐다. 그는 미국에 거주하며 활동해온 인물로, 정확한 구금 사유는 아직 알려지지 않았다.",
+      "why": "트럼프 지지자조차 이민 단속 강화 정책의 대상이 될 수 있다는 점에서 정치적 파장이 예상된다.",
+      "source": "BBC / Reuters",
+      "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "베를린시, 해커 협박에 굴복 안 해",
+      "summary": "카이 베그너 베를린 시장은 사이버공격으로 탈취된 데이터에 대한 몸값 요구에 응하지 않겠다고 밝혔다. 독일 수도가 해커들의 랜섬 협박을 받고 있는 상황이다.",
+      "why": "주요 도시 행정 시스템을 겨냥한 랜섬웨어 공격이 이어지며 공공기관 사이버 보안 대응 능력이 시험대에 올랐다.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "quick": [
+    "오스트리아 빈 박물관서 이집트 여왕 673다이아몬드 목걸이 대낮 도난",
+    "니제르 니아메 공항·대통령궁 주변 공격 발생",
+    "아이슬란드, EU 가입 재협상 국민투표 초박빙",
+    "연준 의장 후보 워시, 인플레이션 대응 위해 금리 인상 시사",
+    "캐나다, 미국 최고 연구자들 대거 유치 중"
+  ]
+}
