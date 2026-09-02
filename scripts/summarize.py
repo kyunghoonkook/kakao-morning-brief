@@ -14,6 +14,7 @@ MODEL = os.environ.get("BRIEF_MODEL", "claude-sonnet-5")
 WORLD_COUNT = int(os.environ.get("WORLD_COUNT", "5"))
 AI_COUNT = int(os.environ.get("AI_COUNT", "5"))
 MAX_TOKENS = int(os.environ.get("BRIEF_MAX_TOKENS", "16000"))
+MAX_ATTEMPTS = int(os.environ.get("BRIEF_ATTEMPTS", "3"))
 
 SYSTEM = textwrap.dedent("""
     당신은 한국 독자를 위한 아침 브리핑 편집자입니다. 매일 아침,
@@ -42,11 +43,14 @@ ITEM_SCHEMA = {
         "url": {"type": "string", "description": "기사 목록에 있던 원문 링크를 그대로 옮긴 값"},
     },
     "required": ["headline", "summary", "why", "source", "url"],
+    "additionalProperties": False,
 }
 
 BRIEF_TOOL = {
     "name": "submit_brief",
     "description": "완성한 아침 브리핑을 제출합니다.",
+    # tool_choice는 호출만 강제합니다. strict를 켜야 입력값의 타입까지 보장됩니다.
+    "strict": True,
     "input_schema": {
         "type": "object",
         "properties": {
@@ -64,6 +68,7 @@ BRIEF_TOOL = {
             },
         },
         "required": ["lede", "kakao_text", "world", "ai"],
+        "additionalProperties": False,
     },
 }
 
@@ -87,6 +92,9 @@ def _validate_shape(data):
     'str' object has no attribute 'get' 같은 크래시로 이어집니다.
     여기서 미리 잡아서 재시도하도록 만듭니다.
     """
+    if not isinstance(data, dict):
+        return [f"submit_brief 입력={type(data).__name__} (객체 아님)"]
+
     problems = []
     for key in ("world", "ai"):
         value = data.get(key)
@@ -118,15 +126,18 @@ def summarize(bundle, date_label):
         url은 위 목록에 있는 링크를 그대로 옮겨 적고, 링크를 새로 만들지 마세요.
     """).strip()
 
+    messages = [{"role": "user", "content": prompt}]
     last_error = None
-    for attempt in (1, 2):
+    data = None
+
+    for attempt in range(1, MAX_ATTEMPTS + 1):
         response = client.messages.create(
             model=MODEL,
             max_tokens=MAX_TOKENS,
             system=SYSTEM,
             tools=[BRIEF_TOOL],
             tool_choice={"type": "tool", "name": "submit_brief"},
-            messages=[{"role": "user", "content": prompt}],
+            messages=messages,
         )
 
         if response.stop_reason == "max_tokens":
@@ -135,24 +146,45 @@ def summarize(bundle, date_label):
                 "BRIEF_MAX_TOKENS를 올리거나 WORLD_COUNT/AI_COUNT를 줄이세요."
             )
             print(f"  {last_error}")
-            continue
+            break
 
-        data = next((b.input for b in response.content if b.type == "tool_use"), None)
-        if not data:
+        block = next((b for b in response.content if b.type == "tool_use"), None)
+        if block is None:
             last_error = f"도구 호출이 없었습니다. stop_reason={response.stop_reason}"
             print(f"  재시도 ({attempt}회): {last_error}")
             continue
 
-        problems = _validate_shape(data)
-        if problems:
-            last_error = "world/ai 형태가 스키마를 벗어났습니다: " + "; ".join(problems)
-            print(f"  재시도 ({attempt}회): {last_error}")
-            data = None
-            continue
+        problems = _validate_shape(block.input)
+        if not problems:
+            data = block.input
+            break
 
-        break
-    else:
-        raise RuntimeError(f"브리핑 생성에 실패했습니다: {last_error}")
+        last_error = "world/ai 형태가 스키마를 벗어났습니다: " + "; ".join(problems)
+        print(f"  재시도 ({attempt}회): {last_error}")
+
+        # 같은 요청을 그대로 다시 보내면 같은 답이 돌아옵니다.
+        # 무엇이 틀렸는지 tool_result로 알려주고 고쳐서 다시 내게 합니다.
+        messages = messages + [
+            {"role": "assistant", "content": response.content},
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "tool_result",
+                        "tool_use_id": block.id,
+                        "is_error": True,
+                        "content": (
+                            f"제출이 거부되었습니다: {last_error}\n"
+                            "world와 ai는 각각 기사 객체의 배열이어야 합니다. "
+                            "객체는 headline, summary, why, source, url 다섯 키를 모두 가집니다. "
+                            "문자열이나 null을 넣지 마세요.\n"
+                            f"world {WORLD_COUNT}건, ai {AI_COUNT}건을 담아 "
+                            "submit_brief를 다시 호출하세요."
+                        ),
+                    }
+                ],
+            },
+        ]
 
     if data is None:
         raise RuntimeError(f"브리핑 생성에 실패했습니다: {last_error}")
