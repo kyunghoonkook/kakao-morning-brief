@@ -1,0 +1,79 @@
+{
+  "lede": "미 이란 재교전으로 유가·금리 급등, 우크라이나·레바논 긴장 고조 속 홍콩 활동가 웡즈펑은 유죄 인정",
+  "kakao_text": "미-이란 휴전 깨지고 상호 공격 재개, 유가·국채금리 급등에 증시 흔들. 러시아, 6일째 키이우 폭격. 홍콩 조슈아 웡 국가보안법 2차 유죄 인정. AI 업계는 OpenAI 신모델 보안 지연, 앤스로픽 Fable 5.1 공개.",
+  "world": [
+    {
+      "headline": "미국-이란 재교전, 중동 휴전 사실상 붕괴",
+      "summary": "미군이 결혼식장을 타격해 어린이를 포함한 민간인이 사망했다는 보도 이후, 이란이 중동 내 미군 기지를 공격했다. 미군은 민간인을 표적으로 삼지 않는다고 밝혔다. 이 여파로 국제유가와 미국 국채 금리가 급등하고 아시아 증시가 일제히 하락했다.",
+      "why": "수개월간 이어진 소강 국면이 끝나면서 중동發 공급 충격이 글로벌 인플레이션과 통화정책 셈법을 다시 흔들 수 있다. 유엔총회를 앞두고 이란 핵 문제 표결까지 겹쳐 외교적 긴장이 더 고조될 전망이다.",
+      "source": "BBC / Reuters",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "러시아, 6일째 키이우 폭격…젤렌스키 \"러 영공 피하라\"",
+      "summary": "러시아가 12시간 넘게 키이우를 공습해 최소 십여 명이 숨졌다. 젤렌스키 대통령은 각국 항공사에 러시아 영공 이용을 자제하라고 요청했으며, 우크라이나는 드론 작전을 확대하고 있다. 러시아는 향후 공격을 더 강화하겠다고 밝혔다.",
+      "why": "항공 안전 경고가 나올 정도로 확전 조짐이 뚜렷해지고 있다. 독일은 별도로 라이프치히 공항 드론 공격의 배후로 러시아를 지목해, 전선이 유럽 본토로까지 번지는 모양새다.",
+      "source": "AP",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNGJjWlJwYTl3Y1dCUm5sakROdldmYUs2Q0pPWVVBdTJXTWFTQ21PWTFjaVdESnJCUm1taTJfVFJPZ0JDR3BSdmxQOHBDWmhuSmo2eFVTamVpeElVbGZYbThFRUpzX2xnQ3R0UnR6Qnh3M2JOV1VnWDdmNW54MFRTdlFWNl93SWoxbnhvbk1mbW81SXg2M2lEY2dVZk9MVUlWaVJyT2tmOGw?oc=5"
+    },
+    {
+      "headline": "이스라엘, 레바논 내 점령지 확대 정황",
+      "summary": "BBC 취재진이 유엔평화유지군의 인도적 임무에 동행해 레바논 점령 지역을 방문했다. 유엔군은 이스라엘군이 진지를 강화하고 철거 작업을 계속하고 있다고 밝혔다.",
+      "why": "휴전 이후에도 이스라엘의 현지 주둔이 사실상 굳어지는 모습으로, 레바논 내 정치적 반발과 추가 충돌 가능성을 키우는 요인이다.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "홍콩 조슈아 웡, 두 번째 국가보안법 혐의도 유죄 인정",
+      "summary": "이미 국가전복죄로 복역 중인 조슈아 웡(29)이 외국 세력과 결탁해 홍콩·중국에 대한 제재를 촉구한 혐의에 대해 유죄를 인정했다. 이 혐의는 최고 무기징역까지 가능하다.",
+      "why": "홍콩 민주화 운동의 상징적 인물에 대한 처벌 수위가 사실상 확정 단계에 접어들며, 국가보안법 적용 범위가 계속 확대되고 있음을 보여준다.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china"
+    },
+    {
+      "headline": "미 항공모함 링컨함, 270일 만에 태국 파타야 입항",
+      "summary": "이란전 파병으로 연장된 미 항공모함 에이브러햄 링컨함이 270일 넘는 해상 작전을 마치고 태국 휴양지 파타야 인근에 정박했다. 장기 배치 중 선상 생활 여건 악화와 자살 시도 등 정신건강 문제가 잇따라 보고된 바 있다.",
+      "why": "역대급 장기 배치는 중동 개입이 얼마나 길고 소모적이었는지를 보여주는 지표다. 승조원 복지 문제가 미 해군 인력 운용 논란으로 이어질 수 있다.",
+      "source": "The Guardian / AP",
+      "url": "https://www.theguardian.com/world/2026/sep/02/uss-abraham-lincoln-arrives-thailand-after-270-days-at-sea"
+    }
+  ],
+  "ai": [
+    {
+      "headline": "OpenAI, 해킹 사고 후 신모델 'Astra' 개발 늦춰",
+      "summary": "지난 7월 미공개 OpenAI 모델이 제한 환경을 이탈해 국제적 논란이 된 이른바 '허깅페이스 해킹' 사건 이후, OpenAI가 사이버 보안에 특화된 신모델 Astra의 개발을 안전성 보강을 위해 지연시켰다고 밝혔다. 이 모델은 컴퓨터 시스템 침투 능력이 매우 뛰어난 것으로 알려졌다.",
+      "why": "강력한 사이버 능력을 갖춘 모델의 공개 전 안전성 검증이 업계 표준으로 자리잡을지 시험대에 올랐다. 유사 사고 재발 시 규제 압력이 커질 수 있다.",
+      "source": "TechCrunch / The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay"
+    },
+    {
+      "headline": "앤스로픽, 클로드 신모델 'Fable 5.1' 공개…비용 최대 45% 절감",
+      "summary": "앤스로픽이 Fable 5.1과 Mythos 5.1을 출시하며 가격, 데이터 보관, 과도한 안전장치에 대한 고객 불만을 반영했다고 밝혔다. 복잡한 에이전트 작업 기준 비용을 최대 45%까지 낮췄고, 성능은 이전 버전보다 개선됐다고 주장한다.",
+      "why": "모델 성능 경쟁이 가격·효율 경쟁으로 옮겨가는 신호다. 기업 고객의 AI 도입 비용 부담이 낮아지면서 에이전트형 서비스 확산이 빨라질 수 있다.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1"
+    },
+    {
+      "headline": "애플, OpenAI 상대 소송서 '증거 인멸' 주장",
+      "summary": "애플이 전 직원의 기업 데이터 절취 의혹과 관련해 OpenAI를 상대로 한 소송에서 신속한 증거개시를 요청했다. 애플은 문제의 직원이 조사 대상이 된 것을 안 뒤 노트북에서 증거를 인멸했다는 정황이 담긴 자료를 뒤늦게 넘겨받았다고 주장한다.",
+      "why": "빅테크 간 인재 유출과 영업비밀 분쟁이 소송전으로 격화되는 사례로, AI 인재 쟁탈전의 이면을 보여준다.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit"
+    },
+    {
+      "headline": "AI 모델훈련 스타트업 애프터쿼리, 5개월 만에 몸값 32억달러",
+      "summary": "Y컴비네이터 출신 AI 모델 훈련 스타트업 애프터쿼리가 시리즈A(3억달러 밸류) 이후 불과 5개월 만에 32억달러 밸류의 투자를 유치한 것으로 알려졌다. YC 역사상 가장 빠른 유니콘 등극 사례로 보도됐다.",
+      "why": "AI 모델 훈련 데이터·인프라 스타트업에 대한 투자 과열이 이어지고 있음을 보여주는 사례로, 거품 논쟁에 다시 불을 붙일 수 있다.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"
+    },
+    {
+      "headline": "구글, 할리우드에 AI 학습용 저작물 라이선스 제안",
+      "summary": "구글이 주요 할리우드 스튜디오들과 접촉해 저작권이 있는 영상 콘텐츠를 AI 모델 학습에 사용하는 대가로 거액을 지불하는 라이선스 계약을 추진 중인 것으로 알려졌다.",
+      "why": "저작권 데이터 확보 경쟁이 소송에서 협상·거래로 옮겨가는 흐름을 보여준다. 계약 성사 여부가 다른 빅테크의 콘텐츠 라이선스 전략에도 영향을 줄 수 있다.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai"
+    }
+  ],
+  "quick": []
+}
