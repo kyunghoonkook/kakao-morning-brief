@@ -51,7 +51,7 @@ git push -u origin main
 > 사이트 도메인을 등록하지 않으면 메시지는 가지만 **링크 버튼이 동작하지 않습니다.**
 > `talk_message` 동의항목을 켜지 않으면 `insufficient scopes` (code -402) 오류가 납니다.
 
-## 4. 리프레시 토큰 받기 (한 번만)
+## 4. 리프레시 토큰 받기 (처음 또는 만료 시)
 
 ```bash
 pip install -r requirements.txt
@@ -65,7 +65,7 @@ python scripts/get_token.py <REST_API_키> https://<사용자명>.github.io/<저
 python scripts/get_token.py <REST_API_키> https://<사용자명>.github.io/<저장소명>/ <복사한코드>
 ```
 
-출력된 `KAKAO_REFRESH_TOKEN`을 저장해 둡니다. 인가 코드는 몇 분 안에 만료되니 바로 ③을 실행하세요.
+출력된 `KAKAO_REFRESH_TOKEN`을 GitHub Secret에 저장합니다. 인가 코드는 몇 분 안에 만료되니 바로 ③을 실행하세요.
 
 ## 5. 시크릿과 변수 등록
 
@@ -79,7 +79,7 @@ Secrets 탭:
 | `KAKAO_REST_API_KEY` | 3단계에서 복사한 REST API 키 |
 | `KAKAO_REFRESH_TOKEN` | 4단계 결과 |
 | `KAKAO_CLIENT_SECRET` | Client Secret을 켰을 때만 |
-| `GH_PAT` | 선택. 토큰 자동 갱신용 (아래 참고) |
+| `GH_PAT` | 필수. 카카오 리프레시 토큰 자동 갱신용 (아래 참고) |
 
 Variables 탭:
 
@@ -106,9 +106,12 @@ Variables 탭:
 
 ## 리프레시 토큰 만료
 
-카카오 리프레시 토큰은 약 2개월짜리이고, 만료가 한 달 안으로 들어오면 갱신 요청 때 새 토큰이 함께 발급됩니다.
-`GH_PAT`(Secrets 쓰기 권한)를 등록해두면 워크플로가 새 토큰을 시크릿에 자동으로 덮어씁니다.
-등록하지 않으면 두 달에 한 번 4단계를 다시 해야 합니다.
+카카오 리프레시 토큰은 약 2개월짜리입니다. 만료가 한 달 안으로 들어오면 갱신 요청 때 새 토큰이 발급되고 기존 토큰은 폐기됩니다.
+따라서 `GH_PAT`(저장소의 Secrets 쓰기 권한을 가진 Fine-grained PAT)를 반드시 등록해야 합니다.
+워크플로는 새 토큰을 받는 즉시 `KAKAO_REFRESH_TOKEN` 시크릿을 자동으로 교체합니다.
+
+`GH_PAT`가 없으면 실제 발송 실행은 토큰 갱신 전에 중단됩니다. 이미 `KOE322`가 발생했다면 4단계를 다시 진행해
+`KAKAO_REFRESH_TOKEN`을 교체하고 `GH_PAT`도 등록한 다음, Actions에서 `dry_run`을 끄고 새 워크플로를 실행하세요.
 
 ## 바꾸고 싶을 때
 
@@ -126,7 +129,7 @@ Variables 탭:
 | 증상 | 원인 |
 |---|---|
 | `insufficient scopes` (-402) | 동의항목에서 `talk_message` 미설정, 또는 동의를 다시 받아야 함 |
-| 토큰 갱신 401 | 리프레시 토큰 만료 → 4단계 재실행 |
+| 토큰 갱신 400 / `KOE322` | 리프레시 토큰 만료 또는 폐기 → 4단계 재실행 |
 | 메시지는 오는데 버튼이 안 열림 | 플랫폼 → Web 사이트 도메인 미등록 |
 | 페이지가 404 | Pages 설정이 `/docs`인지 확인, 첫 커밋 후 1~2분 대기 |
 | 피드 일부 실패 | 정상 동작입니다. 실패한 피드는 건너뛰고 나머지로 브리핑을 만듭니다 |

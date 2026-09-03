@@ -33,6 +33,19 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      # 카카오는 만료 1개월 전 토큰 갱신 시 새 리프레시 토큰을 발급하고
+      # 기존 토큰을 폐기합니다. 새 값을 시크릿에 저장할 PAT가 없으면
+      # 토큰 갱신 요청 전에 중단해 유효한 토큰을 잃지 않도록 합니다.
+      - name: 카카오 토큰 자동 갱신 설정 확인
+        env:
+          DRY_RUN: ${{ inputs.dry_run }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          if [ "$DRY_RUN" != "true" ] && [ -z "$GH_PAT" ]; then
+            echo "::error::GH_PAT 시크릿이 없습니다. 카카오 리프레시 토큰 자동 저장을 위해 Secrets 쓰기 권한의 PAT를 등록하세요."
+            exit 1
+          fi
+
       - name: 브리핑 생성 및 발송
         working-directory: scripts
         env:
@@ -46,6 +59,7 @@ jobs:
         run: python main.py
 
       - name: 브리핑 페이지 커밋
+        if: always()
         run: |
           if [ -n "$(git status --porcelain docs)" ]; then
             git config user.name "github-actions[bot]"
@@ -65,7 +79,11 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           FILE=scripts/.new_refresh_token
-          if [ -f "$FILE" ] && [ -n "$GH_TOKEN" ]; then
+          if [ -f "$FILE" ]; then
+            if [ -z "$GH_TOKEN" ]; then
+              echo "::error::새 카카오 리프레시 토큰이 발급됐지만 GH_PAT가 없어 저장할 수 없습니다."
+              exit 1
+            fi
             gh secret set KAKAO_REFRESH_TOKEN --body "$(cat $FILE)"
             rm "$FILE"
             echo "KAKAO_REFRESH_TOKEN을 갱신했습니다."

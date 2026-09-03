@@ -25,9 +25,20 @@ def refresh_access_token():
 
     response = requests.post(TOKEN_URL, data=payload, timeout=15)
     if response.status_code != 200:
+        try:
+            error_code = response.json().get("error_code")
+        except (ValueError, AttributeError):
+            error_code = None
+
+        if error_code == "KOE322":
+            raise RuntimeError(
+                "카카오 리프레시 토큰이 만료되었거나 폐기되었습니다 (KOE322).\n"
+                "README의 '리프레시 토큰 받기'를 다시 진행하고, 새 값을 "
+                "GitHub Secret KAKAO_REFRESH_TOKEN에 등록하세요."
+            )
         raise RuntimeError(
             f"카카오 토큰 갱신 실패 ({response.status_code}): {response.text}\n"
-            "리프레시 토큰이 만료되었을 수 있습니다. README의 '토큰 다시 받기'를 보세요."
+            "REST API 키와 Client Secret 설정을 확인하세요."
         )
 
     data = response.json()
