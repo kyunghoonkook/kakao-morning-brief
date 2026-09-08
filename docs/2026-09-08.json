@@ -1,0 +1,85 @@
+{
+  "lede": "마이애미 화물기 추락과 독일 극우 돌풍, 우크라이나·중동 정세가 오늘 뉴스를 지배했다.",
+  "kakao_text": "마이애미서 아마존 화물기 활주로 이탈, 5명 사망·블랙박스 회수. 독일 지방선거서 극우 AfD 압승, 연정 구성 나서. 우크라이나 검찰총장 부패 스캔들로 사임. 캐나다-미국 관세전쟁 격화, 봄바디어 판매 위협. 이스라엘, 레바논 남부 공습으로 12명 사망.",
+  "world": [
+    {
+      "headline": "마이애미 화물기 활주로 이탈, 5명 사망",
+      "summary": "아마존 화물기로 운항 중이던 보잉 767-300이 마이애미 국제공항 활주로를 이탈해 화재가 발생했다. 5명이 숨지고 5명이 중상을 입었다. 연방 조사관들이 블랙박스를 회수해 사고 원인을 조사 중이다.",
+      "why": "항공 화물 운송의 안전 문제가 다시 도마에 오를 전망이다. 조사 결과에 따라 보잉 767 기종 전반에 대한 점검 요구가 나올 수 있다.",
+      "source": "BBC World / AP",
+      "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "독일 지방선거서 극우 AfD 약진, 정계 요동",
+      "summary": "독일 극우 정당 AfD가 한 주 선거에서 과반에 3석 못 미치는 성적을 거두며 정부 구성을 시도하고 있다. AfD는 다른 정당들에게 '민주주의가 협력을 요구한다'며 연정 참여를 촉구했다. 메르츠 총리는 이번 결과에 충격을 받았지만 인기 없는 개혁 정책은 계속 밀어붙이겠다는 입장이다. 소규모 좌파 정당이 극우 저지의 캐스팅보트를 쥘 가능성도 제기된다.",
+      "why": "주류 정당들이 극우와의 방역선(코르동 사니테르)을 계속 지킬 수 있을지가 시험대에 올랐다. 유럽 전역의 극우 확산 흐름과 맞물려 주목받는 사안이다.",
+      "source": "BBC World / AP",
+      "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "우크라이나 검찰총장, 부패 스캔들로 사임",
+      "summary": "루슬란 크라우첸코 우크라이나 검찰총장이 콜센터 부패 스캔들에 연루돼 사임했다. 그는 사임서에서 자신에 대한 혐의를 부인하며 검찰이 정치적 도구로 이용되길 원치 않는다고 밝혔다. 우크라이나 정치권 내부 갈등이 배경으로 지목된다.",
+      "why": "전쟁 중인 우크라이나의 반부패 개혁 신뢰도가 시험받고 있다. 서방의 지원 지속 여부와도 연결되는 민감한 사안이다.",
+      "source": "BBC World / Reuters",
+      "url": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "미-캐나다 관세전쟁 격화, 봄바디어 겨냥",
+      "summary": "트럼프 대통령이 캐나다 봄바디어의 미국 내 항공기 판매를 미국 내 생산 없이는 불허하겠다고 위협했다. 캐나다는 이날 자정부터 미국산 수입품에 대한 보복 관세를 발효한다. 양국 관계는 트럼프와 카니 캐나다 총리 사이 긴장이 고조되며 악화일로다.",
+      "why": "북미 최대 교역국 간 무역전쟁이 실물경제 전반(항공, 하키 장비 등)에 파급되고 있다. 관세 보복의 확전 여부가 다음 관전 포인트다.",
+      "source": "BBC World / Guardian",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "이스라엘, 레바논 남부 공습 12명 사망",
+      "summary": "이스라엘군의 레바논 남부 마을 공습으로 12명이 숨졌다. 레바논 정부는 이번 공습이 미국 중재로 이뤄진 이스라엘-헤즈볼라 휴전을 위태롭게 하고 있다고 밝혔다. 최근 이스라엘의 공세 확대가 지역 긴장을 다시 고조시키고 있다.",
+      "why": "취약한 휴전 체제가 무너질 경우 레바논 정세 전반이 다시 불안정해질 수 있다. 가자지구 문제와 함께 중동 전선이 다시 확대될 조짐이다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "ai": [
+    {
+      "headline": "시애틀타임스·뉴스데이, 오픈AI·MS 저작권 소송",
+      "summary": "시애틀타임스와 뉴스데이가 오픈AI와 마이크로소프트를 상대로 저작권 침해 소송을 제기했다. 두 매체는 자사 기사가 AI 모델 학습에 무단으로 사용됐고, 챗봇 응답에 자사 보도 내용이 그대로 재생산된다고 주장했다. 오픈AI를 상대로 한 언론사들의 소송 대열에 새로 합류한 사례다.",
+      "why": "AI 학습 데이터의 저작권 문제를 둘러싼 언론계 집단 소송이 확산되고 있다. 판결 결과에 따라 AI 기업의 데이터 수집 관행 전반이 바뀔 수 있다.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft"
+    },
+    {
+      "headline": "앤트로픽 합의금 배분 두고 저자들 반발",
+      "summary": "앤트로픽의 저작권 합의금 배분 과정에서 출판사와 에이전트들이 저자보다 더 많은 몫을 요구하고 있다는 불만이 나왔다. 저자들은 자신들의 몫이 부당하게 축소되고 있다고 주장한다. 합의금 분배를 둘러싼 이해관계자 간 갈등이 커지는 모양새다.",
+      "why": "AI 저작권 합의가 실제로 창작자에게 돌아가는 구조인지에 대한 시험대다. 향후 다른 AI 기업 합의에도 선례가 될 수 있다.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
+    },
+    {
+      "headline": "32억달러 AI 데이터센터, 복잡한 책임 구조 논란",
+      "summary": "여러 기업이 얽힌 32억 달러 규모 AI 데이터센터 프로젝트의 복잡한 소유 구조가 문제로 지적됐다. 사고나 문제 발생 시 누가 책임을 지는지 불분명하다는 지적이 나온다. AI 인프라 붐 속에서 책임 소재 공백이 드러나고 있다.",
+      "why": "AI 인프라 투자가 급증하는 가운데 규제와 책임 체계가 따라가지 못하고 있음을 보여준다. 향후 대형 사고 발생 시 법적 분쟁의 씨앗이 될 수 있다.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"
+    },
+    {
+      "headline": "삼성SDS, 'AI 풀스택' 공개하며 사업 확장",
+      "summary": "삼성SDS가 AI 보안과 피지컬 AI를 포함한 '다차원 AI 풀스택'을 공개했다. 기존 소프트웨어 중심에서 로봇·물리적 AI 영역까지 사업을 확장하려는 행보다. 국내 대기업들의 AI 사업 다각화 경쟁이 이어지고 있다.",
+      "why": "국내 IT 대기업들이 생성형 AI를 넘어 물리적 AI(로봇 등)로 무게중심을 옮기고 있음을 보여준다. 산업 전반의 AI 적용 범위가 확대되는 흐름이다.",
+      "source": "AI타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54R21PcHcwaTNHSV9SQktGWUVpa1JCNV9WanlxNVVsZ29lMjZqQlN4b2RlSUZ4b3dhNDRnY3NNa0JoTkozS0VWUFp6dXhYeUhYYXl1NVNCY3lpRDZMcllYTDhxMXJyV2h4NkE?oc=5"
+    },
+    {
+      "headline": "기아, 신입·경력 채용에 AI 문제해결력 검증 도입",
+      "summary": "기아가 대규모 신입·경력 채용을 진행하며 AI 문제해결력을 평가하는 검증 절차를 새로 도입한다고 밝혔다. 기존 스펙 중심 평가에서 실무형 역량 평가로 전환하려는 취지다. 국내 대기업 채용에서 AI 역량 검증이 확산되는 추세다.",
+      "why": "AI 활용 능력이 일반 직군 채용에서도 핵심 평가 기준으로 자리잡고 있음을 보여준다. 구직자들의 준비 방식 자체가 바뀔 수 있다.",
+      "source": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3QUxKTHZkamtjU0lNX3YzSW5mc2VRNjF3WTVCTmVMN0hZVlBReURPTlVKSFh6YXhRUklmQV9tYkJXbzZ5MGcxWjVCWFpLQnFEekxZSGJkUlcxMmN4NjVUWdIBYEFVX3lxTFB3QUxKTHZkamtjU0lNX3YzSW5mc2VRNjF3WTVCTmVMN0hZVlBReURPTlVKSFh6YXhRUklmQV9tYkJXbzZ5MGcxWjVCWFpLQnFEekxZSGJkUlcxMmN4NjVUWQ?oc=5"
+    }
+  ],
+  "quick": [
+    "네팔, 산사태 참사 국가 애도의 날 선포",
+    "프랑스 파리, 에펠탑 여성 직원 이동 논란에 조사 착수",
+    "독일, 라이프치히 드론 사건 보복으로 러시아 영사관 폐쇄",
+    "IAEA, 아사드 시절 시리아 원자로 핵무기용 개조 정황 확인",
+    "브라질 대선 결선, 룰라·플라비우 보우소나루 여론조사 접전"
+  ]
+}
