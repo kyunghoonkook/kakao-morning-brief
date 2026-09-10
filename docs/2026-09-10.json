@@ -1,0 +1,79 @@
+{
+  "lede": "유가 100달러 돌파와 이란-미국 긴장 고조가 세계 경제를 흔들고, 애플은 폴더블 아이폰으로 반격에 나섰다.",
+  "kakao_text": "유가 배럴당 100달러 돌파, 이란 유엔 안보리 회부로 중동 긴장 최고조. 우크라이나·러시아 드론전 격화, 몰도바 국경서 사망자. 애플은 첫 폴더블 아이폰 'Duo' 공개. 오픈AI, AI 안전론자 이사 영입.",
+  "world": [
+    {
+      "headline": "美-이란 충돌 격화, 유가 100달러 돌파",
+      "summary": "미국이 이란 유조선 5척을 타격하고 이란도 반격에 나서면서 브렌트유가 지난 7월 이후 처음으로 배럴당 100달러를 넘어섰다. 뉴욕 증시는 유가 급등 여파로 하락했다. 트럼프 대통령은 이란과의 갈등이 중간선거 직후 끝날 것이라고 언급했다.",
+      "why": "에너지 가격 급등은 인플레이션과 세계 경기에 직접 영향을 준다. 중동發 충돌이 미 국내 정치 일정과 맞물려 있어 향후 확전 여부가 관건이다.",
+      "source": "BBC World / AP",
+      "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "이란, 핵 비협조로 유엔 안보리 회부",
+      "summary": "이란이 핵사찰 비협조를 이유로 유엔 안보리에 회부됐다. 이란은 미국과 이스라엘의 자국 핵시설 공격이 사찰을 방해했다며 결의안을 규탄했다. 이는 최근 미-이란 군사적 충돌 격화와 맞물려 나온 조치다.",
+      "why": "안보리 회부는 추가 제재나 군사적 압박의 명분이 될 수 있어 중동 정세를 더 불안하게 만들 수 있다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "우크라이나·러시아 드론전 격화, 몰도바서도 사망자",
+      "summary": "러시아와 우크라이나가 서로 드론 공격을 주고받으며 우크라이나에서 5명, 러시아에서 4명이 사망했다. 몰도바 국경 지역에서도 2명이 숨졌다. 젤렌스키 대통령은 러시아의 민간인 피해에 대한 국제사회의 압박 강화를 요구했다.",
+      "why": "전선이 아닌 몰도바 등 인접국까지 피해가 확산되면서 전쟁의 지역적 파급력이 커지고 있다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "북한, 2층 규모 우라늄 농축시설 건설",
+      "summary": "국제원자력기구(IAEA)가 북한이 2층 규모의 우라늄 농축시설을 새로 건설했다고 밝혔다. IAEA는 이를 '심각한 우려'라고 표현했다. 구체적인 가동 여부는 확인되지 않았다.",
+      "why": "북한 핵 프로그램의 확장은 한반도 및 동북아 안보 지형에 직접적인 영향을 미친다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "美, 캐나다산 유제품·주류·오토바이 수입 금지",
+      "summary": "미국이 캐나다의 200억 달러 규모 보복 관세에 대응해 캐나다산 유제품, 대부분의 주류, 오토바이 수입을 3주 후부터 금지하기로 했다. 캐나다와 미국의 무역전쟁이 장기화되는 모양새다.",
+      "why": "오랜 우방인 두 나라의 무역 갈등이 실물 규제 조치로 확대되며 북미 공급망에 영향을 줄 수 있다.",
+      "source": "BBC World / The Guardian",
+      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "ai": [
+    {
+      "headline": "오픈AI, 안전 중시론자를 이사회에 영입",
+      "summary": "오픈AI가 AI 정렬(alignment) 연구로 유명한 폴 크리스티아노를 오픈AI 파운데이션 이사로 영입했다. 그는 이른바 'AI 둠어(doomer)'로 불리며 AI 위험성을 강조해온 인물이다. 최근 앤트로픽 등에서 AI 위험 경고가 잇따르는 가운데 나온 결정이다.",
+      "why": "안전 담론을 강조하는 인사의 이사회 합류는 오픈AI가 규제·안전 이슈에 대응하려는 신호로 읽힌다.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/"
+    },
+    {
+      "headline": "앤트로픽 연구원 잇단 경고 \"AI가 인류 멸종시킬 수도\"",
+      "summary": "앤트로픽의 한 선임 안전 연구원이 AI가 이번 10년 안에 인류를 멸종시킬 확률이 10%를 넘는다고 밝혔다. 같은 날 동료 연구원 한 명은 AI 업계가 통제 불가능한 초지능 시스템 개발 경쟁을 벌이고 있다며 사직했다. 앤트로픽은 별도로 네 번째 AI 해킹 사고도 뒤늦게 공개했다.",
+      "why": "업계 내부자의 잇단 경고는 AI 안전 논쟁이 더 이상 외부 비판이 아니라 개발사 내부 문제로 번지고 있음을 보여준다.",
+      "source": "The Verge / Ars Technica",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans"
+    },
+    {
+      "headline": "오픈AI, 90년 난제 수학문제 풀었다지만 논란",
+      "summary": "오픈AI가 나비에-스토크스 방정식 관련 밀레니엄 난제를 AI로 해결했다고 발표했다. 하지만 발표 이전부터 진위와 기여도를 둘러싼 논란이 불거지며 학계에 파장을 일으켰다. AI가 수학 연구를 얼마나 빠르게 바꾸고 있는지 보여주는 사례로 평가된다.",
+      "why": "AI의 학술적 성과 주장은 검증과 투명성 문제를 동반하며, 이는 향후 AI 발표 신뢰도 전반에 영향을 줄 수 있다.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes"
+    },
+    {
+      "headline": "애플, 폴더블 아이폰 'Duo' 공개하며 AI 기능 대거 탑재",
+      "summary": "애플이 첫 폴더블 아이폰 'Duo'를 비롯해 상시 청취 기능을 갖춘 애플워치, AI 사진 위변조 검증 기능 '레퍼런스 이미지' 등을 공개했다. 애플은 온디바이스 AI 처리로 개인정보를 보호한다고 강조했다. 새 워치의 대화 요약·녹음 기능은 사생활 논쟁을 낳고 있다.",
+      "why": "'항상 듣고 있는' 기기가 일상화되면서 동의와 프라이버시 기준을 다시 세워야 한다는 논의가 커질 전망이다.",
+      "source": "TechCrunch / The Verge",
+      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/"
+    },
+    {
+      "headline": "중국 AI 기업 6곳, 미 프런티어 모델 무단복제 의혹",
+      "summary": "미국 정부가 중국 AI 기업 6곳이 미국의 최신 AI 모델을 공격적으로 복제(distillation)했다고 지적했다. 중국은 이 같은 '악의적' AI 증류 주장에 반박했다. 이 논란은 트럼프-시진핑 정상회담을 앞두고 불거졌다.",
+      "why": "AI 기술 패권을 둘러싼 미중 갈등이 무역·외교 이슈와 맞물려 정상회담의 변수로 떠올랐다.",
+      "source": "Ars Technica / AP",
+      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/"
+    }
+  ],
+  "quick": []
+}
