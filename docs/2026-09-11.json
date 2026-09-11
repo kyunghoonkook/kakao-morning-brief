@@ -1,0 +1,79 @@
+{
+  "lede": "홍해 항구가 후티 반군에 넘어가고 유가는 급등, 미국은 트럼프의 5000달러 지급안 논쟁으로 시끄러운 아침입니다.",
+  "kakao_text": "후티, 홍해 요충지 모카항 장악. 유가 5월 이후 최고치로 급등하며 뉴욕증시 하락. 트럼프 1인당 5000달러 지급안에 공화당 내부서도 회의론. 스위스 알프스서 네덜란드 관광버스 전복 다수 사망. AI 업계는 오라클·어도비 실적 호조에 엔비디아 70% 성장 전망까지 훈풍.",
+  "world": [
+    {
+      "headline": "후티 반군, 홍해 요충 모카항 장악",
+      "summary": "이란의 지원을 받는 예멘 후티 반군이 홍해 전략적 요충지인 모카항을 장악한 것으로 알려졌습니다. 이 항구를 확보하면 후티는 세계 주요 해상 물류로인 바브엘만데브 해협에 대한 통제력을 한층 강화하게 됩니다. 이 해협은 수에즈 운하로 이어지는 핵심 항로입니다.",
+      "why": "홍해 항로 불안이 커지면 글로벌 해운·물류 비용에 즉각 영향을 미칩니다. 후티의 해협 통제력 강화는 서방과 이스라엘에 새로운 안보 변수가 됩니다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "유가 급등에 뉴욕증시 하락, 디젤값 갤런당 6달러 돌파",
+      "summary": "국제 유가가 5월 이후 최고 수준으로 급등하며 뉴욕증시를 끌어내렸습니다. 미국 평균 디젤 가격은 사상 처음 갤런당 6달러를 넘어섰습니다. 트럼프 대통령은 이란과의 갈등으로 치솟은 유가가 11월 중간선거 이후에나 내려갈 것이라며, 근거 없이 이란이 선거에 영향을 미치려 한다고 주장했습니다.",
+      "why": "에너지 비용 상승은 물가와 소비 심리에 직접적 부담을 줍니다. 선거를 앞두고 유가·물가 이슈가 정치 쟁점화되는 흐름을 주시할 필요가 있습니다.",
+      "source": "AP (via Google)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5"
+    },
+    {
+      "headline": "트럼프 1인당 5000달러 지급안, 여당서도 회의론",
+      "summary": "트럼프 대통령이 대선을 앞두고 성인 미국인 전원에게 5000달러를 지급하겠다는 구상을 내놨습니다. 전문가들은 이 계획이 실현 가능한지, 법적으로 문제가 없는지, 재정적으로 감당 가능한지 의문을 제기하고 있습니다. 공화당 내부에서도 회의적 목소리가 나오고 있는 것으로 전해졌습니다.",
+      "why": "대규모 현금 지급 공약은 재정 건전성과 인플레이션 우려를 동시에 키울 수 있습니다. 실제 입법 추진 여부가 향후 정치 쟁점이 될 전망입니다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "북한, 영변에 우라늄 농축 신시설 건설 확인",
+      "summary": "국제원자력기구(IAEA)가 북한이 영변 핵시설에 무기급 우라늄 농축이 가능한 새 시설을 지었다는 증거에 대해 '심각한 우려'를 표명했습니다. 이 시설은 최대 28대의 원심분리기 캐스케이드를 수용할 수 있는 규모로 알려졌습니다.",
+      "why": "북한의 핵무기 생산 능력 확대는 한반도 안보 지형에 직접적인 영향을 미칩니다. 국제사회의 추가 대응 여부가 주목됩니다.",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/sep/10/north-korea-has-built-new-uranium-facility-to-expand-nuclear-arsenal-un-agency-says"
+    },
+    {
+      "headline": "스위스 알프스서 관광버스 전복, 다수 사망",
+      "summary": "네덜란드 관광객 수십 명을 태운 관광버스가 스위스 남동부 알프스 지역에서 전복돼 여러 명이 사망했습니다. 정확한 사고 원인은 아직 조사 중입니다.",
+      "why": "유럽 여름 관광 성수기 안전 문제로 다시 주목받을 사안입니다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "ai": [
+    {
+      "headline": "오라클·어도비, AI 수요 힘입어 실적 호조",
+      "summary": "오라클이 AI 수요 확대에 힘입어 시장 예상치를 웃도는 실적을 발표하며 현금 소진 우려를 잠재웠습니다. 어도비도 AI 제품 수요 덕에 3분기 매출이 예상을 상회했습니다. 엔비디아 CEO 젠슨 황은 내년 회사가 70% 성장할 것이라 전망하며, 자사 거래가 순환적(circular)이지 않다고 강조했습니다.",
+      "why": "빅테크의 AI 투자 회수 여부에 대한 시장의 의구심이 실적으로 일부 해소되는 모습입니다. 다만 데이터센터發 전력·인프라 부담은 여전한 변수입니다.",
+      "source": "Reuters (via Google)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYzUyN0FuOGI1QWEwbUFheXRzLW1aTlZvVVBxWkRzSmpBZjhQQmRJMnlkenRiYldtT1VSRnh3c0FnYW9RaVY0ZGtJVmVIWGU0aW9saEV0TUdaWmNXUlhidUQ4SEY2VHpNVUJPVEpVYWFZc1dLUmJlbGZ6Q2pua1F0aVUyU2hMQU4wS0U3cUpJT0J1ckMydVVvMTRtU2VnTmg0VVNYNWRUcVNpd1lWVWRUNTVNRjBZYWs?oc=5"
+    },
+    {
+      "headline": "마이크로소프트, 2032년까지 38기가와트 데이터센터 확보 계획",
+      "summary": "블룸버그 보도에 따르면 마이크로소프트가 2032년까지 38기가와트 규모의 데이터센터 용량을 확보할 계획입니다. 이는 AI 인프라 경쟁이 장기전으로 이어질 것임을 보여주는 규모입니다.",
+      "why": "막대한 전력 수요는 각 지역 전력망과 요금에 부담을 줄 수 있습니다. 매사추세츠 등 일부 주가 데이터센터에 청정에너지 규제를 도입하는 흐름과 맞물려 갈등 소지가 있습니다.",
+      "source": "Reuters (via Google)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTHBHOWMxWUFLYUt0NHZRR1c4V1RvckEzcFBfZHlhUG5POTFyeklqXzB3SW5CMVlMaUhCTGZjLXZOeno0RFduTXlkbUgwT1V2WmU0T2FPU25MM0YxRmdCdEl6V2w4SDI1a0xLOEFDTmdieWxrOTAtWlM5YWdVek9qcjdleGhFNGNCYUd4LU10YTJyY1g4Mm42Z0EtdjN6VkFiVFRDRklsU29WbG8tdTFWc3M4VnZCM2hjVzFnRUxBNjVtNWM?oc=5"
+    },
+    {
+      "headline": "앤스로픽, 중국·러시아發 AI 악용 캠페인 차단",
+      "summary": "앤스로픽이 자사 클로드 모델을 겨냥한 러시아·중국발 악성 캠페인을 적발해 차단했다고 밝혔습니다. 별도 보고서에서는 알리바바, 문샷AI, 딥시크 등 중국 AI 기업들의 지속적인 증류(distillation) 공격 정황도 공개했습니다. 이런 공격은 최근 경쟁 심화와 함께 늘어난 것으로 알려졌습니다.",
+      "why": "AI 모델을 둘러싼 지정학적 경쟁이 기술 탈취·악용 시도로 이어지고 있음을 보여줍니다. 미중 AI 패권 경쟁의 새로운 전선으로 볼 수 있습니다.",
+      "source": "Reuters (via Google)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUlpORllxa2oyR0lQcWRNaXQwTXd5LThFQTQ3bXFJdlQzUWRBZ2RYMjlmWm55R0gtd255dzltb2dEa3hlaHlJc0hNVG1GaWhkSDBXa3hRbVNiVkZ3XzZsbzY5ZE8wQ1pfR0w4TERlczNHbm5YaVI0QmN5TnJLWmVNRmsxMkxmcnFlTDg1QVdhSHJ0Vm5SUWsyWHFCU0JpdXNYcFhpWjBuQWVFTTZ2V1J1Ym82aExqdGJmVE9VNm5zR0xrUmtkSkNn?oc=5"
+    },
+    {
+      "headline": "OpenAI, Astra 수요 폭증에 Pro 구독 일시 중단",
+      "summary": "OpenAI가 신제품 Astra에 대한 수요 급증으로 시스템에 부하가 걸리자 Pro 구독 신규 가입을 잠시 중단했습니다. 회사는 용량을 늘리는 동안 가입을 중단한다고 설명했습니다.",
+      "why": "수요가 공급 인프라를 앞지르는 상황은 AI 서비스 확장 속도의 한계를 드러냅니다. 향후 유료 서비스 안정성 논란으로 이어질 수 있습니다.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/"
+    },
+    {
+      "headline": "OpenAI 수학 난제 증명 놓고 학계 신뢰 논란 확산",
+      "summary": "OpenAI가 밀레니엄 난제 중 하나를 풀었다고 발표한 가운데, 또 다른 수학자가 나서 자신의 미공개 연구가 무단 활용됐을 가능성을 제기하며 투명성 부족을 비판했습니다. 앞서 다른 연구자와의 유사한 갈등에 이어 두 번째로 불거진 문제입니다.",
+      "why": "AI 기업의 학술 성과 발표가 데이터 출처 투명성 문제와 충돌하는 사례가 반복되고 있습니다. AI-학계 신뢰 관계에 균열이 커질 수 있습니다.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data"
+    }
+  ],
+  "quick": []
+}
