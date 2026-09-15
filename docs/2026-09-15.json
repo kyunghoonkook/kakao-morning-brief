@@ -1,0 +1,79 @@
+{
+  "lede": "AI 개발 속도를 둘러싼 빅테크 내부 균열이 시장을 흔들었고, 우크라이나·러시아 접경에서는 긴장이 다시 고조됐다.",
+  "kakao_text": "[아침브리핑] AI 거물들의 \"속도 늦추자\" 발언에 반도체주 급락, 트럼프는 \"사기극\"이라 반박. 나토 전투기, 리투아니아서 드론 격추. 러시아, 우크라이나 열차 폭격 - 존슨 전 영국총리 등 유럽 관리들 대피 직후. 미 대법원, 우편투표 제한 시도한 트럼프 행정부에 제동.",
+  "world": [
+    {
+      "headline": "러시아, 유럽 관리들 떠난 직후 우크라이나 열차 폭격",
+      "summary": "러시아군이 폴란드 국경 인근에서 우크라이나 열차를 공격했다. 보리스 존슨 전 영국 총리를 포함한 유럽 고위 관리들이 해당 역을 떠난 직후 벌어진 일이다. 존슨은 정차 중인 기관차를 폭격한 배경을 이해할 수 없다고 말했다.",
+      "why": "유럽 정치인들이 우크라이나를 방문한 직후 표적이 됐다는 점에서 러시아의 의도적 메시지로 해석될 여지가 있다. 유럽 각국은 안보 위협 인식을 강화하는 계기로 삼을 것으로 보인다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "나토 전투기, 리투아니아 상공서 드론 격추",
+      "summary": "나토 소속 전투기가 리투아니아 영공에서 정체불명의 드론을 격추했다. 최근 유럽 각지에서 러시아發로 추정되는 드론 침입 사례가 잇따르고 있다. 유럽 정상들은 북극 항로 개방과 러시아 군사력 증강에 대한 안보 우려도 함께 논의 중이다.",
+      "why": "나토 회원국 영공에서 실제 격추가 이뤄진 것은 긴장 고조의 상징적 사건이다. 러시아와의 직접 충돌 가능성에 대한 우려가 커질 수 있다.",
+      "source": "Reuters (via Google)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWVNMci1lYnFkRWFwd1hGSFNTd0xvRnFXOF9VdVpzVzlnRWJ4MTlEV3pwM0ptRGgyYTd1Wkx3YVdkNzc5d1dqdnVBNjhEdzRXUXVtQzFZY0x6MGZpa3lMY0l0a2FkOGs1M1FyblVhUXVvVWpwajY2YVdKeEhnbGJTVjVZMVFNYlplUktBLW8wZUhoNEF6WDIxczN6UUlmenVRWkhqcmR3?oc=5"
+    },
+    {
+      "headline": "미 대법원, 우편투표 제한 시도 저지",
+      "summary": "미국 연방 대법원이 우편투표 접수 기한을 제한하려던 우체국(USPS)의 시도를 막았다. 이는 트럼프 행정부가 추진해온 선거 규정 강화 조치에 제동을 건 것으로 해석된다. 트럼프 행정부 입장에서는 법원발 패배가 이어지는 모양새다.",
+      "why": "선거 절차를 둘러싼 행정부와 사법부의 충돌이 계속되고 있다는 신호다. 내년 중간선거를 앞두고 우편투표 규정은 정치적으로 민감한 사안이다.",
+      "source": "Reuters (via Google)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT3JBM19oZUVHOUxTMlhoLWZFOVRXMHp2cmg1bHRoWkRvZmtseERtN1ZfWnBRX1lDRlRFYkFXT1hoMFR0cDRGZjBBbm5aLWFCem5WaUZSZm5jdGpKRXlGaHl5d2gxQTV1NjJNTnprVDVwNlVBS0ZWVThUbVRvZjRJWjJyZGgyeklfc09IOVdpa0xkOFIzQ3FjMnhTODkxcFF0U1BZUW1Pb1oxdzFUd0RQdmRNU3VOZw?oc=5"
+    },
+    {
+      "headline": "미 이민구금시설 '악어수용소' 인권침해 확인",
+      "summary": "미 국토안보부 조사관들이 플로리다 이민구금시설 '앨리게이터 알카트라즈'에서 위생, 의료, 식사, 안전 기준 위반을 발견했다고 밝혔다. 이민자들이 야외 우리에 갇혀 있었던 사실도 드러났다. 해당 시설은 논란 속에 운영돼왔다.",
+      "why": "트럼프 행정부의 강경 이민정책이 실제 처우 문제로 이어지고 있다는 점을 보여준다. 시설 운영 방식에 대한 법적, 정치적 후폭풍이 예상된다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "아프리카 최고 부호 단고테, 대륙 최대 규모 IPO",
+      "summary": "나이지리아 재벌 알리코 단고테가 자신의 정유회사를 나이지리아 증시에 상장하며 아프리카 사상 최대 규모의 기업공개를 단행했다. 이번 상장이 계획대로 진행되면 그의 순자산은 3분의 2가량 늘어 600억 달러에 근접할 전망이다. 그는 일반 시민들도 성공의 과실을 나눠 갖길 원한다고 밝혔다.",
+      "why": "아프리카 자본시장 성장의 이정표가 될 수 있는 사건이다. 개인 투자자 참여 확대가 실제로 이뤄질지 주목된다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "ai": [
+    {
+      "headline": "AI 거물들 '속도조절' 발언에 반도체株 급락",
+      "summary": "앤스로픽, 오픈AI, 스페이스X 수장들이 주말 사이 AI 개발 속도를 늦춰야 한다는 데 의견을 모으며 '무모한' 개발에 우려를 표했다. 이 소식에 엔비디아 등 반도체 관련주가 하루 만에 3% 넘게 급락했다. 트럼프 대통령은 이를 AI와 데이터센터에 대한 '병적인 음모'라 부르며 강하게 반박했다.",
+      "why": "AI 안전 논의가 실제 시장 변동성으로 이어졌다는 점이 새롭다. 규제와 산업 속도를 둘러싼 갈등이 정치권까지 번지는 모습이다.",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai"
+    },
+    {
+      "headline": "젠슨 황, 트럼프와 통화 \"AI 속도 늦추지 않을 것\"",
+      "summary": "엔비디아 CEO 젠슨 황이 올인 서밋 무대에서 트럼프 대통령과 스피커폰 통화를 하며 AI 개발을 늦추지 않겠다고 밝혔다. 앞서 앤스로픽 CEO 다리오 아모데이의 속도조절 제안에 머스크와 올트먼 등이 동조했던 것과는 결이 다른 입장이다. 트럼프는 통화 중 로봇이 세상을 지배하지 않을 것이라는 취지의 발언도 했다.",
+      "why": "AI 산업 내부에서 안전론과 성장론이 뚜렷하게 갈리고 있음을 보여준다. 정치권과의 밀착이 향후 규제 방향에 영향을 줄 수 있다.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit"
+    },
+    {
+      "headline": "마이크로소프트 \"사람이 AI보다 중요하다\" 행동강령 발표",
+      "summary": "마이크로소프트가 37쪽 분량의 'AI 행동강령'을 발표하며 AI 모델이 인간을 속이거나 시스템을 해킹하지 않도록 하는 구체적 안전 원칙을 제시했다. 인간을 대체하기보다 지원하는 방향을 강조했다. 최근 AI 안전 우려가 커지는 가운데 나온 조치다.",
+      "why": "거대 기업이 자율적으로 안전 기준을 공표한 사례로, 향후 업계 표준이나 규제 논의의 참고점이 될 수 있다.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct"
+    },
+    {
+      "headline": "EU, 15세 미만 소셜미디어·AI챗봇 이용 금지 추진",
+      "summary": "유럽연합이 15세 미만 청소년의 소셜미디어와 AI 챗봇 이용을 제한하는 방안을 제안할 예정이라고 로이터가 보도했다. 청소년 보호를 명분으로 한 강력한 디지털 규제 움직임이다. 구체적 시행 시점과 방식은 아직 확정되지 않았다.",
+      "why": "AI 챗봇까지 규제 대상에 포함된 것은 이례적이다. 다른 나라의 유사 규제 도입에도 영향을 줄 수 있다.",
+      "source": "Reuters (via Google)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2c3UFlUVUZxUm9MVUZMeGxuSURsX0RsNC1KSDVCZTZURnNWZVAwbUcwWk5sNUdTbGdzTEZ6MWRoV1RtRVF3eDF2bnp3aF9MNF9mR0dqd0NkTThNdVFQSzBqUGZfRFlJYkY1ZFh0VEF4NkN2QVFKMlUtUXo4eUFxUVBpUTBzbi1WN1pJWTcyZFBSY1dIcXROcjhiQ0d5TFJleUdZc0dwUmVnTlBPWHc?oc=5"
+    },
+    {
+      "headline": "오픈AI, 아이폰 카메라 기술 스타트업 3억달러에 인수",
+      "summary": "오픈AI가 애플 출신 엔지니어들이 세운 카메라 기술 업체 글래스 이미징을 약 3억 달러에 인수했다고 보도됐다. 이 업체는 애플 '인물사진 모드' 개발을 이끈 인력이 창업했다. 오픈AI의 하드웨어·이미징 역량 확대 행보로 풀이된다.",
+      "why": "오픈AI가 소프트웨어를 넘어 카메라·하드웨어 영역까지 인수합병을 확장하고 있다는 신호다. 향후 자체 디바이스 개발 가능성도 거론된다.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
+    }
+  ],
+  "quick": []
+}
