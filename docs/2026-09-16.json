@@ -1,0 +1,85 @@
+{
+  "lede": "호르무즈 해협 유조선 피격과 러시아의 잇단 도발로 안보 긴장이 고조되고, AI 안전 논쟁이 규제 대 자율의 갈림길에 섰다.",
+  "kakao_text": "호르무즈서 유조선 피격, 선원 2명 실종(이란·미국 책임공방). 러시아 선박이 덴마크 헬기에 조명탄 발사, 나토는 리투아니아서 러시아 드론 격추. 미 국방부, 이란전으로 탄약 부족 인정. AI 업계는 규제 논쟁 가열—젠슨 황 \"규제 필요없다\" vs 오픈AI·앤스로픽 안전 논의 지속.",
+  "world": [
+    {
+      "headline": "호르무즈 해협서 유조선 피격, 선원 2명 실종",
+      "summary": "오만 당국에 따르면 호르무즈 해협에서 유조선 '엘가이아'가 공격받아 선원 2명이 실종됐다. 이란은 기뢰에 부딪혀 화재가 났다고 주장하지만, 미국은 미사일과 드론 공격을 받았다고 밝혔다. 사우디 공급 우려까지 겹치며 실물 원유 가격이 배럴당 130달러를 넘어서 4월 기록에 근접했다.",
+      "why": "중동發 공급 충격이 유가에 실시간 반영되고 있어, 확전 여부에 따라 세계 에너지 시장 전체가 흔들릴 수 있다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "러시아, 덴마크 헬기에 조명탄·나토는 리투아니아서 드론 격추",
+      "summary": "러시아 군함이 덴마크군 헬리콥터를 향해 조명탄을 발사했고, 덴마크 총리는 이를 '무모한 행위'라고 비판했다. 같은 시기 나토 전투기는 리투아니아 상공에서 러시아 드론을 격추했다. 크렘린은 아직 공식 반응을 내놓지 않았다.",
+      "why": "발트해·북유럽 일대에서 러시아와 나토의 물리적 충돌 위험이 누적되고 있어, 우발적 무력 충돌 가능성이 커진다.",
+      "source": "BBC World / AP",
+      "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "미국, 우주 무기 배치 첫 공식 인정",
+      "summary": "미국이 처음으로 지구 궤도상에 무기를 배치했다고 공식 인정했다. 구체적으로 어떤 무기인지는 불명확하지만, 현대전이 우주 영역으로 확장되고 있음을 보여준다. 이는 러시아·중국과의 우주 군비 경쟁 우려를 키우고 있다.",
+      "why": "우주 공간의 군사화가 공식화되면서 향후 우주 조약과 국제 규범 논의가 새 국면을 맞을 것으로 보인다.",
+      "source": "BBC World / AP",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "브라질 대법원 내분, 대선 전날 폭발",
+      "summary": "브라질 대법원 내부에서 두 판사 간 갈등이 격화되며 1980년대 민주화 이후 최대 위기로 평가받고 있다. 대선을 하루 앞두고 여론조사는 후보 간 초박빙 접전을 예고한 상황이다. 이번 사태는 라틴아메리카 최대 민주주의 국가의 정치적 불확실성을 키우고 있다.",
+      "why": "사법부 신뢰가 흔들리는 시점에 대선이 치러지면 결과 승복 여부와 정치적 안정성 자체가 시험대에 오른다.",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/sep/15/brazil-supreme-court-presidential-election"
+    },
+    {
+      "headline": "미 연준, 트럼프 압박 무릅쓰고 금리 인상 전망",
+      "summary": "연방준비제도가 트럼프 대통령의 인하 요구에도 불구하고 기준금리를 인상할 것으로 예상된다. 이는 연준의 독립성을 재확인하는 사례로 주목받고 있다. 동시에 상원은 암호화폐 규제 법안 처리에 실패해 비트코인 등 관련 주가가 약세를 이어갔다.",
+      "why": "통화정책 결정이 정치적 압력과 별개로 이뤄질 수 있는지가 시장 신뢰의 핵심 변수로 떠올랐다.",
+      "source": "AP (via Google)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEg4dFhUa0hYYzZsdXJhRTVFZ09rQUl5ems3Z0JuTE8zdlZJb3Z4bC1QUjZ3d0MzZG1KazlSenRUT20wSGFCMm9ya3AzQjJQeFBVZXB1enM4SDd5akRpNmgwT3RuOXRhSWZvVDYtZ3BOdkx1OWVkWmRCd292c1ItVDVVcmZKV1VPMWtjSU9IVF8tWEpUYm1pRnJacE1JbE5DbHJLbQ?oc=5"
+    }
+  ],
+  "ai": [
+    {
+      "headline": "젠슨 황 \"AI 안전, 규제 아닌 기업이 알아서\"",
+      "summary": "엔비디아 CEO 젠슨 황은 AI가 '외계 지성체'가 아니라 그저 하드웨어와 소프트웨어일 뿐이라며, 안전은 각 제조사가 스스로 설계하면 된다고 주장했다. 이는 최근 앤스로픽·오픈AI 등이 제기한 AI 위험론과 대비되는 입장이다. 그는 지난 All-In 서밋 무대에서 트럼프 대통령과 전화 통화를 스피커폰으로 연결해 '로봇이 세상을 지배하지 않을 것'이라는 메시지를 전하기도 했다.",
+      "why": "업계 최대 수혜 기업의 수장이 규제 무용론을 공개적으로 펴면서, 정부·의회의 AI 규제 논의에 제동이 걸릴 가능성이 있다.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/"
+    },
+    {
+      "headline": "오픈AI·앤스로픽·구글, 수주간 AI 안전 물밑 협상",
+      "summary": "오픈AI가 앤스로픽, 구글 딥마인드와 수주째 AI 안전 관련 논의를 이어왔다고 확인했다. 이는 다리오 아모데이의 '속도 조절' 에세이 이후 촉발된 업계 전반의 논쟁 속에서 나온 것이다. 반면 트럼프 행정부와 의회는 이런 안전 우려를 대체로 무시하며 중국과의 기술 경쟁 속도를 늦추지 말라는 입장이다.",
+      "why": "민간 기업들이 자율적으로 안전 규범을 만들려는 움직임이, 정부 규제 공백을 메우는 '사실상의 카르텔'이 될 수 있다는 우려도 제기된다.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/"
+    },
+    {
+      "headline": "美 유권자 61%, AI 데이터센터 건설 반대",
+      "summary": "뉴욕타임스와 시에나대학이 실시한 여론조사에서 유권자 1503명 중 61%가 AI 구동용 데이터센터 건설에 반대한다고 답했다. 이는 최근 정치권이 데이터센터 관련 규제나 반대 목소리를 내는 배경과 일치한다. 필라델피아 등에서는 과거 정유공장 피해 지역에 데이터센터 건설이 추진되며 주민 반발이 커지고 있다.",
+      "why": "AI 인프라 확장이 여론의 강한 저항에 부딪히면서, 빅테크의 데이터센터 건설 계획 자체가 정치적 리스크로 떠올랐다.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september"
+    },
+    {
+      "headline": "2035년 美 데이터센터, 獨·日 합친 것보다 천연가스 더 쓴다",
+      "summary": "AI 붐에 따른 데이터센터 확장으로 2035년까지 미국 데이터센터의 천연가스 소비량이 독일과 일본을 합친 것보다 많아질 수 있다는 전망이 나왔다. 이는 AI 산업의 급격한 에너지 수요 증가를 보여주는 수치다. 에너지 인프라 확충 속도가 AI 성장 속도를 따라가지 못할 수 있다는 우려도 함께 제기된다.",
+      "why": "AI 확산의 물리적 한계가 반도체가 아니라 전력·에너지 공급망에서 먼저 드러날 수 있음을 시사한다.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/16/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
+    },
+    {
+      "headline": "오픈 중국산 모델, 프런티어 AI와 격차 빠르게 축소",
+      "summary": "모질라 보고서에 따르면 최고급 프런티어 AI 모델에 비용을 지불하면 성능상 약 4개월의 우위를 얻지만, 비용은 5배에 달한다. 저렴한 오픈소스 중국산 모델들이 실리콘밸리 최상위 모델과의 격차를 빠르게 좁히고 있는 것으로 나타났다. 이는 AI 경쟁의 무게중심이 성능 격차보다 비용 효율로 옮겨가고 있음을 보여준다.",
+      "why": "고비용 프런티어 모델 전략을 고수해온 미국 빅테크의 수익성 논리에 의문이 제기될 수 있다.",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/"
+    }
+  ],
+  "quick": [
+    "에드 시런 美 투어, 매클모어 하차 항의로 오프닝 밴드 전원 이탈",
+    "네덜란드 철도 사보타주 의심 사건으로 출퇴근 대란",
+    "시칠리아 에트나 화산재로 공항 항공편 전면 중단",
+    "일본 100세 이상 인구 처음 10만 명 돌파",
+    "남아공 요하네스버그 인근서 여성 시신 추가 발견, 대통령 엄벌 약속"
+  ]
+}
