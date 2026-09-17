@@ -1,0 +1,85 @@
+{
+  "lede": "연준이 3년 만에 금리를 올렸고, 트럼프는 캐나다 문제로 EU를 압박하고 있습니다.",
+  "kakao_text": "연준, 3년 만에 금리 인상...트럼프는 반발. EU는 캐나다를 '준회원'으로 받는 방안 추진하자 트럼프가 무역 보복 위협. 가자지구 건물 붕괴로 어린이 8명 포함 21명 사망. AI 업계는 안전 감사관 자체 도입 논의 중.",
+  "world": [
+    {
+      "headline": "美 연준, 3년 만에 금리 인상...트럼프 반발",
+      "summary": "연방준비제도가 만장일치로 기준금리를 인상했다. 도널드 트럼프 대통령은 금리 인하를 요구해왔지만 받아들여지지 않았다. 연준은 올해 추가 인상 가능성도 시사했다. 인상 직후 미국 증시는 하락했다.",
+      "why": "연준의 독립성이 트럼프의 압박 속에서도 유지됐다는 신호로 읽힌다. 추가 인상 예고로 앞으로 시장 변동성이 커질 수 있다.",
+      "source": "BBC World / AP",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "EU, 캐나다 '준회원' 추진에 트럼프 무역 위협",
+      "summary": "우르줄라 폰데어라이엔 EU 집행위원장이 캐나다를 EU의 첫 '준회원'으로 받아들이는 방안을 지지했다. 트럼프 대통령은 캐나다 총리와 여러 차례 갈등을 빚어온 가운데, 이 제안에 대응해 EU와의 무역을 끊겠다고 위협했다.",
+      "why": "미국-EU-캐나다 삼각 관계에 새로운 긴장 요인이 추가됐다. 무역 보복이 현실화되면 북미와 유럽 경제에 파장이 예상된다.",
+      "source": "BBC World / AP",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "가자지구 건물 붕괴로 21명 사망, 어린이 8명 포함",
+      "summary": "이스라엘군 공습으로 파손됐던 가자시티의 6층 건물이 무너져 21명이 숨졌다. 이 중 8명은 어린이였다. 건물에는 약 10가구가 거주하고 있었던 것으로 전해졌다.",
+      "why": "전쟁으로 손상된 건물들이 시간이 지나 추가 붕괴 위험에 놓여 있다는 점을 보여준다. 재건과 안전 점검 없이 방치된 가자지구 주거 문제가 다시 부각된다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "코소보 前대통령 타치, 전쟁범죄로 25년형",
+      "summary": "헤이그 국제재판소가 코소보 전 대통령 하심 타치에게 전쟁범죄 혐의로 25년형을 선고했다. 1990년대 코소보 분쟁 당시의 행위가 유죄로 인정됐다.",
+      "why": "발칸반도 전쟁범죄에 대한 국제사법 처리가 수십 년 만에 마무리 단계에 들어섰다는 의미가 있다. 지역 정치에도 파장이 예상된다.",
+      "source": "AP",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcG5kUDZnVlhBR21QQ0hMeU41Rjc2d01aZDByenE0TzJiUmhwblNId1dHLU80U3ItSXcxSUVXSG1FZ2NOUmJWX3BaUUZnU0RLVHN3LWhhZ19PWXlRMGlvNzhNOUh4bkNUOGxkVE9wdWF5V2tkMjkxY3BkVF84LWdUbGRkclNJWWlXRkg2VkdzRjNtc1VM?oc=5"
+    },
+    {
+      "headline": "찰리 커크 유족, 유타 당국 경호 실패 주장",
+      "summary": "보수 활동가 찰리 커크의 유족이 대학 캠퍼스 연설 도중 발생한 총격 사건에서 유타 당국의 '심각한 실패'가 있었다고 주장했다. 커크는 지붕에 자리 잡은 총격범에게 피살됐다.",
+      "why": "경호 실패 논란이 사실로 확인되면 정치 행사 안전관리 체계에 대한 재검토 압력이 커질 것으로 보인다.",
+      "source": "BBC World / AP",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "ai": [
+    {
+      "headline": "오픈AI·앤스로픽, 내부 안전 감사관 도입 추진",
+      "summary": "오픈AI와 앤스로픽이 자사 AI 연구소 내부에 독립적인 안전 평가자를 두는 방안을 추진하고 있다. 연구자들은 전례 없는 접근권이라며 환영하면서도, 진정한 감독을 위해서는 투명성과 독립성, 궁극적으로는 규제가 필요하다고 지적했다.",
+      "why": "기업 자율 규제의 한계를 어떻게 보완할지가 관건이다. 감사관의 독립성이 실제로 보장되는지가 향후 신뢰성을 가늠하는 잣대가 될 것이다.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/"
+    },
+    {
+      "headline": "구글, AI 에이전트에 스마트홈 제어 권한 개방",
+      "summary": "구글이 클로드, 챗GPT 등 외부 AI 에이전트가 구글홈 기기를 제어할 수 있도록 하는 MCP 서버를 초기 공개했다. AI 에이전트는 자연어로 카메라 요약 확인, 기기 제어, 활동 기록 접근이 가능해진다.",
+      "why": "AI 에이전트가 물리적 가정 환경까지 통제하는 첫 단계로, 보안과 프라이버시 우려가 함께 커질 수 있다.",
+      "source": "TechCrunch / The Verge",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
+    },
+    {
+      "headline": "앤스로픽, 클로드에 문서·슬라이드 기능 추가",
+      "summary": "앤스로픽이 클로드 채팅에서 문서와 프레젠테이션을 만들 수 있는 Docs·Slides 기능을 공개했다. 동시에 일반 채팅과 협업 도구 Cowork를 하나의 '원 클로드' 인터페이스로 통합했다. 구글 독스·슬라이드와의 직접 경쟁을 겨냥한 행보다.",
+      "why": "AI 챗봇들이 생산성 도구 영역으로 빠르게 확장하며 구글, 마이크로소프트와의 경쟁이 본격화되고 있다.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides"
+    },
+    {
+      "headline": "애플, AI 서버 사업 재진출 검토",
+      "summary": "애플이 엔비디아와 손잡고 M시리즈 울트라 칩 기반 서버를 개발 중이라는 보도가 나왔다. 2029년 출시가 목표이며, 실현되면 2011년 Xserve 단종 이후 첫 기업용 서버가 된다.",
+      "why": "AI 인프라 수요가 애플 같은 소비자 기업까지 서버 시장 재진입을 검토하게 만들고 있다는 신호다.",
+      "source": "The Verge / Ars Technica",
+      "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia"
+    },
+    {
+      "headline": "AI 데이터센터 전자폐기물, 2050년 대폭 증가 전망",
+      "summary": "새 보고서에 따르면 AI 붐으로 인한 전자폐기물이 기존 예상보다 훨씬 커질 전망이다. 2050년까지 40피트 컨테이너 2300만 개를 채울 분량에 이를 수 있다고 경고했다.",
+      "why": "AI 확산의 환경 비용이 과소평가돼 왔다는 지적으로, 인프라 확장 정책에 지속가능성 논의가 더해질 것으로 보인다.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"
+    }
+  ],
+  "quick": [
+    "삼성-SK하이닉스, 올해 메모리 투자 비중 55%로 최대 수혜 전망",
+    "연준 금리 인상에도 인텔 4%·스페이스X 5% 급등",
+    "벨라루스, 미국 제재 완화 대가로 수감자 25명 석방",
+    "이스라엘-모로코 외교관계 격상 합의",
+    "독일 메르츠 총리, 8개 주지사 지지로 리더십 유지"
+  ]
+}
