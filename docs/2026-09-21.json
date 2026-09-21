@@ -1,0 +1,79 @@
+{
+  "lede": "우크라이나가 모스크바에 역대 최대 드론 공격을 가했고, 독일 여당은 지방선거서 참패했습니다.",
+  "kakao_text": "우크라이나, 모스크바에 사상 최대 규모 드론 공격(1000기 이상). 독일 메르츠 총리 지방선거 참패, 극우 AfD 1위. 트럼프 'AI 포스' 창설·AI 차르 임명 예고. 젠슨 황 \"AI가 인류 끝낼 확률 0%\".",
+  "world": [
+    {
+      "headline": "우크라이나, 모스크바에 역대 최대 드론 공격",
+      "summary": "우크라이나가 러시아를 향해 1000기 이상의 드론을 발사했으며, 이 중 모스크바를 겨냥한 공격은 역대 최대 규모였다. 모스크바 시장은 450기의 드론이 격추됐다고 밝혔고, 이 공격으로 2명이 사망했다. 러시아는 이날 크렘린 여당이 압승한 총선 개표도 함께 진행 중이다.",
+      "why": "전쟁이 러시아 본토 깊숙이 확대되는 양상을 보여준다. 앞으로 러시아의 대응 강도와 젤렌스키-트럼프 뉴욕 회동 결과가 다음 국면을 가를 변수다.",
+      "source": "BBC World / AP",
+      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "독일 메르츠, 지방선거 참패에도 개혁 강행 예고",
+      "summary": "독일 메르츠 총리의 중도우파 기민당(CDU)이 메클렌부르크-포어포메른과 베를린 주 선거에서 크게 패배했다. 메클렌부르크-포어포메른에서는 극우 성향 AfD가 1위로 올라섰고, 베를린에서는 좌파당이 주택 국유화를 공약하며 승리했다. 메르츠 총리는 이번 결과를 '재앙'이라 규정했지만 자리를 지키고 개혁을 계속하겠다고 밝혔다.",
+      "why": "독일 정치 지형에서 극우와 극좌가 동시에 힘을 얻는 양극화가 뚜렷해졌다. 메르츠 정부의 국정 운영 동력 약화로 이어질 수 있다.",
+      "source": "AP (via Google)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTHhpM0laRi15RUZNNHNvMnRlLUJzSWhpaWNIVWY3WkJ1b3NScV9ZaWtJbFRueUdhZUNwRDFYeXNDZnFpTElweEZ5V3RrM3l6TnRxQ0dVNGpuLTFfS2U0cm16cEF1eFlfV0tMZGZfdXYwci1oT3haQ0xra1JrZU9XNGVfS0h6STJ0VXlqaTVldEV1U1oyWllOVlJOSy1aYkVfdWtnQjJsQTRGM25GaVVmdw?oc=5"
+    },
+    {
+      "headline": "그린란드, 미·덴마크 합의로 사실상 미군 통제권 확대",
+      "summary": "덴마크와 미국이 수개월간의 병합 위협 끝에 그린란드 관련 합의에 도달했다. 트럼프 대통령은 이번 합의로 미국이 '영구적인 안보 통제권'을 갖게 됐다고 주장했다. 나토는 이 합의를 환영한다는 입장을 밝혔다.",
+      "why": "북극권 안보 지형과 러시아·중국의 북극 접근 견제 구도에 영향을 줄 수 있는 사안이다. 덴마크 국내 반응과 그린란드 자치 정부의 입장이 다음 관전 포인트다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "후티, 사우디 리야드에 탄도미사일 공격 주장",
+      "summary": "예멘 후티 반군이 사우디 수도 리야드를 향해 탄도미사일을 발사했다고 밝혔다. 리야드 공항 인근 연료 저장고 타격 보도가 나왔고, 이로 인해 공항 운항이 지연됐다. 사우디는 자국을 향한 탄도미사일을 요격했다고 밝혔다.",
+      "why": "이란이 지원하는 후티의 공격 범위가 예멘 내전을 넘어 사우디 본토로 확대되고 있음을 보여준다. 사우디-후티 간 긴장이 고조되면 중동 유가와 안보 정세에 파장이 예상된다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "트럼프, ICC에 제재 준비 중",
+      "summary": "보도에 따르면 트럼프 행정부가 국제형사재판소(ICC)에 대한 제재를 준비하고 있다. 구체적인 제재 대상과 시점은 아직 공개되지 않았다. 이는 미국과 ICC 간 갈등이 재점화되는 신호로 읽힌다.",
+      "why": "미국이 국제형사재판소의 권한을 무력화하려는 시도가 이어지면 국제 사법 체계에 대한 신뢰와 실효성 논란이 커질 수 있다.",
+      "source": "Reuters (via Google)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbzVOcmJ4eEtjbkl2RklqSHpWQUVfbHJWTE9fbl95b0ZaajRqbXJYLWxmUExfYUpBcDNuSEVlWGN3djQtbXNCbENmMkJqaDgyWjMtaElIcXpxNkpTdElHZTVNSkUtU3ZYSUdJLVF3WUszZUlSSXJSU1JYS19ZM05HOEJyLWlTZk10bEhYTWRGUGR3ZFlld0tVR0EyYThkaTBOWHRtbFBZUnVaTXZ5WEVPTzVTTXlFYTBDUUx0M1ZB?oc=5"
+    }
+  ],
+  "ai": [
+    {
+      "headline": "트럼프, 'AI 포스' 창설과 AI 차르 임명 예고",
+      "summary": "트럼프 대통령이 자신의 소셜미디어에 새로운 'AI 포스'를 창설하고 이를 이끌 'AI 차르'를 임명할 계획이라고 밝혔다. 그는 자신의 행정부가 AI 성장을 어떤 식으로도 저해하거나 억제하지 않을 것이라고 강조했다. 이는 정치권과 업계 일각에서 AI 개발 속도를 늦춰야 한다는 목소리가 커지는 가운데 나온 발언이다.",
+      "why": "미국 정부가 AI 규제보다 성장 우선 노선을 공식화하는 신호로 해석된다. 백악관은 AI 위험 대응 수단이 충분하다는 입장도 함께 내놓고 있어 향후 규제 방향을 가를 분수령이 될 수 있다.",
+      "source": "BBC World / The Verge",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "젠슨 황 \"AI가 인류 끝낼 확률 0%\"",
+      "summary": "엔비디아 CEO 젠슨 황이 CBS 인터뷰에서 AI가 인류의 종말을 가져올 가능성은 '0%'라고 주장했다. 그는 AI에 대한 공포 조성이 불필요하며, 규제 강화론 뒤에 숨은 의도가 있다고도 언급했다. AI 붐으로 가장 큰 수혜를 보는 인물의 발언이라는 점에서 비판적 시선도 있다.",
+      "why": "AI 산업의 최대 수혜자가 위험론을 정면으로 반박하면서, 안전 대 성장 논쟁이 한층 뜨거워질 전망이다. 연구자들의 경고와 업계 리더의 낙관론이 계속 충돌할 것으로 보인다.",
+      "source": "The Verge / 연합인포맥스",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown"
+    },
+    {
+      "headline": "중국, 미국의 AI 속도조절론에 반발",
+      "summary": "미국 일각의 AI 개발 속도 조절 요구에 대해 중국은 이를 미국의 기술 우위를 고착시키려는 시도로 보고 있다고 가디언이 보도했다. 중국은 안전과 속도 사이에서 미국과 다른 균형점을 추구하고 있다. 중국 기업들은 AI를 도입하지 않으면 도태될 것이라는 위기감 속에 빠르게 AI를 받아들이고 있다.",
+      "why": "미중 AI 경쟁의 프레임이 '규제 대 성장'을 넘어 지정학적 신뢰 문제로 확대되고 있음을 보여준다. 곧 열릴 미중 정상회담에서 AI와 관세가 핵심 시험대가 될 전망이다.",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development"
+    },
+    {
+      "headline": "삼성전자, HBM4 생산량 두 배 이상 확대 예정",
+      "summary": "보도에 따르면 삼성전자가 내년 HBM4 및 HBM4E D램 생산량을 두 배 이상 늘릴 계획이다. 이는 AI 반도체 수요 급증에 대응하기 위한 결정으로 보인다. 관련 소식은 해외 기술 커뮤니티에서도 크게 주목받았다.",
+      "why": "AI 인프라 경쟁의 핵심인 고성능 메모리 공급 확대는 글로벌 AI 반도체 공급망과 가격 경쟁에 직접적인 영향을 줄 수 있다.",
+      "source": "Hacker News / 서울경제",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say"
+    },
+    {
+      "headline": "AI 업계, '속도조절' 진짜 의지 있나 논란",
+      "summary": "AI 산업 경영진들이 정말로 개발 속도를 늦추길 원하는지에 대한 논쟁이 이어지고 있다. 테크크런치는 관련 팟캐스트에서 이 문제를 다뤘다. 트럼프 일가의 AI 투자 확대와 이해충돌 우려도 함께 제기되고 있다.",
+      "why": "속도조절 논의가 실제 규제로 이어질지, 아니면 홍보성 수사에 그칠지가 향후 AI 정책의 방향을 결정지을 요소다.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
+    }
+  ],
+  "quick": []
+}
