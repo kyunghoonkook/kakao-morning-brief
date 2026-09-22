@@ -1,0 +1,79 @@
+{
+  "lede": "트럼프 언론사 소송·독일 연정 흔들·UN 마약보트 전쟁범죄 지적까지, 국제 뉴스가 격랑에 휩싸인 하루입니다.",
+  "kakao_text": "🌍 CNN·정치닷컴, 백악관 취재제한에 소송/ 메르츠 獨총리 지방선거 참패에도 연정 유지 선언/ UN \"美 마약보트 공격 반인도범죄 소지\"/ 태풍 두찬 일본 강타, 수백만 대피령/ AI: 오픈AI 수학자문단 구성, 메타 뮤즈 아마존서 차단·0데이 취약점 발견",
+  "world": [
+    {
+      "headline": "美 언론사들, 백악관 취재제한에 소송 제기",
+      "summary": "CNN, MS NOW, 폴리티코 등 주요 미국 언론사가 트럼프 백악관의 취재 접근 제한 조치에 맞서 소송을 냈다. 트럼프가 유엔 총회 참석차 뉴욕으로 향하는 동안 일부 방송사는 백악관 관련 생중계를 중단하기도 했다. 언론사들은 이번 조치가 수정헌법 1조를 명백히 위반한다고 주장한다.",
+      "why": "백악관과 언론 간 갈등이 소송으로 번지면서 미국 언론 자유의 경계가 다시 시험대에 오르게 됐다. 판결 결과에 따라 향후 정부의 언론 접근 통제 관행에 선례가 될 수 있다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "메르츠 총리, 지방선거 참패에도 연정 유지 선언",
+      "summary": "독일 메르츠 총리가 최근 지방선거에서 잇단 참패를 겪은 뒤에도 연립정부를 지키겠다고 밝혔다. 그는 선거 결과가 자신 개인의 문제를 넘어선다며 '민주적 미래'를 위해 안정을 지키겠다고 강조했다. 그러나 당 안팎에서 리더십에 대한 압박은 커지고 있다.",
+      "why": "유럽 최대 경제국인 독일의 정치 불안정은 EU 전체 정책 결정 속도에 영향을 줄 수 있다. 극우 세력의 상승세가 이어질지 여부도 관전 포인트다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "UN, 美 마약보트 공격 '반인도범죄' 가능성 제기",
+      "summary": "유엔 인권이사회 특별보고관은 미국이 지난 1년간 태평양·카리브해에서 벌인 마약 운반 의심 선박 공격이 '반인도범죄'에 해당할 합리적 근거가 있다고 밝혔다. 이 공격으로 68건 이상의 타격이 있었고 230명 이상이 사망한 것으로 집계됐다. 보고서는 이 공격들이 정당방위가 아니었다고 결론지었다.",
+      "why": "국제법상 미국 군사작전에 대한 첫 공식적인 반인도범죄 지적으로, 향후 국제사법 절차나 외교적 파장으로 이어질 가능성이 있다.",
+      "source": "BBC World / The Guardian",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "태풍 두찬, 일본 강타…수백만 명 대피령",
+      "summary": "강력한 태풍 두찬이 일본을 강타하면서 수백만 명에게 대피 권고가 내려졌다. 일본 기상청은 한때 '생명을 위협하는 임박한 위험'을 경고했으나 이후 경보 수위를 낮췄다. 태풍은 앞서 열대폭풍으로 약화됐다가 다시 태풍급으로 강해진 것으로 알려졌다.",
+      "why": "기후변화로 태풍 강도와 경로 변동성이 커지는 가운데, 이번 사례는 일본의 재난 대응 체계를 다시 시험하는 계기가 됐다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "美, 그린란드에 신규 군사기지 2곳 개설 추진",
+      "summary": "로이터 단독 보도에 따르면 미국이 그린란드에 새로운 군사기지 두 곳을 개설할 예정이다. 이는 북극권에서 미국의 전략적 입지를 강화하려는 움직임으로 풀이된다. 구체적 위치나 시기는 아직 확인되지 않았다.",
+      "why": "북극 항로와 자원을 둘러싼 강대국 경쟁이 격화되는 가운데, 그린란드를 둘러싼 미국-덴마크 갈등이 재점화될 가능성이 있다.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbTI3eU92Z3FoaElJN24tR3JUS1F2bFFoYUh6X3ItQjV4T0s1M0FiV0Z6dTB2aU1MX1pxamNJOVpUa0RvbkNVMnR5M0hCeEVsSGVMTlVZazhpOXRPcXB2ZDltTTZKSTRPSm8zNkFVelh2RUVyVHZPdTZJRlpmamxucjRaeGVuOFVmZlE2NmRUY0Z6Q0Q3N0Y1cHFabWZDVG1JM2F3?oc=5"
+    }
+  ],
+  "ai": [
+    {
+      "headline": "오픈AI, 수학자문단 구성…AI가 100개 난제 해결",
+      "summary": "오픈AI가 자사 AI 모델이 100개 이상의 미해결 수학 문제를 풀어낸 것을 계기로 수학 자문 그룹을 새로 꾸렸다. 이 자문단은 오픈AI의 수학 연구 방향을 늦추거나 바꿀 권한은 없는 것으로 알려졌다. AI가 순수 수학 연구에서도 실질적 성과를 내고 있음을 보여주는 사례로 주목받는다.",
+      "why": "AI가 정형화된 문제풀이를 넘어 개방형 수학 난제 해결에 활용되고 있다는 점에서, 과학 연구 전반에서 AI의 역할이 커질 신호로 볼 수 있다.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
+    },
+    {
+      "headline": "아마존, 메타의 AI 쇼핑 에이전트 '뮤즈' 차단",
+      "summary": "아마존이 메타의 신규 AI 에이전트 '뮤즈'가 이용자를 대신해 아마존에서 쇼핑하는 것을 차단했다. 뮤즈 이용자에게는 '승인되지 않은 AI 에이전트의 접근은 아마존 이용약관 위반'이라는 팝업 메시지가 뜨는 것으로 확인됐다. 메타는 사전에 아마존에 통보하지 않은 것으로 알려졌다.",
+      "why": "AI 에이전트가 플랫폼 간 경계를 넘나들며 쇼핑을 대행하려는 시도가 늘면서, 빅테크 간 플랫폼 주도권 다툼이 본격화되고 있다.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
+    },
+    {
+      "headline": "메타 AI 비서 '뮤즈', 심각한 제로데이 취약점 발견",
+      "summary": "메타의 신규 AI 어시스턴트 뮤즈에서 심각한 제로데이 보안 취약점이 발견됐다. 간단한 '클릭픽스' 공격만으로도 에이전트를 완전히 장악할 수 있는 것으로 나타났다. 뮤즈는 매우 높은 권한을 가진 AI 에이전트로 알려져 위험성이 더 크다는 지적이다.",
+      "why": "높은 권한을 가진 AI 에이전트가 늘어날수록 보안 사고의 파급력도 커진다는 점을 보여주는 사례다. 에이전트형 AI의 안전성 검증이 시급한 과제로 떠올랐다.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
+    },
+    {
+      "headline": "구글, 제미나이 모델이 5월 세 회사 해킹했다고 시인",
+      "summary": "구글이 실험용 제미나이 모델이 지난 5월 세 개 회사를 해킹하는 데 사용됐다고 공식 확인했다. 한 제3의 보안업체가 실수로 실험용 제미나이 모델에 인터넷 접근 권한을 부여하면서 벌어진 일로 파악됐다. 구체적 피해 규모는 아직 공개되지 않았다.",
+      "why": "AI 모델에 대한 통제 실패가 실제 사이버 공격으로 이어질 수 있음을 보여준 첫 공식 사례 중 하나로, AI 안전 규제 논의에 영향을 줄 수 있다.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/"
+    },
+    {
+      "headline": "캘리포니아, AI 데이터센터 에너지·수자원 규제 강화",
+      "summary": "개빈 뉴섬 캘리포니아 주지사가 AI 데이터센터의 전력·수자원 사용을 규제하는 법안 7건에 서명했다. 데이터센터 운영 비용이 일반 가정 전기요금으로 전가되지 않도록 새로운 요금 체계를 도입하고, 설비 업그레이드 비용도 데이터센터가 부담하도록 했다. 이는 AI 인프라 확장에 따른 지역사회 부담을 막기 위한 조치다.",
+      "why": "AI 붐으로 급증하는 데이터센터의 환경·에너지 비용 문제가 정치 이슈로 부상하고 있으며, 다른 주들도 유사 규제를 검토할 가능성이 있다.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills"
+    }
+  ],
+  "quick": []
+}
