@@ -1,0 +1,85 @@
+{
+  "lede": "트럼프의 유엔 '이란 궤멸' 발언과 미군 미사일 오폭 논란이 겹치며 국제사회 긴장이 고조된 하루.",
+  "kakao_text": "트럼프, 유엔서 \"이란 궤멸시킬 수도\" 발언하며 양측 물밑 접촉. 국방부는 AI 과의존이 이란 학교 오폭 원인이라 인정. OpenAI GPT-6·앤스로픽 Opus 5.5 신모델 동시 출시, 가격 경쟁 격화. FBI 해킹 피해 발생.",
+  "world": [
+    {
+      "headline": "트럼프, 유엔서 이란 '궤멸' 위협...물밑 접촉도",
+      "summary": "트럼프 대통령이 유엔총회 연설에서 이란과 평화협정이 가능할지, 아니면 극단적 조치를 취해야 할지 고민 중이라며 이란을 '궤멸'시킬 수 있다고 언급했다. 같은 시각 미국과 이란 관계자들은 유엔 회의 참석차 뉴욕에서 별도로 접촉했다. 가디언은 이 발언이 냉전기 흐루쇼프의 유엔 연설 파문을 능가할 만큼 이례적이라고 평가했다. 이란은 별도로 호르무즈 해협 재개방 조건을 미국 측에 제시한 것으로 전해졌다.",
+      "why": "핵협상이 재개될지, 군사충돌로 치달을지 갈림길에 선 상황이다. 다음 주 미-이란 후속 접촉 여부가 중동 정세의 향방을 가를 전망이다.",
+      "source": "BBC World / The Guardian",
+      "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "美, 그린란드에 군사기지 2곳 신설 합의",
+      "summary": "미국과 덴마크가 유엔총회 계기에 그린란드 방위협정에 서명했다. 미국은 그린란드에 군사기지 두 곳을 새로 건설하게 되며, 협정은 덴마크의 그린란드 주권을 재확인하는 내용도 담았다. 트럼프 대통령은 오래전부터 그린란드에 강한 관심을 보여왔다.",
+      "why": "북극 자원과 항로를 둘러싼 미·러·중 경쟁이 본격화하는 신호다. 덴마크와의 주권 갈등이 봉합되며 나토 내 협력 구도가 강화될 것으로 보인다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "젤렌스키 \"러시아, 대규모 공습 준비 중\"",
+      "summary": "젤렌스키 우크라이나 대통령이 러시아가 새로운 대규모 공격을 준비하고 있다고 경고했다. 한편 EU는 최근 제재 명단에서 알리셰르 우스마노프와 미하일 프리드만 등 러시아 올리가르히 일부를 제외해 우크라이나의 반발을 샀다. 키이우 측은 이 조치가 모스크바에 잘못된 신호를 준다고 비판했다.",
+      "why": "전쟁이 장기화되는 가운데 서방 내부에서 대러 제재 결속력에 균열 조짐이 보인다는 점이 주목된다.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV045LXNpMHZzM3o3R1h1N3ZtNmJNaTN0V3lHNkwxYmpfNU9NeFMzVG9tQmdDeDY1enVzY1FXTV9LLWtyWFBNUWlGcUFLZ1MtZkxSd2xsNW96SDhmS2taZ0c1MWo3Z2NiOEtJQUVHRXhOTU00X0Rha3JMc1BBOFVKVUpnRzA1a3Q2U3MzcXJwQW1YMTVxYnhhUXpOaWRNV0N6X0laTUxLMTUyV1E4V2pHOWNWa3VLZEpG?oc=5"
+    },
+    {
+      "headline": "마크롱, 유엔 고별연설서 트럼프 가자 외교 비판",
+      "summary": "임기 마지막 유엔총회 연설에 나선 마크롱 프랑스 대통령이 트럼프 행정부의 가자지구 외교를 '수치스러운 쇼'라고 강하게 비판했다. 이는 트럼프의 이란 관련 발언과 함께 이번 유엔총회를 긴장된 분위기로 몰아넣었다.",
+      "why": "프랑스와 미국의 중동 정책 온도차가 공개적으로 드러난 장면으로, 향후 유럽-미국 공조에 균열이 커질 수 있음을 시사한다.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa2JxU1lEYzdqQzRSTmRPbUJMSWd2WTJqSWlReHpJb1A0bXJLcThQV0JGR2xIOHZsVHVucmRvSGhiOHIwMFpPWWtRVUdiWlc2OWNPNWZFOGluUkpqdlFTRS12ZDZ6Mi1mdWNIMWFxcDNZU01CaVBJalhEeHJhV1liTXFsWm1ER0hZOGFaSjdCOGpUYW13alFZakxJSTVfak53UWlwbVp1RGNHekxfYThBYkVrYXo1UQ?oc=5"
+    },
+    {
+      "headline": "멕시코 앞바다 허리케인 폴로, 사상 최강급 몸집",
+      "summary": "멕시코 태평양 연안에서 허리케인 폴로가 24시간도 안 돼 5등급으로 급격히 발달했다. 최대풍속은 시속 266km에 달하며, 지와타네호 남쪽 약 346km 해상에서 소용돌이치고 있다. 직접 상륙 가능성은 낮지만 강한 엘니뇨 패턴이 이번 발달을 가속시킨 것으로 분석된다.",
+      "why": "올해 엘니뇨가 관측 사상 최강 수준으로 발달하면서 이례적 기상 재해가 이어지고 있다는 신호다. 일본 태풍 두쥐안 사망자 발생과 함께 이상기후 패턴이 전 지구적으로 확인되는 흐름이다.",
+      "source": "The Guardian / AP",
+      "url": "https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico"
+    }
+  ],
+  "ai": [
+    {
+      "headline": "美 국방부 \"AI 과신이 이란 학교 오폭 불러\"",
+      "summary": "펜타곤이 이란 학교를 타격한 미사일 공격에 대해 AI 시스템에 대한 과도한 의존이 원인 중 하나였다고 인정했다고 블룸버그가 보도했다. 해커뉴스에서 400점 이상을 받으며 큰 주목을 받았다. 구체적으로 어떤 AI 도구가 어떻게 오판을 유발했는지는 아직 상세히 공개되지 않았다.",
+      "why": "군사적 의사결정에 AI를 도입하는 속도가 검증 체계를 앞지르고 있다는 경고로 읽힌다. 인명 피해로 이어진 만큼 향후 군용 AI 사용 규정에 대한 논쟁이 커질 전망이다.",
+      "source": "Bloomberg (via Hacker News)",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
+    },
+    {
+      "headline": "OpenAI·앤스로픽, 하루 사이 나란히 신모델 출시",
+      "summary": "OpenAI가 기존 대비 저렴하고 오류를 줄인 GPT-6 Sol·Luna 모델을 공개했고, 같은 날 앤스로픽도 가격을 낮춘 Claude Opus 5.5를 내놓으며 '지금까지 테스트한 모델 중 최고 성능'이라고 자평했다. 두 회사 모두 성능은 유지하면서 비용을 낮추는 데 초점을 맞췄다. 아르스테크니카는 이를 두고 프론티어 AI 모델 경쟁이 '가격 비교' 단계에 들어섰다고 평했다.",
+      "why": "모델 성능 경쟁에서 가격 경쟁으로 무게중심이 옮겨가고 있음을 보여준다. 기업 고객 입장에서는 도입 비용이 낮아지지만, 스타트업 생태계 압박은 더 커질 수 있다.",
+      "source": "TechCrunch / Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/"
+    },
+    {
+      "headline": "BC주, 학교 총격에 오픈AI·알트먼 제소",
+      "summary": "캐나다 브리티시컬럼비아주가 텀블러리지 학교 총격 사건과 관련해 오픈AI와 샘 알트먼을 상대로 소송을 제기했다. 주 정부는 총격범이 챗GPT를 범행 계획에 사용했으며, 회사가 이를 경찰에 미리 알렸다면 사건을 막을 수 있었다고 주장한다. 소송은 샌프란시스코 연방법원에 지난 월요일 제출됐다.",
+      "why": "AI 기업의 위험 감지·신고 의무 범위를 둘러싼 첫 대형 소송 사례가 될 수 있다. 결과에 따라 AI 챗봇 안전 감시 체계에 대한 규제 논의가 본격화될 전망이다.",
+      "source": "The Guardian / Ars Technica",
+      "url": "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting"
+    },
+    {
+      "headline": "해커들 \"FBI 침입해 직원 정보 탈취\"",
+      "summary": "해킹 그룹 ShinyHunters가 FBI 시스템에 침투해 소속 직원들의 데이터를 훔쳤다고 주장했다고 로이터가 보도했다. 404미디어 등은 해커들이 'FBI 전 직원 정보를 확보했다'고 주장한 내용을 전했다. FBI 측 공식 확인은 아직 이뤄지지 않았다.",
+      "why": "연방수사기관마저 뚫렸다는 주장이 사실로 확인되면 미국 정부기관 보안 체계 전반에 대한 신뢰가 흔들릴 수 있다.",
+      "source": "Reuters / 404 Media",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUtFWTRZNVBNcVdtQTFFZTlJN1JBcVhOT09PdDZQRTRqWU5YbWcwSTEzWHJWT2l1dVB3T1hYcUwzYm9DYUtWazd0dWRWbE0tRHdfRWpmakVZcTlrOUR2ZHVBNmFYTTVqVU0xdzZBdTl0YU0yUHBlUHhiS3VQckl2eFNzNW5DdmdkZjhyTjdtS3ZwdWVkYW9aVDV4enBoeXVSSkdCQ21abjdPUHBzN2xkRHE4bFdFTEM1M01oeEk0cw?oc=5"
+    },
+    {
+      "headline": "美 재무장관, 'AI 차르' 겸직 검토",
+      "summary": "로이터는 소식통을 인용해 스콧 베선트 미 재무장관이 AI 정책을 총괄하는 'AI 차르' 역할까지 맡는 방안이 검토되고 있다고 보도했다. 같은 날 트럼프 대통령은 유엔 연설에서 미국이 'AI'라는 용어를 '슈퍼인텔리전스'로 공식 개명했다고 주장하기도 했다.",
+      "why": "금융정책 수장이 AI 정책까지 총괄하게 되면 AI 산업에 대한 재정·규제 접근 방식이 크게 달라질 수 있다. 트럼프 행정부의 AI 관련 인사와 언사가 계속 이슈가 되고 있다.",
+      "source": "Reuters / The Verge",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUpGX2hDdFZBMW45ZFVIelJSUll4TnpWR3NYWExINUxaX2planJ6dU9JNkNCcmM1U216U0VNcDd2TjZfNlluVHUyd1NtZkk2MjZlRTZRRWtLUGJBckpEQk91cUl5QnpvQWc2SC11cTRZczZPa2xBMTBjeVRVMWhRLURoazZZR0E1ZHY4OGNzY0wwTFFCXzRUNFlnbFVmcFFxVjRNRw?oc=5"
+    }
+  ],
+  "quick": [
+    "스리랑카 법원, 2019년 부활절 폭탄테러 관련 15명 유죄 판결",
+    "튀르키예 고교 인근 총격, 11명 부상·용의자 검거",
+    "자메이카, 노예제 배상 청원 추밀원 회부 환영",
+    "호주, F-35 부품 홍콩서 실종...유출 우려 조사 중",
+    "일본 태풍 두쥐안으로 최소 4명 사망, 도쿄 인근 정전 지속"
+  ]
+}
