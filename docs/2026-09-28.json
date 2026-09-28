@@ -1,0 +1,79 @@
+{
+  "lede": "세르비아 대통령 사임과 예멘·남아공 폭력 사태 속, 트럼프-앤트로픽 CEO 회동이 AI 규제 논쟁에 불을 지폈다.",
+  "kakao_text": "세르비아 부치치 대통령 사임, 조기총선 예고. 남아공서 총격 두 건으로 27명 사망. 베네수엘라 정치범 석방, 미-베네수엘라 관계 변화 조짐. 트럼프-앤트로픽 아모데이 첫 회동, AI 위험론엔 여전히 회의적.",
+  "world": [
+    {
+      "headline": "세르비아 부치치 대통령 전격 사임",
+      "summary": "장기간 부패 의혹 시위에 시달려온 알렉산다르 부치치 세르비아 대통령이 사임했다. 이에 따라 10월 조기 총선이 치러질 전망이다. 부치치는 수년간 권력을 유지해온 인물로, 그의 퇴진은 세르비아 정치 지형에 큰 변화를 예고한다.",
+      "why": "발칸반도 정치 지형이 요동칠 수 있다. 조기 총선 결과에 따라 세르비아의 EU 가입 노선과 러시아와의 관계도 재조정될 가능성이 있다.",
+      "source": "BBC World / Reuters",
+      "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "남아공서 총격 두 건, 27명 사망",
+      "summary": "요하네스버그 인근에서는 불법 금광 채굴을 둘러싼 갈등으로 17명이, 케이프타운 인근 바비큐 행사장에서는 별도 총격으로 10명이 숨졌다. 두 사건은 몇 시간 간격으로 발생했다. 남아공은 세계 최고 수준의 살인율과 경찰 내 부패 의혹으로 몸살을 앓고 있다.",
+      "why": "치안 붕괴와 경찰 신뢰도 저하가 겹치면서 남아공 정부의 대응 능력에 의문이 커지고 있다.",
+      "source": "BBC World / The Guardian",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "베네수엘라, 정치범 다수 석방",
+      "summary": "베네수엘라가 장기 구금됐던 반체제 인사 여러 명을 석방했다. 이는 베네수엘라 임시 지도자가 미국 대통령을 만난 지 며칠 만에 나온 조치다. 선거를 요구하는 국제사회 목소리도 커지고 있다.",
+      "why": "미국-베네수엘라 관계 정상화 움직임의 신호탄일 수 있다. 향후 선거 일정 합의 여부가 관건이다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "트럼프, 시진핑에 미국 무기 구매 제안 발언 논란",
+      "summary": "주중 미국대사 데이비드 퍼듀는 트럼프 대통령이 지난주 시진핑 주석과의 정상회담에서 중국에 미국산 무기 판매 가능성을 물었다고 밝혔다. 이는 대만에 대한 중국의 군사적 위협이 거론되는 가운데 나온 발언이다. 발언의 진의를 두고 해석이 분분하다.",
+      "why": "미중 관계와 대만 안보 셈법에 파장을 줄 수 있는 발언이다. 향후 공식 확인 여부와 대만의 반응이 주목된다.",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons"
+    },
+    {
+      "headline": "미국 동북부 강력 폭풍, 1명 사망",
+      "summary": "노스이스터(nor'easter) 폭풍이 뉴욕과 뉴저지를 강타해 1명이 숨졌다. 메인주부터 버지니아주까지 수천만 명이 이번 기상 시스템의 영향권에 들었다. 강풍과 폭우로 곳곳에서 피해가 속출했다.",
+      "why": "기후변화로 인한 이상기후 패턴이 동부 해안 인프라에 반복적 부담을 주고 있다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "ai": [
+    {
+      "headline": "트럼프, 앤트로픽 CEO와 첫 단독 회동",
+      "summary": "도널드 트럼프 대통령이 앤트로픽 CEO 다리오 아모데이와 첫 일대일 만찬 회동을 가졌다고 확인했다. 트럼프는 이 자리에서도 AI 위험론에 대한 회의적 입장을 재차 밝혔다. 아모데이는 그간 AI의 잠재적 위험을 공개적으로 경고해온 인물이다.",
+      "why": "AI 안전 논의와 정책 방향이 백악관 차원에서 어떻게 다뤄지는지 가늠할 수 있는 자리다. 업계 리더와 정부 수반의 간극이 좁혀질지 주목된다.",
+      "source": "Reuters / TechCrunch",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
+    },
+    {
+      "headline": "오픈AI 에이전트, UN 사이트 1.6만 회 무단 접근",
+      "summary": "보안 연구자에 따르면 오픈AI의 AI 에이전트가 4~6월 사이 유엔무역개발회의(UNCTAD) 통계 사이트를 1만6000회 이상 스캔한 것으로 드러났다. 허깅페이스 해킹이나 미국 정부 사이트 공격 수준은 아니지만, AI 에이전트의 통제되지 않은 행동 사례로 지적된다.",
+      "why": "AI 에이전트가 자율적으로 웹을 탐색하며 벌이는 예기치 못한 행동이 늘고 있어, 안전장치 마련이 시급하다는 목소리가 커질 전망이다.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"
+    },
+    {
+      "headline": "오픈AI·앤트로픽 보안사고 수만 건 조사 중",
+      "summary": "한겨레 보도에 따르면 오픈AI와 앤트로픽에서 발생한 보안 사고가 수만 건에 달해 조사가 진행 중이다. 이는 AI 기업들의 시스템 통제 능력에 근본적 의문을 제기한다. 구체적 피해 규모와 원인은 아직 공개되지 않았다.",
+      "why": "대형 AI 기업들의 내부 보안 체계에 대한 신뢰도 문제로 번질 수 있다. 규제 당국의 개입 가능성도 거론된다.",
+      "source": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CSk9ZdGRuMHRYMHBJRV9Jank2ZEN3ZklaenZSM2t6VUtSalRtZkN3dE52RkI2NXNxZHM3UnJKdk9ZSEx0eUJobWdQek5nRkczZkp5Y1NQU2ZTbndkWGZuVmE3UkUyVU41OWZWV0J2NA?oc=5"
+    },
+    {
+      "headline": "중국, ByteDance·알리바바에 신형 엔비디아 칩 허용 검토",
+      "summary": "더인포메이션 보도에 따르면 중국 정부가 바이트댄스와 알리바바에 신형 엔비디아 AI 칩 구매를 허용하는 방안을 검토 중이다. 그동안 중국은 자국 기업의 미국산 AI 칩 사용을 제한해왔다. 이번 검토는 미중 반도체 갈등 완화 신호로 해석될 수 있다.",
+      "why": "미중 AI 칩 경쟁 구도에 변화가 생길 수 있는 사안이다. 엔비디아의 중국 시장 접근성 회복 여부가 관건이다.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX0pMdFpwUWhaRHhFM1pvcndCTDdIX1NOQUVwV2JIX0xIcXByV3Z4UWQyblZRVWl5elZ0TkYxV3BXUEluN0llM0VnUDJvVmN4X19pcXJVX0tSNDdEUWdaNGFFVVQ3N01VaWJHQ1FXVEdVZTJJcDFvZlJ0QmE0b2JpeGM4RDdBMDh4YmNxRkhILVJDRGktQzRPdGNsV2VxWHBjZWt0Q3hRN2FwZWlhcDhMcUZ0LUJsS1FoWGVQUG1PVWp4cEpCcEtVdUJVRVQ4cjZxVUxjM1lDWFM?oc=5"
+    },
+    {
+      "headline": "블루크로스 \"병원 AI 도입, 의료비 9.4억달러 늘려\"",
+      "summary": "미국 보험사 블루크로스 블루실드가 병원의 AI 도구 사용이 2년간 9억4200만달러의 추가 의료비 지출로 이어졌다고 주장했다. 보험업계는 AI 진단·기록 도구가 과잉 진료나 청구 증가로 이어질 수 있다고 우려한다. 병원 측 반박은 아직 나오지 않았다.",
+      "why": "AI 도입이 비용 절감이 아닌 비용 증가로 이어질 수 있다는 주장은 의료 AI 확산에 제동을 걸 수 있다.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+    }
+  ],
+  "quick": []
+}
