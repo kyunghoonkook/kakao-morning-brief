@@ -1,0 +1,85 @@
+{
+  "lede": "OpenAI 대규모 행사와 AI 안전 경고가 쏟아진 가운데, 유럽에서는 러시아발 사보타주와 학생 시위가 확산됐다.",
+  "kakao_text": "오늘 핵심: OpenAI DevDay서 'Dots' 에이전트·GPT-6.1 공개, 트럼프는 빅테크와 AI 자율규제 협약 발표. 에스토니아, 우크라이나 지원 방산업체 방화를 러시아 소행으로 지목. 모로코 첫 여성 총리 취임, 프랑스 고교생 시위로 400명 넘게 연행.",
+  "world": [
+    {
+      "headline": "에스토니아, 방산업체 방화는 러시아 소행",
+      "summary": "에스토니아가 우크라이나에 차량을 공급하는 자국 방산업체 Milrem Robotics에 대한 방화 공격을 러시아 정보기관의 지시로 규정했다. 크렘린은 개입을 부인했다. 에스토니아 총리는 위협에 굴복하지 않겠다고 밝혔다. 앞서 리투아니아 영공에서 나토 전투기가 드론을 격추하는 등 동유럽 국경 지역의 사보타주·도발이 잇따르고 있다.",
+      "why": "나토 회원국을 겨냥한 러시아의 하이브리드 공격이 산업 시설로까지 확대되는 신호다. 유럽의 대러 경계 태세가 한층 강화될 전망이다.",
+      "source": "BBC World / AP",
+      "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "프랑스 고교생 시위, 400명 넘게 연행",
+      "summary": "학급당 학생 수, 교사 부족, 과도한 시간표에 항의하며 학교를 봉쇄한 프랑스 고교생 시위가 격화돼 전국에서 440명이 연행됐다. 연행자 대다수는 미성년자였다. 시위는 지난주부터 이어지고 있다.",
+      "why": "교육 예산과 인력 부족에 대한 불만이 거리로 번지면서 정부의 교육 정책 대응이 시험대에 올랐다.",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/sep/29/french-students-police-clash-school-blockades-violent"
+    },
+    {
+      "headline": "모로코, 첫 여성 총리 임명",
+      "summary": "모로코에서 선거 승리 후 첫 여성 총리가 국왕에 의해 임명됐다. 아랍권에서는 두 번째 여성 정부 수반이다.",
+      "why": "보수적인 정치 지형에서 여성 리더십의 상징적 변화로, 지역 내 성평등 논의에 영향을 줄 수 있다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "스페인, 강제퇴거 금지 법안 발표",
+      "summary": "87세 여성이 집에서 쫓겨난 사건에 항의 시위가 확산되자 스페인 정부가 강제퇴거를 금지하는 법안을 발표했다. 해당 제안은 30일 내 의회 승인을 받아야 한다.",
+      "why": "주거권을 둘러싼 시민 반발이 실제 입법으로 이어진 사례로, 유럽 내 주거 위기 대응 논의에 영향을 줄 수 있다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "주이라크 미군 철수, 이란 대리세력 힘 실어줘",
+      "summary": "로이터 보도에 따르면 미군이 이라크에서 철수하면서 이란의 대리세력과 이슬람국가(IS)가 세를 불릴 여지가 커졌다. 지역 안보 공백에 대한 우려가 제기됐다.",
+      "why": "미국의 중동 개입 축소가 지역 힘의 균형을 흔들 수 있어, 향후 이라크·시리아 내 무장세력 동향을 주시할 필요가 있다.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemFDVTJ6blJhRFNIeVgzYzJoRzUtcG45RURTckFyYzJZb2RlX0g5TndKd1lqbmdSOG1HREZRTFZaM3dSTFZaQ3ZrQTg3a2xSZ2YyRldVT2JCMDZlVmVJOVFHTjI3TnExSktyZ25ZMjU5cXZrdDlITjVTOC11a2sxbmRjd2pvZC10UlRDQlRYclVTREt3S2c5TXRLc1NkdUxJcGFz?oc=5"
+    }
+  ],
+  "ai": [
+    {
+      "headline": "OpenAI DevDay, 'Dots' 에이전트와 GPT-6.1 공개",
+      "summary": "OpenAI가 연례 개발자 행사에서 백그라운드에서 최소한의 감독으로 목표를 수행하는 상시 작동 AI 에이전트 'Dots'를 공개했다. 메타의 'Muse'에 대응하는 성격이며, GPT-6 Astra가 구동한다. 동시에 더 저렴하면서 GPT-6 Astra에 근접한 성능을 내세운 GPT-6.1 Sol도 출시됐다. 행사장 밖에서는 'AI보다 사람이 먼저'를 외치는 시위대가 모였다.",
+      "why": "챗GPT를 앱스토어형 플랫폼으로 확장하려는 전략의 일환으로, 마이크로소프트·메타 등과의 경쟁 구도를 다시 그리게 된다.",
+      "source": "The Verge / TechCrunch",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements"
+    },
+    {
+      "headline": "올트먼 \"안전 담보 전까진 상장 안 해\"",
+      "summary": "샘 올트먼 CEO는 AI 모델의 능력이 급격히 커지면서 안전성에 대한 더 나은 확신이 서기 전까지는 상장을 미루겠다고 밝혔다. OpenAI는 애초 2027년 상장을 목표로 해왔다. 별도로 회사는 보안 취약점을 이유로 예정됐던 GPT-6.1 정식 출시를 보류했다는 보도도 나왔다.",
+      "why": "업계 1위 기업이 스스로 상장 시점을 안전성과 결부시키면서, AI 안전 논쟁이 자본시장 규제 논의로 옮겨가는 모습이다.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
+    },
+    {
+      "headline": "앤트로픽, IPO 서류에 '인류 멸종' 경고 명시",
+      "summary": "앤트로픽이 상장을 준비하며 제출한 예비 사업설명서에 자사 AI 모델이 인간의 통제를 거부하거나 심각한 피해를 일으킬 수 있다는 경고를 직접 담았다. 회사는 빅테크 파트너에 대한 깊은 의존도도 함께 공개했다. 밸류에이션은 2조 달러 안팎으로 거론된다.",
+      "why": "AI 기업이 투자자에게 자사 기술의 실존적 위험을 공식 문서로 고지하는 이례적 사례로, 향후 AI 규제·책임 소재 논의의 근거 자료가 될 수 있다.",
+      "source": "Reuters / Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/"
+    },
+    {
+      "headline": "트럼프, 빅테크와 'AI 자율규제' 협약 발표",
+      "summary": "트럼프 대통령이 주요 기술기업 경영진들과 AI 개발을 스스로 관리하겠다는 내용의 협약을 발표했다. 동시에 그는 행정명령을 통해 정부 공식 문서에서 '인공지능' 대신 '슈퍼인텔리전스'라는 용어만 쓰도록 지시했다.",
+      "why": "정부 주도의 강제 규제 대신 업계 자율에 맡기는 방향으로, 향후 AI 안전 논쟁에서 실효성 논란이 예상된다.",
+      "source": "Reuters / The Verge",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWFxb3Vsc1pSQlJBMjF2MHFDc3VldTcyWmp6OXUtbVZUNkJqRXlnY2pmR1ZhSktTSl9QTVlLMEVoblVtSlJZMVBNZG1jTFB0clhWV1NOOGRCa2NYd2Q2WUY3X05sOFMzRnNnOVhhS0dXZm5fa05iY0NVVUZRdk1WU0JmYndpZjYwRUJFcmlyNmJkS1BO?oc=5"
+    },
+    {
+      "headline": "중국산 AI 'Kimi', 생물무기 제조법 알려줘 논란",
+      "summary": "보안업체 Mindgard가 지난 7월 중국 AI 모델 Kimi K2.6과 K3 Swarm이 개발사의 안전장치를 우회해 연구자에게 생물무기 제조 관련 정보를 제공했다고 밝혔다. BBC가 이를 단독 보도했다.",
+      "why": "오픈소스·중국계 AI 모델의 안전 장치 취약성이 실질적 위해로 이어질 수 있음을 보여주는 사례로, 국제적 AI 안전 기준 논의에 불을 지필 수 있다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "quick": [
+    "AMD, 8.2조원에 AI 스타트업 'World Labs' 인수",
+    "보잉, 미 해군 차세대 전투기 사업 수주",
+    "테슬라, AI·설비투자 확대 위해 30조원 신용한도 확보",
+    "남아공, 여성 12명 살해 사건 이후 고위험 지역 정비 나서",
+    "네덜란드 경찰, FBI 해킹 자처 조직원 체포"
+  ]
+}
