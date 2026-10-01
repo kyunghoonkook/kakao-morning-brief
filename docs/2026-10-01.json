@@ -1,0 +1,79 @@
+{
+  "lede": "이스라엘행 여객기 기내 흉기 난동과 러시아의 대규모 공습이 세계 안보 불안을 키운 가운데, 구글이 신형 AI 모델 제미나이4를 공개했습니다.",
+  "kakao_text": "이스라엘행 플라이두바이 여객기에서 부기장이 기장을 흉기로 공격, 승객들이 제압해 사우디에 비상착륙했습니다. 러시아는 우크라이나 에너지 시설에 올봄 이후 최대 공습을 가했고, 푸틴은 전쟁 지속 의지를 밝혔습니다. 구글은 신형 AI '제미나이4 아르곤'을 공개했지만 보안 우려로 접근을 제한했습니다.",
+  "world": [
+    {
+      "headline": "이스라엘행 여객기서 부기장이 기장 흉기 공격",
+      "summary": "플라이두바이 여객기에서 부기장으로 추정되는 조종사가 다른 조종사를 흉기로 공격했습니다. 승객과 승무원들이 공격자를 제압했고, 비행기는 사우디아라비아에 안전하게 비상착륙했습니다. 네타냐후 이스라엘 총리와 모디 인도 총리는 다친 기장을 '영웅'이라 칭했으며, 공격한 조종사는 체포돼 조사받고 있습니다.",
+      "why": "민간 항공 보안의 허점을 드러낸 이례적 사건으로, 조종실 내 신원 검증과 심리 평가 체계에 대한 논의로 이어질 가능성이 있습니다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "러, 우크라 에너지시설에 올봄 이후 최대 공습",
+      "summary": "러시아가 우크라이나 11개 지역을 겨냥해 올봄 이후 최대 규모의 에너지 기반시설 공습을 감행했습니다. 주거용 건물과 철도도 공격받았다고 우크라이나 총리가 밝혔습니다. 같은 날 푸틴 대통령은 외교정책 연설에서 전쟁을 멈출 조짐을 보이지 않았습니다.",
+      "why": "겨울을 앞두고 에너지 시설을 겨냥한 공습이 반복되면 우크라이나 민간인 피해와 서방의 추가 제재 압박이 커질 수 있습니다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "美법원, 트럼프 H-1B 비자 10만달러 수수료 또 제동",
+      "summary": "미국 연방법원 판사가 트럼프 행정부의 신규 H-1B 비자 신청자에 10만달러 수수료를 부과하는 정책에 두 번째로 제동을 걸었습니다. 이는 기업들의 해외 전문인력 채용 비용을 크게 높이는 조치였습니다. 법적 다툼이 이어지면서 시행 여부는 불투명한 상태입니다.",
+      "why": "IT·AI 업계의 해외 인재 확보 전략에 직접 영향을 미치는 사안으로, 최종 판결 결과에 따라 미국 기업의 글로벌 인재 채용 방식이 달라질 수 있습니다.",
+      "source": "Reuters (via Google)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3FZTkJ2YkRwSTR5U0dmMll4R0ZXTy01OTdDNWJrdUlDUmxSN29kaEZacnBpNm0yekdidlh6WHcxNXB1OEF0SFloWHFqMzNod2pFZnVLLXdjOW05Q2I0U1Y0R3NjNlJ1OVRrM1U3dk1MZ1hUem1yMGUtdEJaTlFrSTVPaGRUcnNDUEJIOGZMVGxRQkNJQlFhRXl3RGU5aFdOUWFaYU01ZFBLQTVrdjlDbVpB?oc=5"
+    },
+    {
+      "headline": "스위스 빙하, 올해 기록적 폭염으로 5% 이상 소실",
+      "summary": "스위스 빙하가 기록적인 폭염 이후 올해 5% 이상의 얼음을 잃었다고 과학자들이 밝혔습니다. 전문가들은 이런 급속한 융해가 더 이상 놀라운 일이 아니라고 말합니다. 이는 수자원 공급에도 위협이 되고 있습니다.",
+      "why": "알프스 빙하는 유럽 주요 하천의 수원으로, 소실 속도가 빨라지면 장기적으로 농업과 식수 공급에 연쇄 영향을 줄 수 있습니다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "네팔 산사태로 약 30명 사망, 등산객 헬기 구조",
+      "summary": "네팔에서 한 달 전 대규모 홍수 피해에 이어 또다시 산사태와 폭우가 발생해 약 30명이 숨졌습니다. 등산객들은 헬기로 긴급 구조됐습니다. 피해는 산악 지역 전역으로 확산되고 있습니다.",
+      "why": "기후변화로 인한 극한 강우가 반복되면서 히말라야 지역의 재난 대응 체계와 관광 안전 기준에 대한 점검이 필요해졌습니다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "ai": [
+    {
+      "headline": "구글, 신형 AI '제미나이4 아르곤' 공개",
+      "summary": "구글이 수개월간의 지연 끝에 최신 플래그십 AI 모델 '제미나이4 아르곤'을 발표했습니다. 코딩과 사이버보안 업무에 특화된 모델로 소개됐으며, 복잡한 소프트웨어 엔지니어링과 법률·금융 등 전문 업무에서 최고 수준 성능을 낸다고 주장합니다. 다만 구글은 보안 우려를 이유로 '신뢰할 수 있는 사이버 방어자'에게만 우선 접근을 허용하고 있어 일반 이용자는 아직 사용할 수 없습니다.",
+      "why": "강력한 AI 모델의 공개 전 접근 제한은 안전성 논쟁과 함께, 경쟁사 오픈AI·앤스로픽과의 모델 성능 경쟁 구도에 영향을 줄 전망입니다.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
+    },
+    {
+      "headline": "오픈AI, 안전성 우려로 IPO 또 연기",
+      "summary": "오픈AI가 모델 안전성에 대한 우려를 이유로 기업공개(IPO)를 미루고 있습니다. 대신 민간에서 300억달러 규모의 추가 자금 조달을 추진 중입니다. 샘 올트먼 CEO는 모델이 더 안전해졌다는 확신이 설 때까지 상장하지 않겠다고 밝혔습니다.",
+      "why": "AI 능력이 빠르게 발전하는 가운데 최대 플레이어가 상장을 미룬다는 것은 업계 전반의 안전성·규제 리스크가 투자시장에 본격 반영되고 있음을 보여줍니다.",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/"
+    },
+    {
+      "headline": "트럼프, AI 안전 자율규제 협약 체결",
+      "summary": "트럼프 대통령이 주재한 빅테크 수장들과의 회동 후 'Joint Commitment on Frontier Responsibilities'라는 자율 규제 협약이 공개됐습니다. 주요 AI 기업들이 자발적 안전성 테스트에 서명했습니다. 트럼프는 동시에 '인공지능(AI)' 대신 '슈퍼인텔리전스'라는 용어를 공식 사용하라는 행정명령에도 서명했습니다.",
+      "why": "정부 주도 규제 대신 기업 자율 규제에 의존하는 방식이어서 실효성 논란이 예상되며, 향후 AI 사고 발생 시 책임 소재 논란의 기준점이 될 수 있습니다.",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/"
+    },
+    {
+      "headline": "AMD, 82억달러에 AI 스타트업 월드랩스 인수",
+      "summary": "AMD가 페이페이 리가 창업한 월드모델 스타트업 월드랩스를 82억달러에 인수한다고 발표했습니다. 거래는 연내 마무리될 전망입니다. 이는 엔비디아에 맞선 AI 하드웨어 경쟁 강화 행보로 풀이됩니다.",
+      "why": "AI 반도체 시장에서 엔비디아 독주 구도에 균열을 내려는 움직임으로, 월드모델 기술 확보 경쟁이 본격화될 신호입니다.",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/"
+    },
+    {
+      "headline": "일본 법원, AI 음성 복제는 배우 권리 침해",
+      "summary": "도쿄지방법원이 틱톡 계정이 배우 쓰다 겐지로의 목소리를 AI로 복제해 영상에 사용한 것은 그의 권리를 침해한다고 판결했습니다. 법원은 목소리도 초상권과 같은 보호를 받아야 한다고 밝혔습니다. 이는 일본에서 AI 음성 복제 관련 첫 판례로 꼽힙니다.",
+      "why": "생성형 AI의 목소리 복제가 법적 책임 문제로 이어진 상징적 판결로, 다른 국가의 유사 소송과 규제 논의에 참고 사례가 될 전망입니다.",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court"
+    }
+  ],
+  "quick": []
+}
