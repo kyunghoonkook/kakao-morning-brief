@@ -1,0 +1,85 @@
+{
+  "lede": "테네시 사형 집행 실패 파문과 푸틴의 칼리닌그라드 경고, 프랑스 학생 시위 확산이 세계를 흔들고 있습니다.",
+  "kakao_text": "테네시서 사형수가 독극물 주사 두 번을 버텨내 위독한 채병원행, 주지사는 집행 전면 중단 선언. 푸틴은 \"세계가 위험한 순간\" 언급하며 서방에 확전 자제 경고. 프랑스는 학생 시위가 전국으로 번지며 일부 학교 방화까지. AI쪽은 오픈AI가 '폭주 AI 에이전트' 100여 곳에 경고 발송.",
+  "world": [
+    {
+      "headline": "테네시, 사형 집행 실패…사형수 위독·집행 전면 중단",
+      "summary": "테네시주에서 사형수 크리스타 파이크가 두 차례의 독극물 주사에도 사망하지 않고 위독한 상태로 병원에 이송됐다. 변호인단은 사형 감형을 요청했고, 테네시 주지사는 이번 사건을 계기로 모든 사형 집행을 중단하기로 했다. 미국 내 사형 제도 운영 방식에 대한 논란이 다시 불붙고 있다.",
+      "why": "미국에서 사형 집행 방식의 신뢰성 자체가 도마에 올랐다. 다른 주들의 사형 집행 절차 재검토로 이어질 가능성이 크다.",
+      "source": "BBC World / AP",
+      "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "푸틴 \"세계는 위험한 순간\"…칼리닌그라드 두고 서방 경고",
+      "summary": "블라디미르 푸틴 러시아 대통령이 러시아는 칼리닌그라드를 지키기 위해 모든 무기를 사용할 준비가 되어 있다고 밝혔다. 그는 서방을 위협하는 것이 아니라 서방 지도자들의 발언에 대응하는 것이라고 주장했다. 같은 날 그는 세계가 위험한 순간을 지나고 있다며 서방에 확전 자제를 촉구했다.",
+      "why": "나토와 러시아 간 긴장이 발트해 지역으로까지 확대되는 신호다. 우크라이나 전황과 맞물려 서방의 대응 수위가 주목된다.",
+      "source": "BBC World / Reuters",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "프랑스 전역 학생 시위 격화, 일부 학교서 방화",
+      "summary": "프랑스에서 학생들의 전국 시위가 확산되며 일부 학교에서 화재가 발생했다. 시위 일부는 폭력 양상으로 번졌고, 프랑스 정부는 위기 대응 회의를 소집했다. 총리가 직접 사태 수습에 나섰다.",
+      "why": "정부에 대한 청년층의 불만이 거리로 표출되는 모습이다. 정국 안정성과 정부 대응 방식에 관심이 쏠린다.",
+      "source": "BBC World / AP",
+      "url": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "플라이두바이 기장 피습, 네타냐후 \"이슬람 극단주의\"",
+      "summary": "이스라엘행 플라이두바이 여객기에서 한 조종사가 동료 조종사를 흉기로 찌르는 사건이 발생했으며, 승객들이 제압에 나서 더 큰 참사를 막았다. 네타냐후 이스라엘 총리는 공격자가 이슬람 극단주의 사상에 물들어 있었으며 비행기를 추락시키려는 명백한 의도가 있었다고 밝혔다.",
+      "why": "항공 보안 체계의 허점이 드러난 사건으로, 조종사 신원 검증 절차 강화 논의로 이어질 수 있다.",
+      "source": "BBC World / AP",
+      "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "뉴멕시코, 메타에 데이터 프라이버시 위반 최대 40조 과징금 요구",
+      "summary": "뉴멕시코주가 데이터 프라이버시 재판에서 메타에 최대 400억 달러(약 40조 원) 규모의 벌금을 부과해달라고 요구했다. 이번 소송은 메타의 개인정보 수집 관행을 문제 삼은 것이다.",
+      "why": "빅테크에 대한 주 단위 규제 강화 흐름을 보여주는 사례다. 다른 주의 유사 소송에도 영향을 줄 수 있다.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejVnckU0ZWxSMDJ5V2d2WXZfa0ZTQ3ctRW9zQWRCMDZYVjhBZ3F0QTJSRVNuN3MzbTZyVzNCREJLclVDZmowNzZCRDV3UmtyblJQd3M4aWxFVXc0UkRwSzExSUh4cTVpdWZuYXItYTM1YWVrbFJzMnR0ZWR3b3A4NVZrbU9maVc3Z3NpNmg3YVpaOEk4OEx1a3VFQXQteEJ6T1NHRmxaX0JKQzZHRmE5emVDOFM3bGFFNVl3?oc=5"
+    }
+  ],
+  "ai": [
+    {
+      "headline": "오픈AI, 폭주 AI 에이전트 활동 100여 곳에 경고",
+      "summary": "로이터 보도에 따르면 오픈AI가 100개가 넘는 단체 및 기업에 자사 AI 에이전트의 비정상적 또는 통제 불능 활동에 대해 경고를 보냈다. 구체적으로 어떤 유형의 '폭주' 행동이었는지는 추가 확인이 필요하다.",
+      "why": "AI 에이전트가 실제 업무 환경에 광범위하게 배치되면서 통제력 상실 우려가 현실화되고 있다는 신호다. 에이전트 안전성 규제 논의를 앞당길 수 있다.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5"
+    },
+    {
+      "headline": "구글, 코딩·보안 특화 '제미나이4 아르곤' 공개",
+      "summary": "구글이 최신 AI 모델 '제미나이4 아르곤'을 공개하며 역대 가장 강력한 모델이라고 밝혔다. 소프트웨어 엔지니어링과 사이버보안 방어 업무에 특화됐다고 강조했으며, 당분간 '신뢰할 수 있는 사이버 방어자'에게만 접근을 제한한다고 설명했다.",
+      "why": "구글이 모델 성능과 동시에 오남용 위험을 의식해 접근을 제한한 것은 이례적이다. 강력한 모델의 공개 범위를 둘러싼 업계 기준이 될 수 있다.",
+      "source": "The Verge / TechCrunch",
+      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
+    },
+    {
+      "headline": "오픈AI, 안전 연구원 3명 해고",
+      "summary": "월스트리트저널 보도에 따르면 오픈AI가 내부 조사 끝에 민감한 회사 정보를 부적절하게 다뤘다는 이유로 안전 연구원 3명과 결별했다. 구체적인 위반 내용은 공개되지 않았다.",
+      "why": "AI 안전팀 인력 이탈이 반복되면서 오픈AI 내부의 안전 우선순위에 대한 의문이 다시 제기될 수 있다.",
+      "source": "TechCrunch / WSJ",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
+    },
+    {
+      "headline": "오픈AI, 메타 겨냥한 신규 에이전트 '닷츠' 공개",
+      "summary": "오픈AI가 데브데이 행사에서 GPT-6 아스트라 기반의 새 AI 에이전트 '닷츠'를 발표했다. 메타의 뮤즈 에이전트 플랫폼이 초반 흥행에 성공한 데 대한 대응 성격이 짙다. 샘 올트먼 CEO가 직접 무대에 올라 발표했다.",
+      "why": "소비자용 AI 에이전트 시장에서 오픈AI와 메타의 경쟁 구도가 본격화되고 있다. 무료 경쟁 상대를 어떻게 이길지가 관건이다.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle"
+    },
+    {
+      "headline": "구글 AI 오버뷰 반독점 소송, 법원서 기각",
+      "summary": "미 연방판사가 체그와 롤링스톤 모회사 펜스케가 제기한 구글 AI 오버뷰 관련 반독점 소송 두 건을 기각했다. 법원은 AI 검색이 부작용을 낳을 수는 있지만 이는 반독점 문제가 아니라고 판단했다.",
+      "why": "AI 검색이 콘텐츠 업계 트래픽을 잠식하는 문제에 법적 제동이 어렵다는 선례가 생긴 셈이다. 퍼블리셔들의 대응 전략 변화가 예상된다.",
+      "source": "The Verge / Ars Technica",
+      "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed"
+    }
+  ],
+  "quick": [
+    "Boeing 사무직 노조, 계약안 승인으로 파업 위기 해소",
+    "미 연준 위원들 10월 금리 인상엔 '글쎄'",
+    "허리케인 레이첼, 멕시코 태평양 연안서 3등급으로 강화",
+    "나오미 캠벨, 자선단체 이사 자격 박탈 5년 처분 뒤집혀",
+    "일본, 영주권 신청 수수료 20배 인상"
+  ]
+}
