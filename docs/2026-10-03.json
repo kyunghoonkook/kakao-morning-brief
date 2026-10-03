@@ -1,0 +1,85 @@
+{
+  "lede": "G7 산유국 비축유 방출과 중동 유조선 피격으로 유가 긴장이 커진 가운데, 브라질은 일요일 대선을 앞두고 격렬해졌다.",
+  "kakao_text": "[아침 브리핑] G7, 트럼프의 경유 수출금지 압박에 원유·경유 1억배럴 공동 방출 예정. 오만 인근서 유조선 피격 발생. 키우우 러시아 공습에 전력난 심화. 브라질은 내일 결선, 룰라 \"내가 파시즘 막는 마지막 방패\". 테네시 사형 집행 실패로 여성 수감자 식물인간 상태.",
+  "world": [
+    {
+      "headline": "G7, 트럼프 수출금지 압박에 비축유 1억배럴 방출",
+      "summary": "G7 국가들이 원유와 경유 1억 배럴을 공동 방출하기로 했다. 트럼프 대통령이 미국산 경유 수출 금지를 위협한 데 따른 조치다. 유가 추가 급등을 막기 위한 선제 대응으로 풀이된다.",
+      "why": "에너지 공급망에 대한 정치적 개입이 현실화되는 신호다. 미국의 수출 정책이 세계 유가를 좌우하는 변수로 떠올랐다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "오만 인근서 유조선 정체불명 발사체에 피격",
+      "summary": "오만 인근 해역에서 원유 유조선이 정체불명의 발사체에 맞았다고 영국 해사기구(UKMTO)가 밝혔다. 자세한 피해 규모나 공격 주체는 아직 확인되지 않았다.",
+      "why": "중동 해상 물류 안전에 대한 우려가 다시 커지고 있다. G7의 비축유 방출과 맞물려 유가 변동성을 키울 수 있다.",
+      "source": "Reuters (via Google)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWmh6LU5XZFg0NGU2MUxjNUVHc3lBd0lYMy1LNW81NU9TY0pQM051NVdWX1otZ181NDZYSWtXb2txc2RVbmVIMC1wTTFLVWVYN0ZZUGY1VmdRSFBNZDlGZ2NyeExDSEhWaEVsSHRtY0tGQWxrU1NXay1GS3ZxUExLWlRCRUMxNGx0NHhJbTBwOTRJaUx1amQxVXFqWEtETTF5eVNGZ2xHSWt6aUdycTJ5YjJQanA3bjBU?oc=5"
+    },
+    {
+      "headline": "러시아 공습 격화, 키이우 시장 \"매우 심각\"",
+      "summary": "러시아의 공습이 강화되며 키이우 기반시설이 집중 타격을 입고 있다. 클리치코 시장은 수도 상황이 '매우 극적'이라고 경고했다. 전력과 주요 인프라 피해가 커지고 있다.",
+      "why": "겨울을 앞두고 우크라이나의 에너지 인프라 공격이 반복되면 민간 피해와 국제사회의 추가 지원 압박이 커질 수 있다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "브라질 대선 결선 앞두고 룰라 \"내가 파시즘 막는다\"",
+      "summary": "룰라 대통령이 리우에서 대규모 집회를 열고 보우소나루 아들의 극우 세력 집권을 막을 사람은 자신뿐이라고 주장했다. 일요일 결선 투표를 앞두고 선거전이 최고조에 달했다. 수십 년 만에 가장 중요한 선거로 평가된다.",
+      "why": "남미 최대 경제국의 향방이 걸린 선거로, 결과에 따라 지역 정치 지형과 미국과의 관계가 크게 바뀔 수 있다.",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son"
+    },
+    {
+      "headline": "스페인 산체스 총리, 주거 위기 법안 표결서 패배",
+      "summary": "87세 여성의 강제 퇴거 사건 이후 추진된 주거 위기 대응 법안이 의회 표결에서 부결됐다. 연이은 스캔들에 시달리는 산체스 총리에게 조기 총선 압박이 커지고 있다.",
+      "why": "연립정부의 기반이 흔들리며 스페인 정치 불안정성이 커질 가능성이 있다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "ai": [
+    {
+      "headline": "애플, AI 에이전트 위험에 맥 '전체 디스크 접근' 제한 강화",
+      "summary": "애플이 메타의 Muse 등 AI 에이전트가 메시지·메일·파일에 광범위하게 접근할 수 있다는 우려가 제기되자 macOS의 '전체 디스크 접근' 권한 통제를 강화한다고 밝혔다. 사용자가 명확히 원할 때만 이 권한을 부여할 수 있도록 절차를 바꾼다. AI 요청이 데이터에 접근할 때 이를 표시하는 기능도 추가한다.",
+      "why": "AI 에이전트의 개인정보 접근 범위가 플랫폼 차원의 보안 정책을 바꾸는 계기가 되고 있다. 다른 OS·플랫폼도 유사한 규제를 따를지 주목된다.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+    },
+    {
+      "headline": "메타, Muse AI 탑재 가전 코드 오픈소스 공개",
+      "summary": "메타가 자사 AI 에이전트 Muse를 TV, 디스플레이, HDMI 스틱 등 각종 기기에 넣을 수 있도록 관련 코드를 무료로 공개했다. 이용자가 직접 E잉크 디스플레이나 토스터 같은 기기에 Muse를 탑재하는 프로젝트를 제안하고 있다.",
+      "why": "AI 에이전트를 일상 가전으로 확산시키려는 전략으로, 동시에 데이터 접근 범위 논란도 함께 커질 수 있다.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
+    },
+    {
+      "headline": "美, 엔비디아 칩 3억달러 중국 밀반출 혐의 CEO 체포",
+      "summary": "미국 당국이 엔비디아 반도체 약 3억 달러어치를 중국으로 밀반출한 혐의로 한 테크 기업 CEO를 체포했다. 첨단 AI 칩의 대중 수출 통제를 둘러싼 단속이 계속되고 있다.",
+      "why": "미중 기술 패권 경쟁 속에서 AI 반도체 밀수 단속이 강화되는 흐름을 보여준다. 추가 기소와 공급망 조사로 이어질 수 있다.",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/"
+    },
+    {
+      "headline": "아마존, 데이터센터 반발 달래려 10억달러 투입했지만 역풍",
+      "summary": "아마존웹서비스(AWS)가 지역사회의 데이터센터 반대 여론을 잠재우기 위해 10억 달러 규모의 대응 계획을 내놨다. 비밀유지계약(NDA) 폐지는 긍정적 평가를 받았지만, 오염 문제를 축소했다는 비판도 이어지고 있다. AWS CEO는 별도로 데이터센터를 막으면 경제와 안보에 해가 될 수 있다는 경고성 글도 올렸다.",
+      "why": "AI 인프라 확장과 지역사회 갈등이 본격적인 사회적 쟁점으로 떠오르고 있다. 전력 수요와 환경 문제가 AI 산업의 발목을 잡을 수 있다.",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/"
+    },
+    {
+      "headline": "'LLM은 추론하지 않는다'는 지적, 알파고 일화로 반박 시도",
+      "summary": "MIT 테크놀로지 리뷰 기고자는 2016년 알파고의 '수 37' 사례를 들어, 겉으로 창의적으로 보이는 AI의 결과물도 통계적 계산의 산물일 뿐 진짜 추론이 아니라고 주장했다. 거대언어모델의 능력을 둘러싼 논쟁이 다시 불붙었다.",
+      "why": "AI 성능 과장에 대한 회의론이 산업계 투자 열기와 충돌하는 지점을 보여준다. 엔터프라이즈 AI 도입 전략에도 영향을 줄 수 있는 논쟁이다.",
+      "source": "MIT Tech Review AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/"
+    }
+  ],
+  "quick": [
+    "플라이두바이 조종사, 부기장 기내 공격 당시 상황 증언",
+    "테네시 사형수 크리스타 파이크, 집행 실패 후 식물인간 상태",
+    "방콕 홍수로 40명 사망, 전 50개 구 재난 선포",
+    "빅토리아주 규모 4.8 지진, 멜버른 전역서 흔들림 감지",
+    "북한, 동해로 탄도미사일 발사"
+  ]
+}
