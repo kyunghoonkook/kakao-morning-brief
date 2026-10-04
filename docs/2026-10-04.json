@@ -1,0 +1,79 @@
+{
+  "lede": "브라질 대선 1차 투표, 우크라이나 전역 확산, OpenAI 안전 인력 이탈까지 - 긴장감 도는 일요일입니다.",
+  "kakao_text": "오늘 가장 큰 뉴스: 브라질 룰라-보우소나루 아들 1차 투표 임박, 러시아가 키이우 두 번째 다리까지 타격, 우크라이나는 러시아 정유시설 보복 예고. 테네시 사형 집행 실패로 교정청장 사임. OpenAI 안전 담당자 퇴사하며 \"조직 문화 망가졌다\" 경고.",
+  "world": [
+    {
+      "headline": "브라질 대선 1차 투표, 룰라-보우소나루 아들 격돌",
+      "summary": "브라질이 일요일 대선 1차 투표를 치른다. 좌파 현직 대통령 룰라와 쿠데타 모의로 유죄를 받은 전 대통령 보우소나루의 아들이 맞붙는다. 여론조사에서는 룰라가 앞서지만 결선투표 가능성이 높다. 트럼프 전 대통령이 공개적으로 우파 후보들을 지지하며 미국의 선거 개입 논란도 불거졌다.",
+      "why": "중남미에서 친트럼프 우파 블록이 확장될지 가늠하는 시험대다. 결과에 따라 미국-브라질 관계와 지역 정치 지형이 크게 바뀐다.",
+      "source": "Reuters / The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaWZkR3hKMFloMFpIS0JxeEdZcFhOOEFDdHRLMm01VDZWb3Z0VTM0MjdtbEt2WkdkdnRHZWV6S1lCOHdubmNra3cyY292RTdCNUZXNG9ya2MwYk1NZWY0MmtvYkJBbGc0SEN2YjdZYUR2ZEt0dGQ5TGRSSTRkRHp2WDdYQjhaQ05mNTNQQTBTcGV5RzdKWVI1Z1BZeVU3ZEJuYjNWd2F0MF9DeVdlM2x2ZFlkdlUzdkxfWlVhX2Nn?oc=5"
+    },
+    {
+      "headline": "러시아, 키이우 두 번째 교량 타격...우크라이나 보복 예고",
+      "summary": "러시아가 키이우의 북부(Pivnichnyi) 교량을 공격했다. 이미 다른 주요 교량이 반복 공격을 받은 데 이어서다. 러시아는 키이우에 대한 대규모 공습을 계속하겠다며 외국 외교관들에게 도시를 떠나라고 경고했다. 젤렌스키 대통령은 모스크바의 새로운 공습 교리에 맞서 러시아 정유시설을 타격하겠다고 밝혔다.",
+      "why": "전쟁이 인프라 파괴전으로 격화되고 있다는 신호다. 우크라이나의 정유시설 보복이 현실화되면 러시아 내 민간 에너지 공급에도 영향이 번질 수 있다.",
+      "source": "BBC / Reuters",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "플라이두바이 기체 피랍 시도, 부기장 도끼로 기장 공격",
+      "summary": "이스라엘행 플라이두바이 여객기에서 부기장이 도끼로 기장을 공격하며 기체 장악을 시도한 사건이 발생했다. 용의자는 하맘 알하마미로 알려졌으며, 사전에 극단주의 성향으로 당국에 포착된 적이 있던 것으로 드러났다. 호주 당국은 그가 유학생 신분으로 호주에 약 2년간 머물렀던 기간을 조사 중이다.",
+      "why": "항공 보안 시스템의 사전 경고 체계가 왜 작동하지 않았는지가 핵심 쟁점이 될 전망이다. 여러 나라에 걸친 용의자 행적 추적도 이어질 것으로 보인다.",
+      "source": "BBC / AP",
+      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "테네시 사형 집행 실패, 교정청장 결국 사임",
+      "summary": "크리스타 파이크에 대한 독극물 주사 사형 집행이 두 차례 실패했고, 파이크는 위중한 상태다. 변호인단은 이번 사태가 한 개인의 문제를 넘어선다고 지적했다. 결국 테네시 교정청장이 사임을 발표했다.",
+      "why": "미국 사형 집행 절차의 안전성과 신뢰성에 대한 논란이 다시 커질 것으로 보인다. 다른 주의 사형 집행 방식에도 파장이 미칠 수 있다.",
+      "source": "BBC / Reuters",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "스페인, 주거비 위기 항의 시위에 수만 명 거리로",
+      "summary": "스페인 전역 50여 곳에서 토요일 대규모 시위가 열렸다. 정부가 주거 관련 긴급 입법을 의회에서 통과시키지 못한 데 대한 반발이다. 참가자들은 치솟는 집값과 임대료에 분노를 표출했다.",
+      "why": "유럽 전역에서 주거비 위기가 정치적 뇌관으로 떠오르고 있음을 보여주는 사례다. 정부의 입법 실패가 반복되면 정치적 불안정으로 이어질 수 있다.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "ai": [
+    {
+      "headline": "OpenAI 안전 담당자 퇴사, \"회사 문화가 망가졌다\"",
+      "summary": "매 주요 모델 출시마다 안전보고서를 작성해온 데이비드 로빈슨이 OpenAI를 떠났다. 그는 애틀랜틱 기고문을 통해 \"시행착오의 시간은 끝났다\"며 회사 내부 문화 문제를 공개적으로 지적했다. 국내 언론도 그의 발언을 인용해 AI를 원전처럼 다뤄야 한다는 주장을 보도했다.",
+      "why": "AI 기업 내부 안전 담당자의 연쇄 이탈이 이어지면 업계 자율규제에 대한 신뢰가 흔들릴 수 있다. 각국 정부의 규제 논의에도 영향을 줄 변수다.",
+      "source": "TechCrunch / The Verge",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+    },
+    {
+      "headline": "아마존, 데이터센터 논란에 \"NDA 더 이상 안 쓴다\"",
+      "summary": "아마존웹서비스 CEO가 데이터센터를 둘러싼 지역사회의 광범위한 의혹에 대해 직접 해명에 나섰다. 더 이상 지역 주민들과 비밀유지계약(NDA)을 맺지 않는다고 밝혔다. 전력·수자원 사용을 둘러싼 데이터센터 반발이 커지는 가운데 나온 대응이다.",
+      "why": "빅테크의 AI 인프라 확장이 지역사회와의 마찰을 빚는 사례가 늘고 있음을 보여준다. 투명성 요구가 다른 기업으로도 확산될 수 있다.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+    },
+    {
+      "headline": "美 재무장관 \"AI 주도권, 중국에 내줄 수 없다\"",
+      "summary": "베선트 미 재무장관이 AI 패권을 중국에 내줘선 안 된다며 안전하게 개발 속도를 높여야 한다고 강조했다. 그는 AI 규제를 요구하는 일부 CEO들을 한니발 렉터에 비유하며 강하게 비판했다. 유엔 무대에서도 AI 패권 경쟁이 쟁점으로 떠올랐다.",
+      "why": "미국 정부 내에서도 AI 속도조절론과 가속론이 정면으로 충돌하고 있다. 정책 방향에 따라 글로벌 AI 규제 지형이 크게 달라질 수 있다.",
+      "source": "조선일보 / aitimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHJmLVNXSmlVMFd0LXVtNDFVWGtucV9HeDF5aHctdV81R3FySzFjUUJncUlIaXhGdkotcUM5OVNxRTV1ajFSeXdDRVhxUl9UM2ZsQ2hOX0FZQ0hFZnprQTNnMEY4UEtaRUFBaWtocGRuWFVrQWhOdTM0OFQzcVFyVlNJa04wMFB6?oc=5"
+    },
+    {
+      "headline": "애플, AI 에이전트 악용 막게 전체디스크 접근권한 손본다",
+      "summary": "애플이 전체 디스크 접근(FDA) 권한 체계를 바꿔 AI 에이전트의 메시지 무단 열람 등 악용을 차단하기로 했다. 메타는 자사 AI 에이전트 뮤즈가 메시지를 읽으려면 FDA만으로는 부족하다고 주장했지만 애플은 이에 동의하지 않는 입장이다. 두 회사의 입장 차가 공개적으로 드러났다.",
+      "why": "AI 에이전트가 운영체제 수준 권한에 접근하는 방식을 둘러싼 플랫폼 간 갈등이 본격화되고 있다. 사용자 프라이버시 보호 기준을 누가 정할지가 쟁점이다.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
+    },
+    {
+      "headline": "법원 \"플록 안면인식, 무차별 대중감시\" 규정",
+      "summary": "미 연방판사가 안면인식 카메라 업체 플록의 시스템을 '무차별적 대중 감시'라고 규정했다. 해커뉴스에서 300점 이상 득표하며 큰 관심을 받은 사안이다. AI 기반 감시 기술의 합법성에 대한 사법적 제동으로 해석된다.",
+      "why": "법원의 이런 판단은 경찰과 지자체의 AI 감시 카메라 도입 확산에 제동을 걸 수 있는 선례가 된다. 관련 소송이 잇따를 가능성이 있다.",
+      "source": "TechCrunch / Hacker News",
+      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
+    }
+  ],
+  "quick": []
+}
