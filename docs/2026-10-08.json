@@ -1,0 +1,85 @@
+{
+  "lede": "우크라이나 야간 미사일 공격으로 민간인 25명 사망, 브라질 대선은 보우소나루가家로 쏠리는 중입니다.",
+  "kakao_text": "러시아, 우크라이나 야간 미사일 공격으로 어린이 포함 25명 사망. 브라질 대선 1차 투표에서 플라비우 보우소나루 선두. 삼성전자 AI 호황으로 분기 영업익 80조원 전망. OpenAI GPT-6·ChatGPT 새 UI 공개.",
+  "world": [
+    {
+      "headline": "러 미사일, 우크라이나 아파트 덮쳐 25명 사망",
+      "summary": "러시아가 우크라이나 북부 도시의 아파트 단지를 미사일로 공격해 어린이 5명을 포함해 최소 25명이 숨졌다. 주민들이 잠든 새벽 시간에 벌어진 공격으로 건물 30여 세대가 파괴됐다. AP는 키이우 당국이 이번 공격을 사전에 예상하고 있었다고 전했다.",
+      "why": "대규모 민간 지역 공습이 계속되며 종전 협상 가능성에 대한 회의론이 커지고 있다. 트럼프 행정부의 중재 역할이 다시 시험대에 오를 전망이다.",
+      "source": "AP (via Google)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdm1KQ2ZLdTNrZ2FXVlpWRW8xV29SZ2dhcElNXzlDQkdGSnZ6RU05VThHSFhuVmtBUkRTeUdZazFDSXFUYUhQdDdON2Q3bE1DNFFSeDRUQUp4OGNzYkRHczNQOVkyQzVyVndNOUJmdGxCLUJjdjBNR01Jb2Fnc3FJSXIzeTctcnprakRZcmxFN0xJTXNN?oc=5"
+    },
+    {
+      "headline": "브라질 대선, '보우소나루家' 재집권 가시화",
+      "summary": "플라비우 보우소나루 상원의원이 브라질 대선 1차 투표에서 깜짝 선두로 올라섰다. 그는 자신이 '재민주화'를 이끌겠다고 밝혔지만, 비판자들은 부친 자이르 보우소나루의 권위주의 노선을 이을 수 있다고 우려한다. 룰라 대통령의 아마존 벌채 억제 성과가 선거에서는 지지로 이어지지 않는 모습이다.",
+      "why": "보우소나루 가문이 집권하면 아마존 환경 정책 후퇴와 함께 2022년 대선 불복 사태 같은 민주주의 제도 흔들기가 재현될 수 있다는 우려가 나온다.",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/07/another-coup-detat-fears-grow-as-flavio-bolsonaro-vows-to-re-democratise-brazil-election"
+    },
+    {
+      "headline": "가자 공격 3주기, 이스라엘 내 책임론 재점화",
+      "summary": "하마스 주도 공격 3주년을 맞아 이스라엘 전역에서 추모 행사가 열렸다. 네타냐후 총리는 당시 안보 실패에 대한 개인적 책임이나 국가 차원 조사 지시를 거부하고 있다. 유가족과 시민들은 진상 규명과 책임자 처벌을 요구하고 있다.",
+      "why": "책임 공방이 길어지면서 이스라엘 내 정치적 균열이 가자 전쟁 이후 재건 논의에도 영향을 줄 수 있다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "headline": "라오스에 中 공군기지, 동남아 세력권 확장 신호",
+      "summary": "상업 위성사진에 라오스의 새 중국군 시설에 경공격기 8대가 배치된 모습이 포착됐다. 이 시설은 지난주 '지원·훈련센터'로 개소했으며, 중국은 특정 제3국을 겨냥한 것이 아니라고 해명했다. 이는 중국 공군이 동남아 본토에 처음으로 발판을 마련한 사례다.",
+      "why": "메콩 지역에서 중국의 군사적 영향력이 확대되는 신호로, 주변국과 미국의 안보 전략 재검토를 촉발할 수 있다.",
+      "source": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/07/satellite-images-attack-jets-china-military-facility-laos"
+    },
+    {
+      "headline": "스페인 강제퇴거 87세 할머니 끝내 사망",
+      "summary": "지난달 70년 넘게 살던 집에서 들것에 실려 강제 퇴거당한 87세 여성 마리카르멘 아바스칼이 결국 숨졌다고 노조 측이 밝혔다. 이 사건은 스페인 전역에서 주거권 시위를 촉발시켰다. 고령자 강제집행 방식에 대한 비판이 거세지고 있다.",
+      "why": "스페인의 주택난과 임대료 급등이 사회적 뇌관으로 떠오르며, 정부의 주거 정책 개편 압박이 커질 전망이다.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "ai": [
+    {
+      "headline": "OpenAI, GPT-6와 '지능형 UI' 전면 공개",
+      "summary": "OpenAI가 GPT-6 출시와 함께 ChatGPT에 '인텔리전트 UI'를 전면 적용한다고 발표했다. 텍스트 답변에 도표, 차트, 버튼 등 상호작용 요소를 결합해 보여주는 방식이다. 모든 사용자에게 순차 적용된다.",
+      "why": "챗봇 UX가 텍스트 중심에서 시각적·상호작용형으로 전환되는 분기점이 될 수 있다. 경쟁사들의 인터페이스 전략에도 영향을 줄 전망이다.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
+    },
+    {
+      "headline": "마이크로소프트, 엔비디아 칩 탑재 AI PC 공개",
+      "summary": "마이크로소프트가 엔비디아 RTX Spark 칩 기반의 Surface Laptop Ultra를 공개했다. 8코어 CPU, 24GB 램 구성이 2599달러부터 시작한다. 코파일럿도 PC 내 파일 접근과 OS 전반 작업 수행 권한을 갖는 '하이브리드 인텔리전스'로 업그레이드됐다.",
+      "why": "AI 에이전트가 운영체제 수준까지 통제권을 넓히면서, 개인정보·보안 우려와 함께 PC 교체 수요를 자극할 수 있다.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced"
+    },
+    {
+      "headline": "삼성전자, AI 호황에 분기 영업익 80조원 전망",
+      "summary": "삼성전자가 AI 반도체 수요 급증에 힘입어 분기 영업이익이 약 80조원에 달할 것으로 예고했다. 이는 사상 어느 기술기업의 분기 실적보다도 높은 수준이라고 로이터는 전했다.",
+      "why": "메모리 반도체 슈퍼사이클이 본격화됐다는 신호로, 글로벌 AI 인프라 투자 열기가 당분간 지속될 가능성을 시사한다.",
+      "source": "Reuters (via Google)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM00tZmVPZWtsRV9qcGV1VEtMajUtWXVxZlZVdU9HblZLWHBTZjNtQ0NuZHBJRjFOX2ktN0VkUmFERDBwNnhySHNPNTZ6bmZnZ08tTTN6WlhsMi1vR1Fnb2NBa2ZCZXNlcjRPOE1SVERxYnhJeGZmN0s1V0ZWWW4wSU45Z3gxRTBXZGVwRVpDX2F5Vm1aMzhDODI5cDFXU2RhX0pBOHpfeFNqNjg?oc=5"
+    },
+    {
+      "headline": "'ChatGPT 틴즈', 위기 상황에도 대화 유도 논란",
+      "summary": "테크크런치 테스트 결과 ChatGPT 틴즈의 안전장치에도 불구하고 챗봇이 정신건강 위기 상황에서조차 계속 대화를 유도하는 것으로 나타났다. 아동 안전 비영리단체 커먼센스미디어도 이 서비스를 '수용 불가능한 위험'으로 규정했다. OpenAI는 8월 보호장치와 함께 이 모드를 도입한 바 있다.",
+      "why": "청소년 대상 AI 챗봇의 정서적 의존·안전 문제가 규제 압박으로 이어질 가능성이 커지고 있다. 캐나다 학교 총격 사건에서 ChatGPT가 거론된 데 이어 신뢰 위기가 겹치는 모습이다.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/"
+    },
+    {
+      "headline": "메타·MS, 직원들의 '클로드' 사용 줄이기 나서",
+      "summary": "메타와 마이크로소프트가 직원들의 앤트로픽 클로드 AI 사용을 억제하는 조치에 나선 것으로 알려졌다. 두 회사 모두 자체 AI 도구(코파일럿, 메타 AI) 사용을 우선시하려는 것으로 해석된다. 해커뉴스에서 285개 댓글이 달리며 화제가 됐다.",
+      "why": "빅테크들이 경쟁사 AI 도구에 대한 내부 의존도를 통제하려는 움직임으로, 기업용 AI 시장의 플랫폼 경쟁이 한층 치열해지고 있음을 보여준다.",
+      "source": "Hacker News",
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/"
+    }
+  ],
+  "quick": [
+    "일본 4대 맥주회사, 가격담합 의혹으로 당국 압수수색",
+    "아마존, 유통부문 중심 추가 감원 단행",
+    "Fed 9월 의사록, 연내 추가 금리인상 가능성 시사",
+    "화학 노벨상, 생명 비대칭성 밝힌 佛·日 과학자에게",
+    "컴퓨팅 선구자 마거릿 해밀턴 별세"
+  ]
+}
