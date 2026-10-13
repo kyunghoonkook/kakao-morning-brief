@@ -1,0 +1,54 @@
+name: 카카오 토큰 재발급
+
+# 리프레시 토큰이 만료·폐기됐을 때(KOE322) 쓴다. 동의 후 주소창의 code만 넣으면
+# REST API 키·Client Secret은 저장소 시크릿에서 꺼내 교환하고, 새 리프레시 토큰을 시크릿에 바로 넣는다.
+# 키와 토큰이 로그·클립보드에 나오지 않는다.
+on:
+  workflow_dispatch:
+    inputs:
+      code:
+        description: "동의 후 이동한 주소의 ?code= 값 (몇 분 안에 만료)"
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  token:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: GH_PAT로 시크릿을 쓸 수 있는지 먼저 확인
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          if [ -z "$GH_TOKEN" ] || ! gh secret set GH_PAT_CHECK --repo "$GITHUB_REPOSITORY" --body "$(date -u +%FT%TZ)" >/dev/null 2>&1; then
+            echo "::error::GH_PAT가 없거나 만료·권한 부족입니다. 인가 코드를 쓰기 전에 멈춥니다 - Secrets 쓰기 권한의 PAT로 바꾼 뒤 동의부터 다시 하세요."
+            exit 1
+          fi
+
+      - name: 인가 코드로 리프레시 토큰을 받아 시크릿에 저장
+        env:
+          KAKAO_REST_API_KEY: ${{ secrets.KAKAO_REST_API_KEY }}
+          KAKAO_CLIENT_SECRET: ${{ secrets.KAKAO_CLIENT_SECRET }}
+          REDIRECT_URI: ${{ vars.PAGES_BASE_URL }}/
+          CODE: ${{ inputs.code }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          set -euo pipefail
+          args=(-d grant_type=authorization_code
+            --data-urlencode "client_id=$KAKAO_REST_API_KEY"
+            --data-urlencode "redirect_uri=$REDIRECT_URI"
+            --data-urlencode "code=$CODE")
+          if [ -n "${KAKAO_CLIENT_SECRET:-}" ]; then
+            args+=(--data-urlencode "client_secret=$KAKAO_CLIENT_SECRET")
+          fi
+          resp=$(curl -sS -X POST https://kauth.kakao.com/oauth/token "${args[@]}")
+          token=$(printf '%s' "$resp" | jq -r '.refresh_token // empty')
+          if [ -z "$token" ]; then
+            echo "::error::토큰 교환 실패: $(printf '%s' "$resp" | jq -c '{error, error_code, error_description}')"
+            exit 1
+          fi
+          echo "::add-mask::$token"
+          gh secret set KAKAO_REFRESH_TOKEN --repo "$GITHUB_REPOSITORY" --body "$token"
+          echo "KAKAO_REFRESH_TOKEN을 새 값으로 바꿨습니다. 유효기간 $(printf '%s' "$resp" | jq -r '.refresh_token_expires_in')초."

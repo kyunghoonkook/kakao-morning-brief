@@ -67,6 +67,8 @@ python scripts/get_token.py <REST_API_키> https://<사용자명>.github.io/<저
 
 출력된 `KAKAO_REFRESH_TOKEN`을 GitHub Secret에 저장합니다. 인가 코드는 몇 분 안에 만료되니 바로 ③을 실행하세요.
 
+③ 대신 **Actions → 카카오 토큰 재발급 → Run workflow**에 `code`만 넣어도 됩니다. REST API 키·Client Secret은 저장소 시크릿에서 꺼내 교환하고 새 토큰을 `KAKAO_REFRESH_TOKEN`에 바로 넣습니다(키와 토큰이 로그에 나오지 않습니다). 시작하기 전에 `GH_PAT`로 시크릿을 쓸 수 있는지 먼저 확인합니다.
+
 ## 5. 시크릿과 변수 등록
 
 **Settings → Secrets and variables → Actions**
@@ -129,7 +131,8 @@ Variables 탭:
 | 증상 | 원인 |
 |---|---|
 | `insufficient scopes` (-402) | 동의항목에서 `talk_message` 미설정, 또는 동의를 다시 받아야 함 |
-| 토큰 갱신 400 / `KOE322` | 리프레시 토큰 만료 또는 폐기 → 4단계 재실행 |
+| 토큰 갱신 400 / `KOE322` | 리프레시 토큰 만료 또는 폐기 → 4단계 재실행(③은 "카카오 토큰 재발급" 워크플로) |
+| "GH_PAT로 시크릿을 쓸 수 없습니다" | PAT 만료·권한 부족. 이 저장소 Secrets 읽기/쓰기 권한의 Fine-grained PAT로 `GH_PAT` 교체 |
 | 메시지는 오는데 버튼이 안 열림 | 플랫폼 → Web 사이트 도메인 미등록 |
 | 페이지가 404 | Pages 설정이 `/docs`인지 확인, 첫 커밋 후 1~2분 대기 |
 | 피드 일부 실패 | 정상 동작입니다. 실패한 피드는 건너뛰고 나머지로 브리핑을 만듭니다 |

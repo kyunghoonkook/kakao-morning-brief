@@ -36,13 +36,19 @@ jobs:
       # 카카오는 만료 1개월 전 토큰 갱신 시 새 리프레시 토큰을 발급하고
       # 기존 토큰을 폐기합니다. 새 값을 시크릿에 저장할 PAT가 없으면
       # 토큰 갱신 요청 전에 중단해 유효한 토큰을 잃지 않도록 합니다.
+      # 있기만 한지가 아니라 실제로 시크릿을 쓸 수 있는지 봅니다. 2026-10-07에는 GH_PAT가 있었지만
+      # 인증이 안 돼(HTTP 401) 새로 받은 카카오 토큰을 저장하지 못하고 잃었습니다 - 그 뒤 매일 KOE322.
       - name: 카카오 토큰 자동 갱신 설정 확인
         env:
           DRY_RUN: ${{ inputs.dry_run }}
-          GH_PAT: ${{ secrets.GH_PAT }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
-          if [ "$DRY_RUN" != "true" ] && [ -z "$GH_PAT" ]; then
-            echo "::error::GH_PAT 시크릿이 없습니다. 카카오 리프레시 토큰 자동 저장을 위해 Secrets 쓰기 권한의 PAT를 등록하세요."
+          if [ -n "$GH_TOKEN" ] && gh secret set GH_PAT_CHECK --repo "$GITHUB_REPOSITORY" --body "$(date -u +%FT%TZ)" >/dev/null 2>&1; then
+            echo "GH_PAT로 시크릿을 쓸 수 있습니다."
+          elif [ "$DRY_RUN" = "true" ]; then
+            echo "::warning::GH_PAT로 시크릿을 쓸 수 없습니다. 실제 발송 전에 Secrets 쓰기 권한의 PAT로 바꾸세요."
+          else
+            echo "::error::GH_PAT가 없거나 만료·권한 부족이라 시크릿을 쓸 수 없습니다. 카카오 토큰을 갱신하기 전에 멈춥니다. Secrets 쓰기 권한의 PAT로 바꾼 뒤 다시 실행하세요."
             exit 1
           fi
 
